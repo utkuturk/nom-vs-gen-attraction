@@ -1,0 +1,273 @@
+---
+title: "Experiment Analysis"
+format: 
+  html:
+    embed-resources: true
+editor: visual
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+## Load Data
+
+We first load the raw PCIbex results file. Because PCIbex result files can have variable column counts and comment lines, we read it carefully.
+
+```{r load_data}
+# Define the file path
+file_path <- "results_prod-6.csv"
+
+# Read the file. We will read it as a raw text first to handle the variable rows.
+# However, standard read.csv with fill=TRUE and strict column naming often works if the header structure is known.
+# Given the complex nature, let's read the lines and parse relevant ones.
+
+raw_lines <- readLines(file_path)
+
+# Filter out comment lines that don't start with digits (data lines start with timestamp)
+data_lines <- raw_lines[!grepl("^#", raw_lines)]
+
+# Create a temporary connection
+con <- textConnection(data_lines)
+data <- read.csv(
+    con,
+    header = FALSE,
+    fill = TRUE,
+    col.names = paste0("V", 1:30),
+    stringsAsFactors = FALSE
+)
+close(con)
+
+# View basics
+# head(data)
+```
+
+## Demographics
+
+We extract demographic information. These are typically stored in rows where the `Parameter` (V10) matches demographic field names or the `PennElementName` (V9) is 'demografik'.
+
+```{r demographics}
+# Filter for demographics
+# V6 is Label ("demografik")
+# V9 is Element Name ("Age", "Gender", etc.)
+# V10 is Parameter ("Final", "First", etc.)
+# V11 is Value
+demographics_raw <- data %>%
+    filter(V6 == "demografik") %>%
+    filter(
+        V9 %in%
+            c(
+                "Age",
+                "Gender",
+                "NativeLanguage",
+                "ForeignLanguage",
+                "School",
+                "DominantLanguage"
+            )
+    ) %>%
+    # We prefer the "Final" value if multiple exist
+    filter(V10 == "Final") %>%
+    select(MD5 = V2, Parameter = V9, Value = V11) %>%
+    distinct()
+
+# Pivot to wide format for a clean table
+demographics_table <- demographics_raw %>%
+    group_by(MD5, Parameter) %>%
+    summarise(Value = last(Value), .groups = 'drop') %>%
+    pivot_wider(names_from = Parameter, values_from = Value)
+
+# Check if table is empty
+if (nrow(demographics_table) == 0) {
+    print("No demographic data found matching criteria.")
+} else {
+    # Display
+    print(
+        kable(demographics_table, caption = "Participant Demographics") %>%
+            kable_styling(bootstrap_options = c("striped", "hover"))
+    )
+}
+
+# Summary of Age if numeric
+demographics_table <- demographics_table %>%
+    mutate(Age = as.numeric(as.character(Age)))
+
+age_summary <- demographics_table %>%
+    summarise(
+        Mean_Age = mean(Age, na.rm = TRUE),
+        Min_Age = min(Age, na.rm = TRUE),
+        Max_Age = max(Age, na.rm = TRUE),
+        N = n()
+    )
+
+kable(age_summary, caption = "Age Summary")
+```
+
+## Data Cleaning
+
+Now we extract the trial data. We look for the main experimental and filler trials. 
+Based on the log file structure, the relevant columns for analysis (Condition, Response, RT) start from Column 13.
+
+We will filter for rows that represent the *end* of a trial or contain the logged variables. Typically in PCIbex with `log`, every line for that trial has the logged variables. We just need to pick one line per trial to avoid duplication. The `_Trial_` `End` event or `time limit` `End` event might be duplicated. A safe bet is using the unique `Order` (V4) and `Item_set` (V14) per participant, but simpler is to pick a distinct row type.
+
+Let's inspect the `Item_Type` (V16).
+
+```{r extract_main_data}
+# Select relevant columns for experimental data
+# Columns 1-12 are standard. 13+ are user defined.
+# V13: Part_ID
+# V14: Item_set
+# V15: Order (Logged User Variable) - NOTE: V4 is also order number of item.
+# V16: Item_Type
+# V17: Condition1
+# V18: Condition2
+# V19: Correct_Resp
+# V20: Response
+# V21: RT
+# V22: Group?
+# V23: Sentence
+# V24: Comments?
+
+main_data <- data %>%
+    filter(V16 %in% c("experimental", "filler")) %>%
+    select(
+        Part_ID = V13,
+        Item_Set = V14,
+        Trial_Order = V15,
+        Item_Type = V16,
+        Condition1 = V17,
+        Condition2 = V18,
+        Correct_Resp = V19,
+        Participant_Response = V20,
+        RT = V21,
+        Sentence = V23
+    ) %>%
+    # Filter only unique rows per trial.
+    # Since multiple lines (Start, End, Key press) all have the logs attached, we get duplicates.
+    distinct(Part_ID, Item_Set, Trial_Order, .keep_all = TRUE) %>%
+    mutate(
+        RT = as.numeric(as.character(RT)),
+        # Convert Response to Binary Accuracy/Acceptance
+        # Assuming "Yes" is the target for acceptance or correctness
+        Response_Binary = ifelse(Participant_Response == "Yes", 1, 0),
+        Is_Correct = ifelse(Participant_Response == Correct_Resp, 1, 0)
+    )
+
+# Check data integrity (e.g. valid RTs)
+# Clean outliers or missed responses (No_Response)
+clean_data <- main_data %>%
+    filter(Participant_Response %in% c("Yes", "No")) %>%
+    filter(!is.na(RT))
+
+head(clean_data)
+```
+
+## Descriptive Statistics
+
+### Fillers
+We calculate the accuracy for fillers to check participant quality.
+
+```{r filler_stats}
+filler_stats <- clean_data %>%
+    filter(Item_Type == "filler") %>%
+    group_by(Condition1, Condition2) %>% # Group by filler types if needed
+    summarise(
+        Mean_Accuracy = mean(Is_Correct, na.rm = TRUE),
+        SE_Accuracy = sd(Is_Correct, na.rm = TRUE) / sqrt(n()),
+        Mean_RT = mean(RT, na.rm = TRUE),
+        count = n(),
+        .groups = 'drop'
+    )
+
+kable(filler_stats, caption = "Descriptive Stats for Fillers") %>%
+    kable_styling()
+```
+
+### Experimental Items
+We calculate the "Acceptance Rate" (proportion of 'Yes') for experimental conditions.
+
+```{r exp_stats}
+exp_stats <- clean_data %>%
+    filter(Item_Type == "experimental") %>%
+    group_by(Condition1, Condition2) %>%
+    summarise(
+        Mean_Acceptance = mean(Response_Binary, na.rm = TRUE),
+        SE_Acceptance = sd(Response_Binary, na.rm = TRUE) / sqrt(n()),
+        Mean_RT = mean(RT, na.rm = TRUE),
+        SE_RT = sd(RT, na.rm = TRUE) / sqrt(n()),
+        count = n(),
+        .groups = 'drop'
+    )
+
+kable(exp_stats, caption = "Descriptive Stats for Experimental Conditions") %>%
+    kable_styling()
+```
+
+## Visualization
+
+### Mean and SE Plot (Acceptance)
+
+```{r plot_means}
+# Create a combined Label for plotting if needed, or use facets
+ggplot(exp_stats, aes(x = Condition1, y = Mean_Acceptance, fill = Condition2)) +
+    geom_bar(stat = "identity", position = position_dodge(0.9), width = 0.7) +
+    geom_errorbar(
+        aes(
+            ymin = Mean_Acceptance - SE_Acceptance,
+            ymax = Mean_Acceptance + SE_Acceptance
+        ),
+        width = 0.2,
+        position = position_dodge(0.9)
+    ) +
+    labs(
+        title = "Mean Acceptance by Condition",
+        x = "Condition 1 (Case)",
+        y = "Proportion of 'Yes' Responses",
+        fill = "Condition 2"
+    ) +
+    theme_classic() +
+    ylim(0, 1)
+ggsave("plot_mean_acceptance.png", width = 8, height = 6)
+```
+
+### Box Plot (Reaction Times)
+
+We visualize the specific distribution of Reaction Times (or we could visualize the by-participant means of acceptance if preferred, but RTs are continuous and good for boxplots). If you prefer a boxplot of the binary data (which shows medians), it might be less informative, so I will plot the RTs. If you specifically meant "Box plot for Acceptance rates" (aggregating by participant), I can do that too. Let's do RTs for now as it's standard for boxplots.
+
+```{r plot_boxplot}
+clean_data %>%
+    filter(Item_Type == "experimental") %>%
+    ggplot(aes(x = Condition1, y = RT, fill = Condition2)) +
+    geom_boxplot(outlier.alpha = 0.3) +
+    labs(
+        title = "Reaction Time Distribution by Condition",
+        x = "Condition 1",
+        y = "Reaction Time (ms)",
+        fill = "Condition 2"
+    ) +
+    theme_classic()
+```
+
+### Box Plot (Acceptance by Participant)
+Visualizing the spread of acceptance rates across participants.
+
+```{r plot_boxplot_acc}
+participant_means <- clean_data %>%
+    filter(Item_Type == "experimental") %>%
+    group_by(Part_ID, Condition1, Condition2) %>%
+    summarise(Mean_Acc = mean(Response_Binary), .groups = 'drop')
+
+ggplot(
+    participant_means,
+    aes(x = Condition1, y = Mean_Acc, fill = Condition2)
+) +
+    geom_boxplot() +
+    labs(
+        title = "Distribution of Acceptance Rates (By Participant)",
+        x = "Condition 1",
+        y = "Mean Acceptance Rate",
+        fill = "Condition 2"
+    ) +
+    theme_classic()
+```
