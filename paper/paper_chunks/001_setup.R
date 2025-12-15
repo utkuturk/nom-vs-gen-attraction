@@ -1,0 +1,13 @@
+library(knitr)
+library(tidyverse)
+library(brms)
+library(bayesplot)
+library(tidybayes)
+library(ggridges)
+library(posterior)
+library(glue)
+library(magrittr)
+library(ggplot2)
+
+options(brms.backend = "cmdstanr")
+theme_set(theme_classic())
