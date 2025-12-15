@@ -17,6 +17,12 @@ This repository contains data, scripts, and analysis files for the Nominal vs Ge
 - **`doc/`**: Documentation and references.
 
 ## How to Run
+
+### Replicability
+This project uses `renv` for package management to ensure replicability.
+1.  Open the project in RStudio (or an R console).
+2.  Run `renv::restore()` to install the exact package versions used in this analysis.
+
 The main analysis and manuscript generation are handled by `paper/paper.qmd`. 
 To render the full paper (PDF):
 ```bash

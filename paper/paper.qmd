@@ -75,19 +75,33 @@ library(glue)
 library(magrittr)
 library(ggplot2)
 
+# Random Seed Generator (Random.org)
+makeActiveBinding(
+    "randnum",
+    function() {
+        as.integer(system(
+            "curl -s 'https://www.random.org/integers/?num=1&min=10000000&max=99999999&col=1&base=10&format=plain&ind=new'",
+            intern = TRUE
+        ))
+    },
+    .GlobalEnv
+)
+
+
 options(brms.backend = "cmdstanr")
 theme_set(theme_classic())
 ```
 
 # Introduction
 
-Agreement attraction is a pervasive phenomenon in sentence processing where a verb agrees with a noun phrase other than its grammatical subject. For instance, in the sentence "*The key to the cabinets are rusty*," the plural attractor "cabinets" creates an illusion of acceptability despite the singular subject "key." This phenomenon has been extensively studied to understand the mechanisms of memory retrieval and structural dependency formation during sentence comprehension. 
+Agreement attraction is a pervasive phenomenon in sentence processing where a verb agrees with a noun phrase other than its grammatical subject. For instance, in the sentence "*The key to the cabinets are rusty*," the plural attractor "cabinets" creates an illusion of acceptability despite the singular subject "key." This phenomenon has been extensively studied to understand the mechanisms of memory retrieval and structural dependency formation during sentence comprehension.
 
 ## Models of Agreement Attraction
 
-Two primary classes of theories have been proposed to explain agreement attraction: retrieval-based accounts and probabilistic inference accounts. 
+Two primary classes of theories have been proposed to explain agreement attraction: retrieval-based accounts and probabilistic inference accounts.
 
 ### Retrieval-Based Accounts
+
 Retrieval-based accounts posit that attraction arises from the architectural constraints of the working memory system. Following the cue-based retrieval framework @vasishth2008integration; @wagers2009agreement, dependency formation relies on a content-addressable memory system. When the parser encounters a verb, it initiates a search using a set of retrieval cues. The nature of these cues, however, remains a point of debate, leading to two distinct sets of predictions for the current study.
 
 **1. Surface Feature Cues**: Standard implementations assume that retrieval cues reflect the morphosyntactic features of the expected subject, such as `{+Plural, +Nominative}`. Under this view, attraction is driven by the feature overlap between the attractor and the retrieval cues. Since Turkish subjects are canonically Nominative (bare), a Nominative attractor provides a better match to the `+Nominative` cue than a Genitive attractor. Consequently, a surface feature account predicts **stronger attraction for Nominative (Bare) attractors** than for Genitive attractors.
@@ -95,6 +109,7 @@ Retrieval-based accounts posit that attraction arises from the architectural con
 **2. Structural Controllerhood**: Alternatively, the retrieval system may prioritize items that hold a structural status associated with agreement control. @bhatia2011agreement proposed the "structural controllerhood" hypothesis, suggesting that nouns in positions that typically license agreement are more accessible or "active" in memory. In Turkish, both Nominative subjects and Genitive possessors serve as agreement controllers. If the parser targets "controller-like" structural representations, both attractor types should be strong candidates for retrieval. Thus, the structural controllerhood hypothesis predicts **comparable attraction effects** for both Genitive and Nominative attractors, despite their case differences.
 
 ### Probabilistic Inference and Rational Adaptation
+
 Alternatively, probabilistic inference accounts, often framed within the noisy-channel framework, view language comprehension as a process of rational inference under uncertainty. From this perspective, the parser assumes that the linguistic input is liable to noise (e.g., production errors, perceptual/transmission noise). The goal of the comprehender is to reconstruct the intended message ($S$) given the noisy perceptual input ($I$) by maximizing the posterior probability $P(S|I) \propto P(I|S) P(S)$.
 
 In the context of agreement attraction, the listener might infer that the speaker intended to say a grammatical alternative (e.g., "*The keys to the cabinets are rusty*") but produced an error, or that they misheard the input. Crucially, this inference is sensitive to prior probabilities ($P(S)$). If the context makes a plural subject highly probable, or if the transition from the attractor to a plural verb is highly frequent, the parser is more likely to "hallucinate" a grammatical structure, leading to higher acceptance rates @linzen2016assessing. Thus, under this view, attraction is not a failure of memory, but an optimal adaptation to a noisy environment.
@@ -102,11 +117,10 @@ In the context of agreement attraction, the listener might infer that the speake
 Recent work by @cartner2025number has specifically explored these probabilistic dynamics in Turkish. They argue that the strong predictive validity of Genitive case for upcoming agreement targets should make the parser more sensitive to number mismatches in Genitive constructions. Specifically, if the system is tracking the conditional probability $P(\text{Plural Target} | \text{Attractor})$, the high predictability of the Genitive attractor should lead to stronger "repair" effects when a plural marker is encountered on the verb, predicting a larger attraction effect compared to the less predictive Nominative attractors. This sets up a clear contrast with structural accounts, which predict no such modulation by case-based probabilities.
 
 ## The Present Study: Turkish Possessives
-Turkish offers a unique testing ground for distinguishing these accounts. In Turkish possessive constructions, attractors can be marked with either Genitive (GEN) case or left bare (Nominative/NOM). 
-- **Genitive Attractors**: In phrases like *Mülteci-nin avukat-ı* ('The refugee's lawyer'), the genitive noun is a structural possessor. In Turkish, possessors control agreement on the head noun, making them highly "controller-like" structurally.
-- **Nominative Attractors**: Nominative nouns are the canonical subjects and agreement controllers in the language.
 
-While both are associated with the abstract structural role of being an agreement controller, they differ significantly in their distributional properties. Our corpus analysis (see Results) shows that GEN-marked attractors strongly predict a following plural target (agreement bearer), whereas bare attractors do not. 
+Turkish offers a unique testing ground for distinguishing these accounts. In Turkish possessive constructions, attractors can be marked with either Genitive (GEN) case or left bare (Nominative/NOM). - **Genitive Attractors**: In phrases like *Mülteci-nin avukat-ı* ('The refugee's lawyer'), the genitive noun is a structural possessor. In Turkish, possessors control agreement on the head noun, making them highly "controller-like" structurally. - **Nominative Attractors**: Nominative nouns are the canonical subjects and agreement controllers in the language.
+
+While both are associated with the abstract structural role of being an agreement controller, they differ significantly in their distributional properties. Our corpus analysis (see Results) shows that GEN-marked attractors strongly predict a following plural target (agreement bearer), whereas bare attractors do not.
 
 If attraction is driven by **probabilistic inference** (tracking surface statistics and transitional probabilities), we should see significantly stronger attraction effects with Genitive attractors, which strongly predict plural agreement targets. Conversely, if attraction is driven by **structural controllerhood** (retrieving items that structurally resemble controllers), both Genitive and Nominative attractors should elicit comparable attraction effects, as both represent high-salience controller roles in the Turkish grammar.
 
@@ -115,27 +129,28 @@ In this study, we directly compare these predictions using a speeded acceptabili
 # Methods
 
 ## Participants
+
 Fifty-nine participants were recruited for this study (`N` = 59). All participants were native speakers of Turkish and gave informed consent.
 
 ## Materials
-We constructed 24 sets of experimental items in a 2x3 within-subjects design. The two factors were **Attractor Case** (Genitive vs. Nominative/Bare) and **Agreement Match** (Target Match, Attractor Match, No Match). 
 
-In the **Target Match** condition, the head noun (Target) was plural, and the verb was plural (Grammatical).
-In the **Attractor Match** condition, the attractor was plural, the target was singular, but the verb was plural (Ungrammatical, Attraction).
-In the **No Match** condition, both the target and attractor were singular, and the verb was plural (Ungrammatical, Baseline).
+We constructed 24 sets of experimental items in a 2x3 within-subjects design. The two factors were **Attractor Case** (Genitive vs. Nominative/Bare) and **Agreement Match** (Target Match, Attractor Match, No Match).
 
-The stimuli were constructed such that the Genitive attractor appeared in a possessor position, while the Nominative attractor appeared in a modifier position within the noun phrase. 
+In the **Target Match** condition, the head noun (Target) was plural, and the verb was plural (Grammatical). In the **Attractor Match** condition, the attractor was plural, the target was singular, but the verb was plural (Ungrammatical, Attraction). In the **No Match** condition, both the target and attractor were singular, and the verb was plural (Ungrammatical, Baseline).
+
+The stimuli were constructed such that the Genitive attractor appeared in a possessor position, while the Nominative attractor appeared in a modifier position within the noun phrase.
 
 *Table 1. Example Stimuli*
 
 | Condition | Example Sentence | Gloss |
-|-----------|------------------|-------|
+|---------------------|---------------------------------|------------------|
 | Target Match (GEN) | *Mülteci-nin avukat-lar-ı bağırdılar.* | Refugee-GEN lawyer-PL-POSS shouted. |
 | Attractor Match (GEN) | *Mülteci-ler-in avukat-ı bağırdılar.* | Refugee-PL-GEN lawyer-POSS shouted. |
 | No Match (GEN) | *Mülteci-nin avukat-ı bağırdılar.* | Refugee-GEN lawyer-POSS shouted. |
 
 ## Procedure
-Participants were recruited online and the experiment was hosted on the **PCIBex** farm. The experiment followed a **Latin Square** design, ensuring that each participant saw only one version of each item set, distributed across lists. Sentences were presented word-by-word (RSVP) to ensure timed reading: each word was presented for **300 ms**, and participants had a maximum of **3000 ms** to make their decision. Participants were instructed to judge whether the sentence was acceptable or not as quickly and accurately as possible. 
+
+Participants were recruited online and the experiment was hosted on the **PCIBex** farm. The experiment followed a **Latin Square** design, ensuring that each participant saw only one version of each item set, distributed across lists. Sentences were presented word-by-word (RSVP) to ensure timed reading: each word was presented for **300 ms**, and participants had a maximum of **3000 ms** to make their decision. Participants were instructed to judge whether the sentence was acceptable or not as quickly and accurately as possible.
 
 ```{mermaid}
 %%| fig-cap: "Trial Structure (RSVP Pattern)"
@@ -148,6 +163,7 @@ graph LR
 ```
 
 ## Computational Modeling
+
 To complement our behavioral results, we analyzed the internal representations of Transformer-based Large Language Models (LLMs), specifically BERT, using methods established by @voita2019analyzing and @ryu2025agreement. Recent work in computational psycholinguistics suggests that attention heads in these models can specialize in tracking specific syntactic dependencies, serving as a computational proxy for the "retrieval cues" or structural access mechanisms in human processing.
 
 ```{mermaid}
@@ -164,22 +180,18 @@ graph TD
     Diff --> Res[Attention Difference Score]
 ```
 
-We identified attention heads that reliably track the subject (`nsubj`) dependency in Turkish. For each experimental sentence, we extracted the attention weights from the verb to the **Target Subject** ($w_{target}$) and the **Attractor** ($w_{attractor}$). We calculated the **Attention Difference**: 
-$$ \text{AttnDiff} = w_{attractor} - w_{target} $$
-Positive values indicate that the model attends more to the attractor than the grammatical subject, signaling potential interference or "attraction" in the model's dependency resolution process.
+We identified attention heads that reliably track the subject (`nsubj`) dependency in Turkish. For each experimental sentence, we extracted the attention weights from the verb to the **Target Subject** ($w_{target}$) and the **Attractor** ($w_{attractor}$). We calculated the **Attention Difference**: $$ \text{AttnDiff} = w_{attractor} - w_{target} $$ Positive values indicate that the model attends more to the attractor than the grammatical subject, signaling potential interference or "attraction" in the model's dependency resolution process.
 
 ## Data Analysis
-We analyzed the response accuracy using **Bayesian generalized linear mixed-effects models (GLMM)** with a Bernoulli link function, implemented in the `brms` package in R. The models included fixed effects for Case and Agreement Match, as well as their interaction.
-We employed a custom contrast coding scheme to isolate the relevant theoretical comparisons:
-1.  **Grammaticality**: Comparing the Grammatical condition (Target Match) against the mean of the two Ungrammatical conditions (Attractor Match + No Match). (Weights: 2, -1, -1)
-2.  **Attraction**: Comparing the Attractor Match condition against the No Match baseline within the ungrammatical sentences. (Weights: 0, 1, -1)
-3.  **Case**: Sum-coded (Genitive = 1, Nominative = -1).
+
+We analyzed the response accuracy using **Bayesian generalized linear mixed-effects models (GLMM)** with a Bernoulli link function, implemented in the `brms` package in R. The models included fixed effects for Case and Agreement Match, as well as their interaction. We employed a custom contrast coding scheme to isolate the relevant theoretical comparisons: 1. **Grammaticality**: Comparing the Grammatical condition (Target Match) against the mean of the two Ungrammatical conditions (Attractor Match + No Match). (Weights: 2, -1, -1) 2. **Attraction**: Comparing the Attractor Match condition against the No Match baseline within the ungrammatical sentences. (Weights: 0, 1, -1) 3. **Case**: Sum-coded (Genitive = 1, Nominative = -1).
 
 **Exclusion Criteria**: Participants who performed with less than **80% accuracy on filler items** were excluded from the analysis to ensure data quality. We used a **maximal random effects structure**, including random intercepts and slopes for all fixed effects and their interactions by both participants and items, to ensure the generalizability of our results.
 
 # Results
 
 ## Computational Modeling Results
+
 Figure 1 presents the attention difference scores from the identified "Subject heads" in Turkish BERT. The model shows positive attention difference (interference) for both Genitive and Nominative attractors when they are plural. Crucially, the model does not show a strong preference for the Genitive attractor over the Nominative one; both receive significant attention, mirroring the "structural controllerhood" finding in humans.
 
 ```{r attention_plot, fig.cap="Attention Difference (Attractor - Target) in Turkish BERT. Positive values indicate higher attention to the attractor."}
@@ -192,7 +204,7 @@ if (file.exists(att_file)) {
         summarise(
             mean = mean(attention_diff),
             sem = sd(attention_diff) / sqrt(n()),
-            .groups = 'drop'
+            .groups = "drop"
         )
 
     dodge_width <- 0.8
@@ -229,70 +241,80 @@ if (file.exists(att_file)) {
 ```
 
 ## Data Processing
+
 ```{r load_data}
 file_path <- "../data/experiment/Data59participants.csv"
 num_participants_initial <- 0
 num_participants_final <- 0
 num_excluded <- 0
 
-if(file.exists(file_path)){
+if (file.exists(file_path)) {
     raw_lines <- readLines(file_path)
     data_lines <- raw_lines[!grepl("^#", raw_lines)]
     con <- textConnection(data_lines)
     data <- read.csv(
-      con,
-      header = FALSE,
-      fill = TRUE,
-      col.names = paste0("V", 1:30),
-      stringsAsFactors = FALSE
+        con,
+        header = FALSE,
+        fill = TRUE,
+        col.names = paste0("V", 1:30),
+        stringsAsFactors = FALSE
     )
-    close(con) 
-    
+    close(con)
+
     # Calculate filler accuracy
     filler_data <- data %>%
-      filter(V16 == "filler") %>%
-      select(Part_ID = V13, Correct_Resp = V19, Participant_Response = V20) %>%
-      mutate(Is_Correct = ifelse(Participant_Response == Correct_Resp, 1, 0)) %>%
-      group_by(Part_ID) %>%
-      summarise(accuracy = mean(Is_Correct, na.rm = TRUE))
-    
-    bad_participants <- filler_data %>% filter(accuracy < 0.80) %>% pull(Part_ID)
+        filter(V16 == "filler") %>%
+        select(
+            Part_ID = V13,
+            Correct_Resp = V19,
+            Participant_Response = V20
+        ) %>%
+        mutate(
+            Is_Correct = ifelse(Participant_Response == Correct_Resp, 1, 0)
+        ) %>%
+        group_by(Part_ID) %>%
+        summarise(accuracy = mean(Is_Correct, na.rm = TRUE))
+
+    bad_participants <- filler_data %>%
+        filter(accuracy < 0.80) %>%
+        pull(Part_ID)
     num_excluded <- length(bad_participants)
-    
+
     clean_data <- data %>%
-      filter(V16 == "experimental") %>%
-      select(
-        Part_ID = V13,
-        Item_Set = V14,
-        Trial_Order = V15,
-        Condition1 = V17,
-        Condition2 = V18,
-        Correct_Resp = V19,
-        Participant_Response = V20,
-        RT = V21
-      ) %>%
-      distinct(Part_ID, Item_Set, Trial_Order, .keep_all = TRUE) %>%
-      filter(!Part_ID %in% bad_participants) %>% # Exclude bad participants
-      mutate(
-        RT = as.numeric(as.character(RT)),
-        Response_Binary = ifelse(Participant_Response == "Yes", 1, 0),
-        Is_Correct = ifelse(Participant_Response == Correct_Resp, 1, 0),
-        Condition1 = as.factor(Condition1),
-        Condition2 = as.factor(Condition2)
-      )
-    
+        filter(V16 == "experimental") %>%
+        select(
+            Part_ID = V13,
+            Item_Set = V14,
+            Trial_Order = V15,
+            Condition1 = V17,
+            Condition2 = V18,
+            Correct_Resp = V19,
+            Participant_Response = V20,
+            RT = V21
+        ) %>%
+        distinct(Part_ID, Item_Set, Trial_Order, .keep_all = TRUE) %>%
+        filter(!Part_ID %in% bad_participants) %>% # Exclude bad participants
+        mutate(
+            RT = as.numeric(as.character(RT)),
+            Response_Binary = ifelse(Participant_Response == "Yes", 1, 0),
+            Is_Correct = ifelse(Participant_Response == Correct_Resp, 1, 0),
+            Condition1 = as.factor(Condition1),
+            Condition2 = as.factor(Condition2)
+        )
+
     num_participants_initial <- length(unique(data$V13)) # Subtract 1 if header/logic issue, or just unique IDs
     num_participants_final <- length(unique(clean_data$Part_ID))
     num_items <- length(unique(clean_data$Item_Set))
 } else {
-    clean_data <- data.frame() 
+    clean_data <- data.frame()
 }
 ```
 
-We collected data from `r num_participants_initial` participants. `r num_excluded` participants were excluded due to low accuracy (< 80%) on filler items, leaving a final sample of `r num_participants_final` participants for analysis.
+We collected data from `r num_participants_initial` participants. `r num_excluded` participants were excluded due to low accuracy (\< 80%) on filler items, leaving a final sample of `r num_participants_final` participants for analysis.
 
 ## Descriptive Statistics
-Figure 2 shows the mean acceptance rates across conditions. 
+
+Figure 2 shows the mean acceptance rates across conditions.
 
 ```{r descriptive_stats_calcs}
 if (nrow(clean_data) > 0) {
@@ -384,14 +406,12 @@ if (nrow(clean_data) > 0) {
 ```
 
 ## Corpus Analysis
-To assess the probabilistic predictions, we analyzed the TrTenTen corpus (~4.9 billion words). We calculated the conditional probability of a plural target given a plural attractor for both case markings.
-The results (Table 2) show that a plural target is **more likely** following a plural GEN-marked attractor (24%) compared to a singular one (11.4%). In contrast, for NOM-marked attractors, a plural target is **less likely** following a plural attractor (5%) than a singular one (17%).
-If attraction were driven purely by predictive probability (rational inference), we would expect significantly larger attraction effects for the Genitive condition.
+
+To assess the probabilistic predictions, we analyzed the TrTenTen corpus (\~4.9 billion words). We calculated the conditional probability of a plural target given a plural attractor for both case markings. The results (Table 2) show that a plural target is **more likely** following a plural GEN-marked attractor (24%) compared to a singular one (11.4%). In contrast, for NOM-marked attractors, a plural target is **less likely** following a plural attractor (5%) than a singular one (17%). If attraction were driven purely by predictive probability (rational inference), we would expect significantly larger attraction effects for the Genitive condition.
 
 ## Bayesian Model Results
-We fitted a Bayesian logistic regression model to quantify the effects. We utilized a custom contrast coding scheme:
-1. **Grammaticality**: Target Match vs. (Attractor Match + No Match)
-2. **Attraction**: Attractor Match vs. No Match
+
+We fitted a Bayesian logistic regression model to quantify the effects. We utilized a custom contrast coding scheme: 1. **Grammaticality**: Target Match vs. (Attractor Match + No Match) 2. **Attraction**: Attractor Match vs. No Match
 
 ```{r bayesian_model_setup}
 if (nrow(clean_data) > 0) {
@@ -411,6 +431,10 @@ if (nrow(clean_data) > 0) {
     colnames(contrasts(clean_data$Condition1)) <- c("Case")
 }
 
+# Capture random seed for replicability
+run_seed <- randnum
+# seed is used in brm call below
+
 # Define variables for reporting
 est_attraction <- 0
 prob_attraction <- 0
@@ -421,10 +445,49 @@ ci_att_upper <- 0
 ci_int_lower <- 0
 ci_int_upper <- 0
 
-# Load existing model
-if (file.exists("../data/models/int.model.rds")) {
-    fit <- readRDS("../data/models/int.model.rds")
+# Define Model Formula and Priors
+bf_mod <- bf(
+  Response_Binary ~ Condition1 * Condition2 +
+    (1 + Condition1 * Condition2 | Part_ID) +
+    (1 + Condition1 * Condition2 | Item_Set)
+)
 
+priors <- c(
+  set_prior("normal(0, 1)", class = "b"),
+  set_prior("normal(0, 2)", class = "Intercept"),
+  set_prior("lkj(2)", class = "cor")
+)
+
+# Fit or Load Model
+model_file <- "../data/models/int.model.rds"
+if (file.exists(model_file)) {
+    fit <- readRDS(model_file)
+} else {
+    fit <- brm(
+      formula = bf_mod,
+      data = clean_data,
+      family = bernoulli(link = "logit"),
+      prior = priors,
+      chains = 4,
+      iter = 2000,
+      warmup = 1000,
+      cores = 4,
+      seed = run_seed,
+      file = model_file
+    )
+}
+
+# Define variables for reporting
+est_attraction <- 0
+prob_attraction <- 0
+est_interaction <- 0
+prob_interaction <- 0
+ci_att_lower <- 0
+ci_att_upper <- 0
+ci_int_lower <- 0
+ci_int_upper <- 0
+
+if (exists("fit")) {
     # Extract estimates
     summ <- posterior_summary(fit, pars = "^b_") %>%
         as.data.frame() %>%
@@ -432,31 +495,35 @@ if (file.exists("../data/models/int.model.rds")) {
 
     # Attraction effect (b_Condition2Attraction)
     att_row <- summ %>% filter(Term == "b_Condition2Attraction")
-    est_attraction <- round(att_row$Estimate, 2)
-    ci_att_lower <- round(att_row$Q2.5, 2)
-    ci_att_upper <- round(att_row$Q97.5, 2)
+    if(nrow(att_row) > 0){
+        est_attraction <- round(att_row$Estimate, 2)
+        ci_att_lower <- round(att_row$Q2.5, 2)
+        ci_att_upper <- round(att_row$Q97.5, 2)
+    }
 
     draws <- as_draws_df(fit)
-    prob_attraction <- round(mean(draws$b_Condition2Attraction > 0), 2)
+    if("b_Condition2Attraction" %in% names(draws)){
+         prob_attraction <- round(mean(draws$b_Condition2Attraction > 0), 2)
+    }
 
-    # Interaction effect (b_Condition1Case:Condition2Attraction) - assumes Case contrast matches sum coding in script
-    # Need to verify term name from model or script. Script uses `Condition1Case:Condition2Attraction` or similar.
-    # Checking previous script content: `Term == "b_Condition1Case:Condition2Attraction"`
-
+    # Interaction effect
     int_row <- summ %>% filter(Term == "b_Condition1Case:Condition2Attraction")
     if (nrow(int_row) > 0) {
         est_interaction <- round(int_row$Estimate, 2)
         ci_int_lower <- round(int_row$Q2.5, 2)
         ci_int_upper <- round(int_row$Q97.5, 2)
-        prob_interaction <- round(
-            mean(draws$`b_Condition1Case:Condition2Attraction` > 0),
-            2
-        )
+        
+        if("b_Condition1Case:Condition2Attraction" %in% names(draws)){
+             prob_interaction <- round(
+                mean(draws$`b_Condition1Case:Condition2Attraction` > 0),
+                2
+             )
+        }
     }
 }
 ```
 
-The model summary (Figure 3) reveals a robust main effect of **Attraction** ($\hat{\beta}$ = `r est_attraction`, 95% CrI [`r ci_att_lower`, `r ci_att_upper`], $P(\beta > 0)$ = `r prob_attraction`), confirming the presence of agreement attraction. Crucially, however, the interaction between Case and Attraction was not significant ($\hat{\beta}$ = `r est_interaction`, 95% CrI [`r ci_int_lower`, `r ci_int_upper`], $P(\beta > 0)$ = `r prob_interaction`). This indicates that the magnitude of the attraction effect did not reliably differ between the Genitive and Nominative conditions.
+The model summary (Figure 3) reveals a robust main effect of **Attraction** ($\hat{\beta}$ = `r est_attraction`, 95% CrI \[`r ci_att_lower`, `r ci_att_upper`\], $P(\beta > 0)$ = `r prob_attraction`), confirming the presence of agreement attraction. Crucially, however, the interaction between Case and Attraction was not significant ($\hat{\beta}$ = `r est_interaction`, 95% CrI \[`r ci_int_lower`, `r ci_int_upper`\], $P(\beta > 0)$ = `r prob_interaction`). This indicates that the magnitude of the attraction effect did not reliably differ between the Genitive and Nominative conditions.
 
 ```{r coef_plot, fig.cap="Posterior probabilities of model coefficients."}
 if (exists("fit")) {
@@ -528,25 +595,29 @@ if (exists("fit")) {
 # Discussion
 
 ## Summary of Findings
+
 In this study, we investigated the effect of attractor case on agreement attraction in Turkish possessive constructions. We compared Genitive attractors, which are structural validity predictors of upcoming agreement, against Nominative (bare) attractors, which are the canonical form of subjects. Our primary finding is that both attractor types elicit comparable magnitudes of agreement attraction. Specifically, our Bayesian analysis revealed a robust main effect of Attraction but no significant interaction between Case and Attraction. This null result persists despite the fact that Genitive attractors are much stronger probabilistic predictors of plural targets in the corpus.
 
 ## Theoretical Implications
+
 These results provide critical constraints for models of agreement processing. The lack of modulation by case challenge pure **probabilistic inference** accounts. If the parser were simply tracking the transitional probability $P(\text{Plural Target} | \text{Attractor})$ to repair the string, we would have expected significantly stronger attraction in the Genitive condition, where the attractor strongly signals an upcoming plural head. The uniform attraction effect suggests that the mechanism driving these errors is insensitive to fine-grained co-occurrence statistics of this type.
 
 Instead, the results favor **structural controllerhood** accounts. Both Genitive possessors and Nominative subjects are licensed agreement controllers in Turkish grammar. The parser appears to retrieve candidates based on this abstract structural status—searching for "things that can control agreement"—rather than relying solely on surface feature overlap (which would favor Nominative) or predictive probability (which would favor Genitive). This supports a view of memory retrieval that is structurally constrained, targeting items with specific syntactic licensing properties.
 
 ## LLM and Attention Mechanisms
-Our findings also align with recent insights from computational models. Transformer-based Large Language Models (LLMs), such as BERT, rely on self-attention mechanisms to track dependencies. Previous work has shown that these models often attend to attractors in a way that correlates with human error patterns @linzen2016assessing; @arehalli2020neural. 
-For Turkish, the fact that BERT and similar models attend to both Genitive and Nominative attractors suggests that "attention" in these systems may be capturing the same notion of "structural controllerhood" that humans use. The model learns that both case forms are relevant for agreement computation, and thus distributes attention to them, leading to similar "errors" or interference effects. This provides a computational correlate to the psycholinguistic construct of controllerhood: high attention weights reflect the structural centrality of these case forms in the language's dependency graph.
+
+Our findings also align with recent insights from computational models. Transformer-based Large Language Models (LLMs), such as BERT, rely on self-attention mechanisms to track dependencies. Previous work has shown that these models often attend to attractors in a way that correlates with human error patterns @linzen2016assessing; @arehalli2020neural. For Turkish, the fact that BERT and similar models attend to both Genitive and Nominative attractors suggests that "attention" in these systems may be capturing the same notion of "structural controllerhood" that humans use. The model learns that both case forms are relevant for agreement computation, and thus distributes attention to them, leading to similar "errors" or interference effects. This provides a computational correlate to the psycholinguistic construct of controllerhood: high attention weights reflect the structural centrality of these case forms in the language's dependency graph.
 
 ## Semantic Constraints on Attraction
-Finally, the behavior of the Nominative attractors speaks to the debate on the role of semantic integration in agreement. In English, compounds like *rat-eater* are standard, whereas *rats-eater* is typically disallowed, suggesting that plural features are not semantically interpreted inside such tight modifiers. Similarly, in our Turkish materials, interpreting the bare attractor as a subject would yield a semantically anomalous meaning (e.g., interpreting "The refugee's lawyer" as "The refugee [who is the lawyer]"), akin to the "rat-eater" constraint where the modifier does not serve as the independent argument.
+
+Finally, the behavior of the Nominative attractors speaks to the debate on the role of semantic integration in agreement. In English, compounds like *rat-eater* are standard, whereas *rats-eater* is typically disallowed, suggesting that plural features are not semantically interpreted inside such tight modifiers. Similarly, in our Turkish materials, interpreting the bare attractor as a subject would yield a semantically anomalous meaning (e.g., interpreting "The refugee's lawyer" as "The refugee \[who is the lawyer\]"), akin to the "rat-eater" constraint where the modifier does not serve as the independent argument.
 
 Some accounts, such as @patson2016misinterpretation, argue that attraction involves a "good-enough" reanalysis or misinterpretation, where the parser briefly entertains the ungrammatical dependency as a valid, meaningful alternative (i.e., actually interpreting the attractor as the subject). If this were the case, the gross semantic implausibility of the Nominative attractor interpretation should block attraction, or at least significantly reduce it compared to the semantically more viable Genitive possessor.
 
 However, our results show robust attraction for these semantically "abnormal" Nominative attractors. This aligns more closely with retrieval-based accounts that posit attraction as a fast, automatic error in the retrieval mechanism itself, rather than a full reanalysis or misinterpretation @schlueter2019error; @parker2018memory. The parser retrieves the attractor because it matches the structural/morphological retrieval cues (specifically, checking for a "subject-like" controller), but this retrieval does not necessarily imply that the system has successfully integrated the attractor into a coherent, meaningful interpretation of the sentence. Thus, the persistence of attraction in the face of semantic implausibility supports the view that the agreement mechanism is encapsulated from fine-grained semantic plausibility checks during the initial retrieval phase.
 
 # Conclusion
+
 We found similar rates of agreement attraction with two differently case-marked attractors in Turkish. Despite differences in their predictive validity for plural targets, both Genitive and Nominative attractors elicited comparable error rates. This supports a view of sentence processing where structural properties—specifically, the potential to control agreement—weigh heavier than surface probabilistic cues in driving memory retrieval and agreement computation.
 
 # References

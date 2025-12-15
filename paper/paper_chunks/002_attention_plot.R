@@ -7,7 +7,7 @@ if (file.exists(att_file)) {
         summarise(
             mean = mean(attention_diff),
             sem = sd(attention_diff) / sqrt(n()),
-            .groups = 'drop'
+            .groups = "drop"
         )
 
     dodge_width <- 0.8
