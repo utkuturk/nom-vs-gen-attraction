@@ -1,3 +1,5 @@
+# taken from https://gist.github.com/utkuturk/3e688db557e1a21fcd0461836fdffe6d
+
 split_chunks <- function(qmd_file) {
     # force the folder name to be based on the file name
     output_dir <- paste0(tools::file_path_sans_ext(qmd_file), "_chunks")

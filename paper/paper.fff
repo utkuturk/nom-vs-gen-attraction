@@ -1,0 +1,39 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+
+\caption{Attention Difference (Attractor - Target) in Turkish BERT.
+Positive values indicate higher attention to the attractor.}
+
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{paper_files/figure-pdf/attention_plot-1.pdf}}
+
+}
+
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+
+\caption{Mean percentages of `Yes' responses. Error bars represent
+standard errors.}
+
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{paper_files/figure-pdf/descriptive_plot-1.pdf}}
+
+}
+
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+
+\caption{Posterior probabilities of model coefficients.}
+
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{paper_files/figure-pdf/coef_plot-1.pdf}}
+
+}
+
+\end{figure*}

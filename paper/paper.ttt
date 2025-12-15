@@ -1,0 +1,23 @@
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.2917}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.4444}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.2639}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Condition
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Example Sentence
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Gloss
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Target Match (GEN) & \emph{Mülteci-nin avukat-lar-ı bağırdılar.} &
+Refugee-GEN lawyer-PL-POSS shouted. \\
+Attractor Match (GEN) & \emph{Mülteci-ler-in avukat-ı bağırdılar.} &
+Refugee-PL-GEN lawyer-POSS shouted. \\
+No Match (GEN) & \emph{Mülteci-nin avukat-ı bağırdılar.} & Refugee-GEN
+lawyer-POSS shouted. \\
+\end{longtable}
