@@ -1,0 +1,529 @@
+﻿Item_set,Sentence,Item_Type,Case,Number,Correct_Resp,Group,Exp_No
+1,Göçmenin sözcüleri geçen hafta protestoda aralıksız bağırdılar.,experimental,gen,targetMatch,Yes,A,Exp1
+1,Göçmenlerin sözcüsü geçen hafta protestoda aralıksız bağırdılar.,experimental,gen,attractorMatch,No,B,Exp1
+1,Göçmenin sözcüsü geçen hafta protestoda aralıksız bağırdılar.,experimental,gen,noMatch,No,C,Exp1
+1,Göçmen sözcüleri geçen hafta protestoda aralıksız bağırdılar.,experimental,nom,targetMatch,Yes,D,Exp1
+1,Göçmenler sözcüsü geçen hafta protestoda aralıksız bağırdılar.,experimental,nom,attractorMatch,No,E,Exp1
+1,Göçmen sözcüsü geçen hafta protestoda aralıksız bağırdılar.,experimental,nom,noMatch,No,F,Exp1
+2,Stajyerin temsilcileri bugünkü toplantıda edepsiz edepsiz konuştular.,experimental,gen,targetMatch,Yes,A,Exp1
+2,Stajyerlerin temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,experimental,gen,attractorMatch,No,B,Exp1
+2,Stajyerin temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,experimental,gen,noMatch,No,C,Exp1
+2,Stajyer temsilcileri bugünkü toplantıda edepsiz edepsiz konuştular.,experimental,nom,targetMatch,Yes,D,Exp1
+2,Stajyerler temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,experimental,nom,attractorMatch,No,E,Exp1
+2,Stajyer temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,experimental,nom,noMatch,No,F,Exp1
+3,Esnafın yöneticileri seçimden sonra senatoda sertçe tartıştılar.,experimental,gen,targetMatch,Yes,A,Exp1
+3,Esnafların yöneticisi seçimden sonra senatoda sertçe tartıştılar.,experimental,gen,attractorMatch,No,B,Exp1
+3,Esnafın yöneticisi seçimden sonra senatoda sertçe tartıştılar.,experimental,gen,noMatch,No,C,Exp1
+3,Esnaf yöneticileri seçimden sonra senatoda sertçe tartıştılar.,experimental,nom,targetMatch,Yes,D,Exp1
+3,Esnaflar yöneticisi seçimden sonra senatoda sertçe tartıştılar.,experimental,nom,attractorMatch,No,E,Exp1
+3,Esnaf yöneticisi seçimden sonra senatoda sertçe tartıştılar.,experimental,nom,noMatch,No,F,Exp1
+4,Mültecinin avukatları duruşma için uzun süre hazırlandılar.,experimental,gen,targetMatch,Yes,A,Exp1
+4,Mültecilerin avukatı duruşma için uzun süre hazırlandılar.,experimental,gen,attractorMatch,No,B,Exp1
+4,Mültecinin avukatı duruşma için uzun süre hazırlandılar.,experimental,gen,noMatch,No,C,Exp1
+4,Mülteci avukatları duruşma için uzun süre hazırlandılar.,experimental,nom,targetMatch,Yes,D,Exp1
+4,Mülteciler avukatı duruşma için uzun süre hazırlandılar.,experimental,nom,attractorMatch,No,E,Exp1
+4,Mülteci avukatı duruşma için uzun süre hazırlandılar.,experimental,nom,noMatch,No,F,Exp1
+5,Padişahın tarihçileri yolculuk için yavaşça trene bindiler.,experimental,gen,targetMatch,Yes,B,Exp1
+5,Padişahların tarihçisi yolculuk için yavaşça trene bindiler.,experimental,gen,attractorMatch,No,C,Exp1
+5,Padişahın tarihçisi yolculuk için yavaşça trene bindiler.,experimental,gen,noMatch,No,D,Exp1
+5,Padişah tarihçileri yolculuk için yavaşça trene bindiler.,experimental,nom,targetMatch,Yes,E,Exp1
+5,Padişahlar tarihçisi yolculuk için yavaşça trene bindiler.,experimental,nom,attractorMatch,No,F,Exp1
+5,Padişah tarihçisi yolculuk için yavaşça trene bindiler.,experimental,nom,noMatch,No,A,Exp1
+6,Marangozun ustaları çoktan  yeni semtteki atölyeye ulaşmışlar.,experimental,gen,targetMatch,Yes,B,Exp1
+6,Marangozların ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,experimental,gen,attractorMatch,No,C,Exp1
+6,Marangozun ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,experimental,gen,noMatch,No,D,Exp1
+6,Marangoz ustaları çoktan  yeni semtteki atölyeye ulaşmışlar.,experimental,nom,targetMatch,Yes,E,Exp1
+6,Marangozlar ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,experimental,nom,attractorMatch,No,F,Exp1
+6,Marangoz ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,experimental,nom,noMatch,No,A,Exp1
+7,Bakanın sekreterleri utanç içinde koridordaki kapıya yöneldiler.,experimental,gen,targetMatch,Yes,B,Exp1
+7,Bakanların sekreteri utanç içinde koridordaki kapıya yöneldiler.,experimental,gen,attractorMatch,No,C,Exp1
+7,Bakanın sekreteri utanç içinde koridordaki kapıya yöneldiler.,experimental,gen,noMatch,No,D,Exp1
+7,Bakan sekreterleri utanç içinde koridordaki kapıya yöneldiler.,experimental,nom,targetMatch,Yes,E,Exp1
+7,Bakanlar sekreteri utanç içinde koridordaki kapıya yöneldiler.,experimental,nom,attractorMatch,No,F,Exp1
+7,Bakan sekreteri utanç içinde koridordaki kapıya yöneldiler.,experimental,nom,noMatch,No,A,Exp1
+8,Oyuncunun koçları ertesi gün provaya geç geldiler.,experimental,gen,targetMatch,Yes,B,Exp1
+8,Oyuncuların koçu ertesi gün provaya geç geldiler.,experimental,gen,attractorMatch,No,C,Exp1
+8,Oyuncunun koçu ertesi gün provaya geç geldiler.,experimental,gen,noMatch,No,D,Exp1
+8,Oyuncu koçları ertesi gün provaya geç geldiler.,experimental,nom,targetMatch,Yes,E,Exp1
+8,Oyuncular koçu ertesi gün provaya geç geldiler.,experimental,nom,attractorMatch,No,F,Exp1
+8,Oyuncu koçu ertesi gün provaya geç geldiler.,experimental,nom,noMatch,No,A,Exp1
+9,Yatırımcının danışmanları dönem sonundaki toplantıdan öfkeyle çıktılar.,experimental,gen,targetMatch,Yes,C,Exp1
+9,Yatırımcıların danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,experimental,gen,attractorMatch,No,D,Exp1
+9,Yatırımcının danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,experimental,gen,noMatch,No,E,Exp1
+9,Yatırımcı danışmanları dönem sonundaki toplantıdan öfkeyle çıktılar.,experimental,nom,targetMatch,Yes,F,Exp1
+9,Yatırımcılar danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,experimental,nom,attractorMatch,No,A,Exp1
+9,Yatırımcı danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,experimental,nom,noMatch,No,B,Exp1
+10,Mültecinin dostları savaşın ardından yardım çağrısına koştular.,experimental,gen,targetMatch,Yes,C,Exp1
+10,Mültecilerin dostu savaşın ardından yardım çağrısına koştular.,experimental,gen,attractorMatch,No,D,Exp1
+10,Mültecinin dostu savaşın ardından yardım çağrısına koştular.,experimental,gen,noMatch,No,E,Exp1
+10,Mülteci dostları savaşın ardından yardım çağrısına koştular.,experimental,nom,targetMatch,Yes,F,Exp1
+10,Mülteciler dostu savaşın ardından yardım çağrısına koştular.,experimental,nom,attractorMatch,No,A,Exp1
+10,Mülteci dostu savaşın ardından yardım çağrısına koştular.,experimental,nom,noMatch,No,B,Exp1
+11,Sendikacının vekilleri görüşme salonundan hızlı hızlı uzaklaştılar.,experimental,gen,targetMatch,Yes,C,Exp1
+11,Sendikacıların vekili görüşme salonundan hızlı hızlı uzaklaştılar.,experimental,gen,attractorMatch,No,D,Exp1
+11,Sendikacının vekili görüşme salonundan hızlı hızlı uzaklaştılar.,experimental,gen,noMatch,No,E,Exp1
+11,Sendikacı vekilleri görüşme salonundan hızlı hızlı uzaklaştılar.,experimental,nom,targetMatch,Yes,F,Exp1
+11,Sendikacılar vekili görüşme salonundan hızlı hızlı uzaklaştılar.,experimental,nom,attractorMatch,No,A,Exp1
+11,Sendikacı vekili görüşme salonundan hızlı hızlı uzaklaştılar.,experimental,nom,noMatch,No,B,Exp1
+12,Memurun düşmanları kavganın ortasında aniden habersizce kaçtılar.,experimental,gen,targetMatch,Yes,C,Exp1
+12,Memurların düşmanı kavganın ortasında aniden habersizce kaçtılar.,experimental,gen,attractorMatch,No,D,Exp1
+12,Memurun düşmanı kavganın ortasında aniden habersizce kaçtılar.,experimental,gen,noMatch,No,E,Exp1
+12,Memur düşmanları kavganın ortasında aniden habersizce kaçtılar.,experimental,nom,targetMatch,Yes,F,Exp1
+12,Memurlar düşmanı kavganın ortasında aniden habersizce kaçtılar.,experimental,nom,attractorMatch,No,A,Exp1
+12,Memur düşmanı kavganın ortasında aniden habersizce kaçtılar.,experimental,nom,noMatch,No,B,Exp1
+13,Suçlunun avcıları son çatışmada dikkatsizlik yüzünden yaralandılar.,experimental,gen,targetMatch,Yes,D,Exp1
+13,Suçluların avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,experimental,gen,attractorMatch,No,E,Exp1
+13,Suçlunun avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,experimental,gen,noMatch,No,F,Exp1
+13,Suçlu avcıları son çatışmada dikkatsizlik yüzünden yaralandılar.,experimental,nom,targetMatch,Yes,A,Exp1
+13,Suçlular avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,experimental,nom,attractorMatch,No,B,Exp1
+13,Suçlu avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,experimental,nom,noMatch,No,C,Exp1
+14,Sendikacının koordinatörleri yarınki önemli görüşme için hazırlandılar.,experimental,gen,targetMatch,Yes,D,Exp1
+14,Sendikacıların koordinatörü yarınki önemli görüşme için hazırlandılar.,experimental,gen,attractorMatch,No,E,Exp1
+14,Sendikacının koordinatörü yarınki önemli görüşme için hazırlandılar.,experimental,gen,noMatch,No,F,Exp1
+14,Sendikacı koordinatörleri yarınki önemli görüşme için hazırlandılar.,experimental,nom,targetMatch,Yes,A,Exp1
+14,Sendikacılar koordinatörü yarınki önemli görüşme için hazırlandılar.,experimental,nom,attractorMatch,No,B,Exp1
+14,Sendikacı koordinatörü yarınki önemli görüşme için hazırlandılar.,experimental,nom,noMatch,No,C,Exp1
+15,Engellinin bakıcıları ufacık zamma anlamsızca çok sevindiler.,experimental,gen,targetMatch,Yes,D,Exp1
+15,Engellilerin bakıcısı ufacık zamma anlamsızca çok sevindiler.,experimental,gen,attractorMatch,No,E,Exp1
+15,Engellinin bakıcısı ufacık zamma anlamsızca çok sevindiler.,experimental,gen,noMatch,No,F,Exp1
+15,Engelli bakıcıları ufacık zamma anlamsızca çok sevindiler.,experimental,nom,targetMatch,Yes,A,Exp1
+15,Engelliler bakıcısı ufacık zamma anlamsızca çok sevindiler.,experimental,nom,attractorMatch,No,B,Exp1
+15,Engelli bakıcısı ufacık zamma anlamsızca çok sevindiler.,experimental,nom,noMatch,No,C,Exp1
+16,Partnerin terapistleri zor durum karşısında ihtiyatlı davrandılar.,experimental,gen,targetMatch,Yes,D,Exp1
+16,Partnerlerin terapisti zor durum karşısında ihtiyatlı davrandılar.,experimental,gen,attractorMatch,No,E,Exp1
+16,Partnerin terapisti zor durum karşısında ihtiyatlı davrandılar.,experimental,gen,noMatch,No,F,Exp1
+16,Partner terapistleri zor durum karşısında ihtiyatlı davrandılar.,experimental,nom,targetMatch,Yes,A,Exp1
+16,Partnerler terapisti zor durum karşısında ihtiyatlı davrandılar.,experimental,nom,attractorMatch,No,B,Exp1
+16,Partner terapisti zor durum karşısında ihtiyatlı davrandılar.,experimental,nom,noMatch,No,C,Exp1
+17,Sporcunun eğitmenleri yoğun hazırlık döneminden  sonra yoruldular.,experimental,gen,targetMatch,Yes,E,Exp1
+17,Sporcuların eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,experimental,gen,attractorMatch,No,F,Exp1
+17,Sporcunun eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,experimental,gen,noMatch,No,A,Exp1
+17,Sporcu eğitmenleri yoğun hazırlık döneminden  sonra yoruldular.,experimental,nom,targetMatch,Yes,B,Exp1
+17,Sporcular eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,experimental,nom,attractorMatch,No,C,Exp1
+17,Sporcu eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,experimental,nom,noMatch,No,D,Exp1
+18,İşçinin  sorumluları soğuk kış havasından ötürü hastalandılar.,experimental,gen,targetMatch,Yes,E,Exp1
+18,İşçilerin sorumlusu soğuk kış havasından ötürü hastalandılar.,experimental,gen,attractorMatch,No,F,Exp1
+18,İşçinin  sorumlusu soğuk kış havasından ötürü hastalandılar.,experimental,gen,noMatch,No,A,Exp1
+18,İşçi sorumluları soğuk kış havasından ötürü hastalandılar.,experimental,nom,targetMatch,Yes,B,Exp1
+18,İşçiler sorumlusu soğuk kış havasından ötürü hastalandılar.,experimental,nom,attractorMatch,No,C,Exp1
+18,İşçi sorumlusu soğuk kış havasından ötürü hastalandılar.,experimental,nom,noMatch,No,D,Exp1
+19,Bankacının analistleri büyük ölçekte veri karşısında zorlandılar.,experimental,gen,targetMatch,Yes,E,Exp1
+19,Bankacıların analisti büyük ölçekte veri karşısında zorlandılar.,experimental,gen,attractorMatch,No,F,Exp1
+19,Bankacının analisti büyük ölçekte veri karşısında zorlandılar.,experimental,gen,noMatch,No,A,Exp1
+19,Bankacı analistleri büyük ölçekte veri karşısında zorlandılar.,experimental,nom,targetMatch,Yes,B,Exp1
+19,Bankacılar analisti büyük ölçekte veri karşısında zorlandılar.,experimental,nom,attractorMatch,No,C,Exp1
+19,Bankacı analisti büyük ölçekte veri karşısında zorlandılar.,experimental,nom,noMatch,No,D,Exp1
+20,Yazılımcının direktörleri daha etkili bir özet yazdılar.,experimental,gen,targetMatch,Yes,E,Exp1
+20,Yazılımcıların direktörü daha etkili bir özet yazdılar.,experimental,gen,attractorMatch,No,F,Exp1
+20,Yazılımcının direktörü daha etkili bir özet yazdılar.,experimental,gen,noMatch,No,A,Exp1
+20,Yazılımcı direktörleri daha etkili bir özet yazdılar.,experimental,nom,targetMatch,Yes,B,Exp1
+20,Yazılımcılar direktörü daha etkili bir özet yazdılar.,experimental,nom,attractorMatch,No,C,Exp1
+20,Yazılımcı direktörü daha etkili bir özet yazdılar.,experimental,nom,noMatch,No,D,Exp1
+21,İşçinin  denetçileri tüm  üretim  aşamasını dikkatle izlediler.,experimental,gen,targetMatch,Yes,F,Exp1
+21,İşçilerin denetçisi tüm  üretim  aşamasını dikkatle izlediler.,experimental,gen,attractorMatch,No,A,Exp1
+21,İşçinin  denetçisi tüm  üretim  aşamasını dikkatle izlediler.,experimental,gen,noMatch,No,B,Exp1
+21,İşçi denetçileri tüm  üretim  aşamasını dikkatle izlediler.,experimental,nom,targetMatch,Yes,C,Exp1
+21,İşçiler denetçisi tüm  üretim  aşamasını dikkatle izlediler.,experimental,nom,attractorMatch,No,D,Exp1
+21,İşçi denetçisi tüm  üretim  aşamasını dikkatle izlediler.,experimental,nom,noMatch,No,E,Exp1
+22,Engellinin savunucuları yeni bildirgeyi yüksek sesle okudular.,experimental,gen,targetMatch,Yes,F,Exp1
+22,Engellilerin savunucusu yeni bildirgeyi yüksek sesle okudular.,experimental,gen,attractorMatch,No,A,Exp1
+22,Engellinin savunucusu yeni bildirgeyi yüksek sesle okudular.,experimental,gen,noMatch,No,B,Exp1
+22,Engelli savunucuları yeni bildirgeyi yüksek sesle okudular.,experimental,nom,targetMatch,Yes,C,Exp1
+22,Engelliler savunucusu yeni bildirgeyi yüksek sesle okudular.,experimental,nom,attractorMatch,No,D,Exp1
+22,Engelli savunucusu yeni bildirgeyi yüksek sesle okudular.,experimental,nom,noMatch,No,E,Exp1
+23,Personelin müfettişleri işyerindeki derli toplu sistemi beğendiler.,experimental,gen,targetMatch,Yes,F,Exp1
+23,Personellerin müfettişi işyerindeki derli toplu sistemi beğendiler.,experimental,gen,attractorMatch,No,A,Exp1
+23,Personelin müfettişi işyerindeki derli toplu sistemi beğendiler.,experimental,gen,noMatch,No,B,Exp1
+23,Personel müfettişleri işyerindeki derli toplu sistemi beğendiler.,experimental,nom,targetMatch,Yes,C,Exp1
+23,Personeller müfettişi işyerindeki derli toplu sistemi beğendiler.,experimental,nom,attractorMatch,No,D,Exp1
+23,Personel müfettişi işyerindeki derli toplu sistemi beğendiler.,experimental,nom,noMatch,No,E,Exp1
+24,Kiracının arabulucuları hafta boyu sözleşme için çalıştılar.,experimental,gen,targetMatch,Yes,F,Exp1
+24,Kiracıların arabulucusu hafta boyu sözleşme için çalıştılar.,experimental,gen,attractorMatch,No,A,Exp1
+24,Kiracının arabulucusu hafta boyu sözleşme için çalıştılar.,experimental,gen,noMatch,No,B,Exp1
+24,Kiracı arabulucuları hafta boyu sözleşme için çalıştılar.,experimental,nom,targetMatch,Yes,C,Exp1
+24,Kiracılar arabulucusu hafta boyu sözleşme için çalıştılar.,experimental,nom,attractorMatch,No,D,Exp1
+24,Kiracı arabulucusu hafta boyu sözleşme için çalıştılar.,experimental,nom,noMatch,No,E,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,A,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,A,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,A,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,A,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,A,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,A,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,A,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,A,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,A,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,A,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,A,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,A,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,A,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,A,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,A,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,A,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,A,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,A,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,A,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,A,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,A,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,A,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,A,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,A,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,A,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,A,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,A,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,A,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,A,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,A,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,A,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,A,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,A,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,A,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,A,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,A,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,A,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,A,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,A,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,A,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,A,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,A,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,A,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,A,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,A,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,A,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,A,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,A,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,B,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,B,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,B,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,B,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,B,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,B,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,B,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,B,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,B,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,B,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,B,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,B,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,B,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,B,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,B,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,B,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,B,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,B,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,B,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,B,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,B,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,B,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,B,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,B,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,B,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,B,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,B,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,B,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,B,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,B,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,B,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,B,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,B,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,B,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,B,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,B,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,B,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,B,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,B,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,B,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,B,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,B,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,B,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,B,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,B,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,B,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,B,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,B,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,B,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,B,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,B,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,B,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,B,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,B,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,B,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,B,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,B,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,B,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,B,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,B,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,B,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,B,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,B,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,B,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,B,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,B,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,B,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,B,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,B,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,B,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,B,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,B,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,B,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,B,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,B,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,B,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,B,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,B,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,B,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,B,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,B,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,B,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,B,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,B,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,B,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,B,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,B,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,B,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,B,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,B,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,B,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,B,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,B,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,B,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,B,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,B,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,B,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,B,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,B,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,B,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,B,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,B,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,B,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,B,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,B,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,B,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,B,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,B,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,B,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,B,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,B,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,B,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,B,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,B,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,B,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,B,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,B,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,B,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,B,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,B,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,B,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,B,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,B,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,B,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,B,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,B,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,B,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,B,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,B,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,B,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,B,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,B,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,B,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,B,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,B,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,B,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,B,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,B,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,B,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,B,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,B,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,B,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,B,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,B,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,C,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,C,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,C,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,C,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,C,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,C,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,C,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,C,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,C,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,C,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,C,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,C,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,C,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,C,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,C,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,C,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,C,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,C,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,C,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,C,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,C,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,C,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,C,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,C,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,C,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,C,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,C,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,C,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,C,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,C,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,C,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,C,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,C,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,C,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,C,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,C,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,C,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,C,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,C,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,C,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,C,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,C,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,C,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,C,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,C,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,C,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,C,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,C,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,D,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,D,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,D,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,D,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,D,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,D,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,D,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,D,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,D,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,D,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,D,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,D,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,D,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,D,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,D,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,D,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,D,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,D,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,D,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,D,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,D,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,D,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,D,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,D,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,D,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,D,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,D,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,D,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,D,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,D,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,D,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,D,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,D,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,D,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,D,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,D,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,D,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,D,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,D,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,D,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,D,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,D,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,D,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,D,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,D,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,D,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,D,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,D,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,E,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,E,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,E,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,E,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,E,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,E,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,E,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,E,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,E,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,E,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,E,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,E,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,E,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,E,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,E,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,E,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,E,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,E,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,E,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,E,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,E,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,E,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,E,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,E,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,E,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,E,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,E,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,E,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,E,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,E,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,E,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,E,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,E,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,E,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,E,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,E,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,E,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,E,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,E,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,E,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,E,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,E,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,E,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,E,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,E,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,E,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,E,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,E,Exp1
+25,Müttefikler askeri açıdan önemli avantajlara sahiptirler.,filler,PL,PL,Yes,F,Exp1
+26,Yetkililer  havalimanında  daha  etkili bir yaklaşım benimsediler.,filler,PL,PL,Yes,F,Exp1
+27,Avrupalılar Hindistan'ı ararken yanlışlıkla Amerika'yı keşfettiler.,filler,PL,PL,Yes,F,Exp1
+28,Öğrenciler sınavlarda ülke ortalamasının çok üstündeler.,filler,PL,PL,Yes,F,Exp1
+29,Komşular davete katılmayacaklarını kimseye önceden bildirmemişler.,filler,PL,PL,Yes,F,Exp1
+30,Teknisyenler hızlı çalıştıklarından işe tekrar çağırıldılar.,filler,PL,PL,Yes,F,Exp1
+31,Mahalleliler ünlü biri kafeye gelince şok olmuşlar.,filler,PL,PL,Yes,F,Exp1
+32,Şairler seyirci tarafından beğenilmeyince üzüldüler.,filler,PL,PL,Yes,F,Exp1
+33,Patron haftaya bana tüm dosyaları düzenlettirecek.,filler,SG,SG,Yes,F,Exp1
+34,Müdür galiba yeni işi yine  bana kitleyecek.,filler,SG,SG,Yes,F,Exp1
+35,Teyzem pazara gitmeden kuzenimi bana emanet eder.,filler,SG,SG,Yes,F,Exp1
+36,Çocuk dün kedisi kaybolunca çılgına döndü.,filler,SG,SG,Yes,F,Exp1
+37,Menajer dizi setindeki bitmeyen kavgalardan bunalmıştır muhtemelen.,filler,SG,SG,Yes,F,Exp1
+38,Heykeltıraş kırılan vazoyu kolayca yapıştırınca yenisini almadı.,filler,SG,SG,Yes,F,Exp1
+39,Satıcı elmalar kurtlandığı için atmak durumunda kaldı.,filler,SG,SG,Yes,F,Exp1
+40,Tiyatrocu yağmurda ıslanan saçını kurulamaya girişti.,filler,SG,SG,Yes,F,Exp1
+41,Çocuklar filmi onsuz izlediklerinde çok bozuldu.,filler,PL,SG,Yes,F,Exp1
+42,Sekreterler aracılığıyla bana ulaştırılan mesajda hakarete uğradım.,filler,PL,SG,Yes,F,Exp1
+43,Gitaristler tarafından hayranlıkla izlenen müzisyen hayatını kaybetti.,filler,PL,SG,Yes,F,Exp1
+44,Çiftçiler açısından faydalı olan düzenleme maalesef reddedildi.,filler,PL,SG,Yes,F,Exp1
+45,Polisler karşısında çaresiz kalan kadın suskundu.,filler,PL,SG,Yes,F,Exp1
+46,Taksiciler karşısında vali ne yapacağını bilemez haldeydi.,filler,PL,SG,Yes,F,Exp1
+47,Muhasebeciler açısından sorun olmazsa şirket kredi çekecek.,filler,PL,SG,Yes,F,Exp1
+48,Sanatçılar destek verince kameraman kendine geldi.,filler,PL,SG,Yes,F,Exp1
+49,Arkadaşım profesörün öğrencisi başarılı olunca çok sevindi.,filler,SG,SG,Yes,F,Exp1
+50,Garson patronların yemeğini düşürünce yenisini getirdi.,filler,SG,SG,Yes,F,Exp1
+51,Müşteri tamircilerin dükkanını bulamayıp saatlerce sinirle dolaştı.,filler,SG,SG,Yes,F,Exp1
+52,Bakıcı valinin çocukları görünmeyince çok gerilmiş.,filler,SG,SG,Yes,F,Exp1
+53,Sürücü trafik ışıkları birden bozulursa panikler.,filler,SG,SG,Yes,F,Exp1
+54,İzleyici başrol oyuncusunu sokakta görünce çok heyecanlandı.,filler,SG,SG,Yes,F,Exp1
+55,Vali  bölge  meclislerinin  seçimini kurulda belirler.,filler,SG,SG,Yes,F,Exp1
+56,Öğrenci matematik hocasına tekrar sorarak hata yaptı.,filler,SG,SG,Yes,F,Exp1
+57,İşçi dün yaşanan kazada öldüklerinden gazetede okumamış.,filler,SG,SG,No,F,Exp1
+58,Sekreter toplantı notların dikkatle yazmadıklarından sinirlendi.,filler,SG,SG,No,F,Exp1
+59,Ev arkadaşı belki birini kesin görmüşmüş.,filler,SG,SG,No,F,Exp1
+60,Kaptan geminin çarptığından akşam haberlerde izlemedi.,filler,SG,SG,No,F,Exp1
+61,Doktor tarafından hastaya ilaçlı serum takmadığını gördü.,filler,SG,SG,No,F,Exp1
+62,Kadın beğenmediği mücevherlerde hırsızlık olunca ağlaşıldı.,filler,SG,SG,No,F,Exp1
+63,Usta bir gitarist olduğu hayran olundu.,filler,SG,SG,No,F,Exp1
+64,Stajyer ofis malzemelerini dün  alacak biliyorum.,filler,SG,SG,No,F,Exp1
+65,Öğrenciler fizik yüzünden sınıfta bıraktığına yeni öğrendim.,filler,PL,SG,No,F,Exp1
+66,Gazeteciler izleyicinin hemen sonra sahneye çıkılacak.,filler,PL,SG,No,F,Exp1
+67,Veterinerler köpeğe dün itinayla bakacak sandım.,filler,PL,SG,No,F,Exp1
+68,Gazeteciler izlediğimiz haberi dün  paylaşmayacak bence.,filler,PL,SG,No,F,Exp1
+69,Müzisyenler gösteri sonrası  eşini hiç selamlar.,filler,PL,SG,No,F,Exp1
+70,Ziyaretçiler hiçbir gün  mahkumun izni var sandı.,filler,PL,SG,No,F,Exp1
+71,Yetkililer kantindeki kahveye bir  zam daha getirilmedi.,filler,PL,SG,No,F,Exp1
+72,Dansçılar lüks otelde konakladıklarını sanıldı.,filler,PL,SG,No,F,Exp1

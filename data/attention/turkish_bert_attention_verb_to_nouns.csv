@@ -1,0 +1,145 @@
+item,sentence,case,number,attention_to_attractor,attention_to_head,attractor_tokens,head_tokens,verb_tokens,attention_diff
+1,Göçmenin sözcüleri geçen hafta protestoda aralıksız bağırdılar.,gen,targetMatch,0.064715847,0.07397218,"['Göçmen', '##in']","['sözcü', '##leri']","['bağır', '##dılar']",-0.009256333
+1,Göçmenlerin sözcüsü geçen hafta protestoda aralıksız bağırdılar.,gen,attractorMatch,0.081325531,0.11957553,"['Göçmen', '##lerin']",['sözcüsü'],"['bağır', '##dılar']",-0.038249999
+1,Göçmenin sözcüsü geçen hafta protestoda aralıksız bağırdılar.,gen,noMatch,0.092677981,0.102471374,"['Göçmen', '##in']",['sözcüsü'],"['bağır', '##dılar']",-0.009793393
+1,Göçmen sözcüleri geçen hafta protestoda aralıksız bağırdılar.,nom,targetMatch,0.041465998,0.106946185,['Göçmen'],"['sözcü', '##leri']","['bağır', '##dılar']",-0.065480188
+1,Göçmenler sözcüsü geçen hafta protestoda aralıksız bağırdılar.,nom,attractorMatch,0.077920757,0.168693453,"['Göçmen', '##ler']",['sözcüsü'],"['bağır', '##dılar']",-0.090772696
+1,Göçmen sözcüsü geçen hafta protestoda aralıksız bağırdılar.,nom,noMatch,0.05904517,0.140323386,['Göçmen'],['sözcüsü'],"['bağır', '##dılar']",-0.081278216
+2,Stajyerin temsilcileri bugünkü toplantıda edepsiz edepsiz konuştular.,gen,targetMatch,0.116828971,0.092173845,"['Staj', '##yeri', '##n']",['temsilcileri'],"['konuştu', '##lar']",0.024655126
+2,Stajyerlerin temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,gen,attractorMatch,0.091696218,0.091588631,"['Staj', '##yer', '##lerin']",['temsilcisi'],"['konuştu', '##lar']",0.000107586
+2,Stajyerin temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,gen,noMatch,0.109318778,0.090521947,"['Staj', '##yeri', '##n']",['temsilcisi'],"['konuştu', '##lar']",0.018796831
+2,Stajyer temsilcileri bugünkü toplantıda edepsiz edepsiz konuştular.,nom,targetMatch,0.063581854,0.06704969,"['Staj', '##yer']",['temsilcileri'],"['konuştu', '##lar']",-0.003467835
+2,Stajyerler temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,nom,attractorMatch,0.090661451,0.09767551,"['Staj', '##yer', '##ler']",['temsilcisi'],"['konuştu', '##lar']",-0.007014059
+2,Stajyer temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.,nom,noMatch,0.067518651,0.075033411,"['Staj', '##yer']",['temsilcisi'],"['konuştu', '##lar']",-0.00751476
+3,Esnafın yöneticileri seçimden sonra senatoda sertçe tartıştılar.,gen,targetMatch,0.111194782,0.032530792,"['Esnaf', '##ın']",['yöneticileri'],"['tartış', '##tılar']",0.07866399
+3,Esnafların yöneticisi seçimden sonra senatoda sertçe tartıştılar.,gen,attractorMatch,0.07510265,0.039768964,"['Esnaf', '##ların']",['yöneticisi'],"['tartış', '##tılar']",0.035333686
+3,Esnafın yöneticisi seçimden sonra senatoda sertçe tartıştılar.,gen,noMatch,0.104903564,0.046833809,"['Esnaf', '##ın']",['yöneticisi'],"['tartış', '##tılar']",0.058069754
+3,Esnaf yöneticileri seçimden sonra senatoda sertçe tartıştılar.,nom,targetMatch,0.071043223,0.0377598,['Esnaf'],['yöneticileri'],"['tartış', '##tılar']",0.033283424
+3,Esnaflar yöneticisi seçimden sonra senatoda sertçe tartıştılar.,nom,attractorMatch,0.087764069,0.05970037,"['Esnaf', '##lar']",['yöneticisi'],"['tartış', '##tılar']",0.0280637
+3,Esnaf yöneticisi seçimden sonra senatoda sertçe tartıştılar.,nom,noMatch,0.067245655,0.073153742,['Esnaf'],['yöneticisi'],"['tartış', '##tılar']",-0.005908087
+4,Mültecinin avukatları duruşma için uzun süre hazırlandılar.,gen,targetMatch,0.13598609,0.064688757,"['Mült', '##eci', '##nin']",['avukatları'],"['hazırlandı', '##lar']",0.071297333
+4,Mültecilerin avukatı duruşma için uzun süre hazırlandılar.,gen,attractorMatch,0.12243484,0.06260173,"['Mült', '##ecilerin']",['avukatı'],"['hazırlandı', '##lar']",0.059833109
+4,Mültecinin avukatı duruşma için uzun süre hazırlandılar.,gen,noMatch,0.141811043,0.057489548,"['Mült', '##eci', '##nin']",['avukatı'],"['hazırlandı', '##lar']",0.084321495
+4,Mülteci avukatları duruşma için uzun süre hazırlandılar.,nom,targetMatch,0.070013426,0.106729873,"['Mült', '##eci']",['avukatları'],"['hazırlandı', '##lar']",-0.036716446
+4,Mülteciler avukatı duruşma için uzun süre hazırlandılar.,nom,attractorMatch,0.128696993,0.092248961,"['Mült', '##eciler']",['avukatı'],"['hazırlandı', '##lar']",0.036448032
+4,Mülteci avukatı duruşma için uzun süre hazırlandılar.,nom,noMatch,0.072042845,0.105672568,"['Mült', '##eci']",['avukatı'],"['hazırlandı', '##lar']",-0.033629723
+5,Padişahın tarihçileri yolculuk için yavaşça trene bindiler.,gen,targetMatch,0.087493293,0.21663931,"['Padişah', '##ın']","['tarih', '##çileri']","['bin', '##diler']",-0.129146017
+5,Padişahların tarihçisi yolculuk için yavaşça trene bindiler.,gen,attractorMatch,0.090587467,0.139490873,"['Padişah', '##ların']","['tarih', '##çisi']","['bin', '##diler']",-0.048903406
+5,Padişahın tarihçisi yolculuk için yavaşça trene bindiler.,gen,noMatch,0.07791131,0.151505142,"['Padişah', '##ın']","['tarih', '##çisi']","['bin', '##diler']",-0.073593833
+5,Padişah tarihçileri yolculuk için yavaşça trene bindiler.,nom,targetMatch,0.067904577,0.241158202,['Padişah'],"['tarih', '##çileri']","['bin', '##diler']",-0.173253626
+5,Padişahlar tarihçisi yolculuk için yavaşça trene bindiler.,nom,attractorMatch,0.166200846,0.129733309,"['Padişah', '##lar']","['tarih', '##çisi']","['bin', '##diler']",0.036467537
+5,Padişah tarihçisi yolculuk için yavaşça trene bindiler.,nom,noMatch,0.047009408,0.16410467,['Padişah'],"['tarih', '##çisi']","['bin', '##diler']",-0.117095262
+6,Marangozun ustaları çoktan  yeni semtteki atölyeye ulaşmışlar.,gen,targetMatch,0.056364823,0.073251717,"['Mar', '##ang', '##ozu', '##n']","['usta', '##ları']","['ulaşmış', '##lar']",-0.016886894
+6,Marangozların ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,gen,attractorMatch,0.061713383,0.049766269,"['Mar', '##ang', '##oz', '##ların']",['ustası'],"['ulaşmış', '##lar']",0.011947114
+6,Marangozun ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,gen,noMatch,0.044697251,0.04828281,"['Mar', '##ang', '##ozu', '##n']",['ustası'],"['ulaşmış', '##lar']",-0.003585558
+6,Marangoz ustaları çoktan  yeni semtteki atölyeye ulaşmışlar.,nom,targetMatch,0.027666453,0.090848878,"['Mar', '##ang', '##oz']","['usta', '##ları']","['ulaşmış', '##lar']",-0.063182425
+6,Marangozlar ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,nom,attractorMatch,0.046390783,0.064379431,"['Mar', '##ang', '##oz', '##lar']",['ustası'],"['ulaşmış', '##lar']",-0.017988648
+6,Marangoz ustası çoktan  yeni semtteki atölyeye ulaşmışlar.,nom,noMatch,0.022463627,0.062020753,"['Mar', '##ang', '##oz']",['ustası'],"['ulaşmış', '##lar']",-0.039557125
+7,Bakanın sekreterleri utanç içinde koridordaki kapıya yöneldiler.,gen,targetMatch,0.085660085,0.028830633,"['Bakanı', '##n']","['sekreter', '##leri']","['yönel', '##diler']",0.056829453
+7,Bakanların sekreteri utanç içinde koridordaki kapıya yöneldiler.,gen,attractorMatch,0.05378218,0.018448295,"['Bakanlar', '##ın']","['sekreter', '##i']","['yönel', '##diler']",0.035333885
+7,Bakanın sekreteri utanç içinde koridordaki kapıya yöneldiler.,gen,noMatch,0.082397148,0.017829217,"['Bakanı', '##n']","['sekreter', '##i']","['yönel', '##diler']",0.064567931
+7,Bakan sekreterleri utanç içinde koridordaki kapıya yöneldiler.,nom,targetMatch,0.059012122,0.040136583,['Bakan'],"['sekreter', '##leri']","['yönel', '##diler']",0.018875539
+7,Bakanlar sekreteri utanç içinde koridordaki kapıya yöneldiler.,nom,attractorMatch,0.053064898,0.018415675,['Bakanlar'],"['sekreter', '##i']","['yönel', '##diler']",0.034649223
+7,Bakan sekreteri utanç içinde koridordaki kapıya yöneldiler.,nom,noMatch,0.053794455,0.022463009,['Bakan'],"['sekreter', '##i']","['yönel', '##diler']",0.031331446
+8,Oyuncunun koçları ertesi gün provaya geç geldiler.,gen,targetMatch,0.127138868,0.060509868,"['Oyuncu', '##nun']","['koç', '##ları']",['geldiler'],0.066629
+8,Oyuncuların koçu ertesi gün provaya geç geldiler.,gen,attractorMatch,0.128144071,0.05844897,"['Oyuncu', '##ların']","['koç', '##u']",['geldiler'],0.0696951
+8,Oyuncunun koçu ertesi gün provaya geç geldiler.,gen,noMatch,0.157117203,0.072421834,"['Oyuncu', '##nun']","['koç', '##u']",['geldiler'],0.084695369
+8,Oyuncu koçları ertesi gün provaya geç geldiler.,nom,targetMatch,0.040466741,0.076213948,['Oyuncu'],"['koç', '##ları']",['geldiler'],-0.035747208
+8,Oyuncular koçu ertesi gün provaya geç geldiler.,nom,attractorMatch,0.116265833,0.044380434,"['Oyuncu', '##lar']","['koç', '##u']",['geldiler'],0.0718854
+8,Oyuncu koçu ertesi gün provaya geç geldiler.,nom,noMatch,0.048047557,0.087281547,['Oyuncu'],"['koç', '##u']",['geldiler'],-0.03923399
+9,Yatırımcının danışmanları dönem sonundaki toplantıdan öfkeyle çıktılar.,gen,targetMatch,0.040191248,0.036503319,"['Yatırım', '##cının']","['danışman', '##ları']",['çıktılar'],0.003687929
+9,Yatırımcıların danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,gen,attractorMatch,0.06056539,0.040488314,"['Yatırım', '##cıların']",['danışmanı'],['çıktılar'],0.020077076
+9,Yatırımcının danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,gen,noMatch,0.057261027,0.050338991,"['Yatırım', '##cının']",['danışmanı'],['çıktılar'],0.006922036
+9,Yatırımcı danışmanları dönem sonundaki toplantıdan öfkeyle çıktılar.,nom,targetMatch,0.020160016,0.027130738,"['Yatırım', '##cı']","['danışman', '##ları']",['çıktılar'],-0.006970722
+9,Yatırımcılar danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,nom,attractorMatch,0.069545478,0.040829059,"['Yatırım', '##cılar']",['danışmanı'],['çıktılar'],0.028716419
+9,Yatırımcı danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.,nom,noMatch,0.035577744,0.039459433,"['Yatırım', '##cı']",['danışmanı'],['çıktılar'],-0.003881689
+10,Mültecinin dostları savaşın ardından yardım çağrısına koştular.,gen,targetMatch,0.076918736,0.029143339,"['Mült', '##eci', '##nin']",['dostları'],"['koş', '##tular']",0.047775397
+10,Mültecilerin dostu savaşın ardından yardım çağrısına koştular.,gen,attractorMatch,0.06111604,0.026018685,"['Mült', '##ecilerin']",['dostu'],"['koş', '##tular']",0.035097355
+10,Mültecinin dostu savaşın ardından yardım çağrısına koştular.,gen,noMatch,0.073593304,0.023774758,"['Mült', '##eci', '##nin']",['dostu'],"['koş', '##tular']",0.049818546
+10,Mülteci dostları savaşın ardından yardım çağrısına koştular.,nom,targetMatch,0.036493164,0.032316871,"['Mült', '##eci']",['dostları'],"['koş', '##tular']",0.004176293
+10,Mülteciler dostu savaşın ardından yardım çağrısına koştular.,nom,attractorMatch,0.061773703,0.052192245,"['Mült', '##eciler']",['dostu'],"['koş', '##tular']",0.009581458
+10,Mülteci dostu savaşın ardından yardım çağrısına koştular.,nom,noMatch,0.034521181,0.036626536,"['Mült', '##eci']",['dostu'],"['koş', '##tular']",-0.002105355
+11,Sendikacının vekilleri görüşme salonundan hızlı hızlı uzaklaştılar.,gen,targetMatch,0.09358456,0.124143966,"['Sendik', '##acının']","['vekil', '##leri']","['uzaklaş', '##tılar']",-0.030559406
+11,Sendikacıların vekili görüşme salonundan hızlı hızlı uzaklaştılar.,gen,attractorMatch,0.103297681,0.095183492,"['Sendik', '##acı', '##ların']",['vekili'],"['uzaklaş', '##tılar']",0.008114189
+11,Sendikacının vekili görüşme salonundan hızlı hızlı uzaklaştılar.,gen,noMatch,0.098354392,0.104064599,"['Sendik', '##acının']",['vekili'],"['uzaklaş', '##tılar']",-0.005710207
+11,Sendikacı vekilleri görüşme salonundan hızlı hızlı uzaklaştılar.,nom,targetMatch,0.039113846,0.145516753,"['Sendik', '##acı']","['vekil', '##leri']","['uzaklaş', '##tılar']",-0.106402908
+11,Sendikacılar vekili görüşme salonundan hızlı hızlı uzaklaştılar.,nom,attractorMatch,0.080868237,0.11248602,"['Sendik', '##acı', '##lar']",['vekili'],"['uzaklaş', '##tılar']",-0.031617783
+11,Sendikacı vekili görüşme salonundan hızlı hızlı uzaklaştılar.,nom,noMatch,0.050185628,0.126028553,"['Sendik', '##acı']",['vekili'],"['uzaklaş', '##tılar']",-0.075842924
+12,Memurun düşmanları kavganın ortasında aniden habersizce kaçtılar.,gen,targetMatch,0.117819458,0.066612735,"['Memur', '##un']","['düşman', '##ları']","['kaçtı', '##lar']",0.051206723
+12,Memurların düşmanı kavganın ortasında aniden habersizce kaçtılar.,gen,attractorMatch,0.077869356,0.040165588,"['Memur', '##ların']",['düşmanı'],"['kaçtı', '##lar']",0.037703767
+12,Memurun düşmanı kavganın ortasında aniden habersizce kaçtılar.,gen,noMatch,0.116497979,0.039777655,"['Memur', '##un']",['düşmanı'],"['kaçtı', '##lar']",0.076720323
+12,Memur düşmanları kavganın ortasında aniden habersizce kaçtılar.,nom,targetMatch,0.161015004,0.074433967,['Memur'],"['düşman', '##ları']","['kaçtı', '##lar']",0.086581036
+12,Memurlar düşmanı kavganın ortasında aniden habersizce kaçtılar.,nom,attractorMatch,0.099992625,0.0420417,"['Memur', '##lar']",['düşmanı'],"['kaçtı', '##lar']",0.057950925
+12,Memur düşmanı kavganın ortasında aniden habersizce kaçtılar.,nom,noMatch,0.147534341,0.033517472,['Memur'],['düşmanı'],"['kaçtı', '##lar']",0.114016868
+13,Suçlunun avcıları son çatışmada dikkatsizlik yüzünden yaralandılar.,gen,targetMatch,0.085917898,0.119518325,"['Suç', '##lunun']","['avcı', '##ları']","['yaralandı', '##lar']",-0.033600427
+13,Suçluların avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,gen,attractorMatch,0.098539926,0.143003285,"['Suç', '##lular', '##ın']","['avcı', '##sı']","['yaralandı', '##lar']",-0.044463359
+13,Suçlunun avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,gen,noMatch,0.090830624,0.179511905,"['Suç', '##lunun']","['avcı', '##sı']","['yaralandı', '##lar']",-0.088681281
+13,Suçlu avcıları son çatışmada dikkatsizlik yüzünden yaralandılar.,nom,targetMatch,0.048545413,0.120446064,"['Suç', '##lu']","['avcı', '##ları']","['yaralandı', '##lar']",-0.071900651
+13,Suçlular avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,nom,attractorMatch,0.069965407,0.174516901,"['Suç', '##lular']","['avcı', '##sı']","['yaralandı', '##lar']",-0.104551494
+13,Suçlu avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.,nom,noMatch,0.054736868,0.189885765,"['Suç', '##lu']","['avcı', '##sı']","['yaralandı', '##lar']",-0.135148898
+14,Sendikacının koordinatörleri yarınki önemli görüşme için hazırlandılar.,gen,targetMatch,0.059158236,0.063848078,"['Sendik', '##acının']","['koordinatör', '##leri']","['hazırlandı', '##lar']",-0.004689842
+14,Sendikacıların koordinatörü yarınki önemli görüşme için hazırlandılar.,gen,attractorMatch,0.029874809,0.066443369,"['Sendik', '##acı', '##ların']","['koordinatör', '##ü']","['hazırlandı', '##lar']",-0.03656856
+14,Sendikacının koordinatörü yarınki önemli görüşme için hazırlandılar.,gen,noMatch,0.070983566,0.062843509,"['Sendik', '##acının']","['koordinatör', '##ü']","['hazırlandı', '##lar']",0.008140057
+14,Sendikacı koordinatörleri yarınki önemli görüşme için hazırlandılar.,nom,targetMatch,0.032154799,0.08084023,"['Sendik', '##acı']","['koordinatör', '##leri']","['hazırlandı', '##lar']",-0.048685431
+14,Sendikacılar koordinatörü yarınki önemli görüşme için hazırlandılar.,nom,attractorMatch,0.030249348,0.072414175,"['Sendik', '##acı', '##lar']","['koordinatör', '##ü']","['hazırlandı', '##lar']",-0.042164827
+14,Sendikacı koordinatörü yarınki önemli görüşme için hazırlandılar.,nom,noMatch,0.038844276,0.081293352,"['Sendik', '##acı']","['koordinatör', '##ü']","['hazırlandı', '##lar']",-0.042449076
+15,Engellinin bakıcıları ufacık zamma anlamsızca çok sevindiler.,gen,targetMatch,0.134482667,0.064140394,"['Engelli', '##nin']","['bakıcı', '##ları']","['sevin', '##diler']",0.070342273
+15,Engellilerin bakıcısı ufacık zamma anlamsızca çok sevindiler.,gen,attractorMatch,0.144375682,0.078210786,"['Engelliler', '##in']","['bakıcı', '##sı']","['sevin', '##diler']",0.066164896
+15,Engellinin bakıcısı ufacık zamma anlamsızca çok sevindiler.,gen,noMatch,0.129894152,0.075840212,"['Engelli', '##nin']","['bakıcı', '##sı']","['sevin', '##diler']",0.05405394
+15,Engelli bakıcıları ufacık zamma anlamsızca çok sevindiler.,nom,targetMatch,0.072540447,0.080650926,['Engelli'],"['bakıcı', '##ları']","['sevin', '##diler']",-0.008110479
+15,Engelliler bakıcısı ufacık zamma anlamsızca çok sevindiler.,nom,attractorMatch,0.18498379,0.086703278,['Engelliler'],"['bakıcı', '##sı']","['sevin', '##diler']",0.098280512
+15,Engelli bakıcısı ufacık zamma anlamsızca çok sevindiler.,nom,noMatch,0.0730059,0.101242274,['Engelli'],"['bakıcı', '##sı']","['sevin', '##diler']",-0.028236374
+16,Partnerin terapistleri zor durum karşısında ihtiyatlı davrandılar.,gen,targetMatch,0.147722051,0.080942966,"['Part', '##ner', '##in']","['terapi', '##st', '##leri']","['davran', '##dılar']",0.066779085
+16,Partnerlerin terapisti zor durum karşısında ihtiyatlı davrandılar.,gen,attractorMatch,0.149745494,0.07210651,"['Part', '##ner', '##lerin']","['terapi', '##st', '##i']","['davran', '##dılar']",0.077638984
+16,Partnerin terapisti zor durum karşısında ihtiyatlı davrandılar.,gen,noMatch,0.172300473,0.080339588,"['Part', '##ner', '##in']","['terapi', '##st', '##i']","['davran', '##dılar']",0.091960885
+16,Partner terapistleri zor durum karşısında ihtiyatlı davrandılar.,nom,targetMatch,0.050143119,0.120947406,"['Part', '##ner']","['terapi', '##st', '##leri']","['davran', '##dılar']",-0.070804287
+16,Partnerler terapisti zor durum karşısında ihtiyatlı davrandılar.,nom,attractorMatch,0.11458388,0.076439522,"['Part', '##ner', '##ler']","['terapi', '##st', '##i']","['davran', '##dılar']",0.038144358
+16,Partner terapisti zor durum karşısında ihtiyatlı davrandılar.,nom,noMatch,0.060677476,0.121467389,"['Part', '##ner']","['terapi', '##st', '##i']","['davran', '##dılar']",-0.060789913
+17,Sporcunun eğitmenleri yoğun hazırlık döneminden  sonra yoruldular.,gen,targetMatch,0.065397307,0.192996114,"['Spor', '##cunun']","['eğitmen', '##leri']","['yorul', '##dular']",-0.127598807
+17,Sporcuların eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,gen,attractorMatch,0.114782371,0.138259172,"['Spor', '##cuları', '##n']","['eğitmen', '##i']","['yorul', '##dular']",-0.023476802
+17,Sporcunun eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,gen,noMatch,0.070762753,0.199723303,"['Spor', '##cunun']","['eğitmen', '##i']","['yorul', '##dular']",-0.12896055
+17,Sporcu eğitmenleri yoğun hazırlık döneminden  sonra yoruldular.,nom,targetMatch,0.041108489,0.176411673,"['Spor', '##cu']","['eğitmen', '##leri']","['yorul', '##dular']",-0.135303184
+17,Sporcular eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,nom,attractorMatch,0.06352374,0.171235189,"['Spor', '##cular']","['eğitmen', '##i']","['yorul', '##dular']",-0.107711449
+17,Sporcu eğitmeni yoğun hazırlık döneminden  sonra yoruldular.,nom,noMatch,0.049561884,0.180066019,"['Spor', '##cu']","['eğitmen', '##i']","['yorul', '##dular']",-0.130504135
+18,İşçinin  sorumluları soğuk kış havasından ötürü hastalandılar.,gen,targetMatch,0.224305913,0.200248241,"['İşçi', '##nin']","['sorumlu', '##ları']","['hastal', '##and', '##ıla', '##r']",0.024057671
+18,İşçilerin sorumlusu soğuk kış havasından ötürü hastalandılar.,gen,attractorMatch,0.166140974,0.205775455,"['İşçi', '##lerin']",['sorumlusu'],"['hastal', '##and', '##ıla', '##r']",-0.039634481
+18,İşçinin  sorumlusu soğuk kış havasından ötürü hastalandılar.,gen,noMatch,0.212469503,0.197805449,"['İşçi', '##nin']",['sorumlusu'],"['hastal', '##and', '##ıla', '##r']",0.014664054
+18,İşçi sorumluları soğuk kış havasından ötürü hastalandılar.,nom,targetMatch,0.096141204,0.252185345,['İşçi'],"['sorumlu', '##ları']","['hastal', '##and', '##ıla', '##r']",-0.15604414
+18,İşçiler sorumlusu soğuk kış havasından ötürü hastalandılar.,nom,attractorMatch,0.158500716,0.279428214,"['İşçi', '##ler']",['sorumlusu'],"['hastal', '##and', '##ıla', '##r']",-0.120927498
+18,İşçi sorumlusu soğuk kış havasından ötürü hastalandılar.,nom,noMatch,0.095931664,0.328235865,['İşçi'],['sorumlusu'],"['hastal', '##and', '##ıla', '##r']",-0.232304201
+19,Bankacının analistleri büyük ölçekte veri karşısında zorlandılar.,gen,targetMatch,0.085277319,0.113809176,"['Banka', '##cının']","['anal', '##istleri']","['zorlan', '##dılar']",-0.028531857
+19,Bankacıların analisti büyük ölçekte veri karşısında zorlandılar.,gen,attractorMatch,0.089552402,0.125593096,"['Banka', '##cıların']","['anal', '##isti']","['zorlan', '##dılar']",-0.036040694
+19,Bankacının analisti büyük ölçekte veri karşısında zorlandılar.,gen,noMatch,0.077533312,0.130513191,"['Banka', '##cının']","['anal', '##isti']","['zorlan', '##dılar']",-0.052979879
+19,Bankacı analistleri büyük ölçekte veri karşısında zorlandılar.,nom,targetMatch,0.06068588,0.129344568,"['Banka', '##cı']","['anal', '##istleri']","['zorlan', '##dılar']",-0.068658687
+19,Bankacılar analisti büyük ölçekte veri karşısında zorlandılar.,nom,attractorMatch,0.080791473,0.134531066,"['Banka', '##cılar']","['anal', '##isti']","['zorlan', '##dılar']",-0.053739592
+19,Bankacı analisti büyük ölçekte veri karşısında zorlandılar.,nom,noMatch,0.054240551,0.135410458,"['Banka', '##cı']","['anal', '##isti']","['zorlan', '##dılar']",-0.081169907
+20,Yazılımcının direktörleri daha etkili bir özet yazdılar.,gen,targetMatch,0.115839511,0.060945883,"['Yazılım', '##cının']","['direktör', '##leri']","['yazdı', '##lar']",0.054893628
+20,Yazılımcıların direktörü daha etkili bir özet yazdılar.,gen,attractorMatch,0.096200332,0.038993757,"['Yazılım', '##cıların']",['direktörü'],"['yazdı', '##lar']",0.057206575
+20,Yazılımcının direktörü daha etkili bir özet yazdılar.,gen,noMatch,0.116232738,0.032440543,"['Yazılım', '##cının']",['direktörü'],"['yazdı', '##lar']",0.083792195
+20,Yazılımcı direktörleri daha etkili bir özet yazdılar.,nom,targetMatch,0.074371889,0.073439509,"['Yazılım', '##cı']","['direktör', '##leri']","['yazdı', '##lar']",0.000932381
+20,Yazılımcılar direktörü daha etkili bir özet yazdılar.,nom,attractorMatch,0.087756239,0.057572275,"['Yazılım', '##cılar']",['direktörü'],"['yazdı', '##lar']",0.030183963
+20,Yazılımcı direktörü daha etkili bir özet yazdılar.,nom,noMatch,0.084022157,0.043080773,"['Yazılım', '##cı']",['direktörü'],"['yazdı', '##lar']",0.040941384
+21,İşçinin  denetçileri tüm  üretim  aşamasını dikkatle izlediler.,gen,targetMatch,0.037009336,0.070151001,"['İşçi', '##nin']","['denet', '##çileri']","['izledi', '##ler']",-0.033141665
+21,İşçilerin denetçisi tüm  üretim  aşamasını dikkatle izlediler.,gen,attractorMatch,0.035972197,0.028614024,"['İşçi', '##lerin']","['denet', '##çisi']","['izledi', '##ler']",0.007358173
+21,İşçinin  denetçisi tüm  üretim  aşamasını dikkatle izlediler.,gen,noMatch,0.03340704,0.032143038,"['İşçi', '##nin']","['denet', '##çisi']","['izledi', '##ler']",0.001264002
+21,İşçi denetçileri tüm  üretim  aşamasını dikkatle izlediler.,nom,targetMatch,0.022015341,0.1068611,['İşçi'],"['denet', '##çileri']","['izledi', '##ler']",-0.084845759
+21,İşçiler denetçisi tüm  üretim  aşamasını dikkatle izlediler.,nom,attractorMatch,0.05453499,0.036927275,"['İşçi', '##ler']","['denet', '##çisi']","['izledi', '##ler']",0.017607715
+21,İşçi denetçisi tüm  üretim  aşamasını dikkatle izlediler.,nom,noMatch,0.021186288,0.052216358,['İşçi'],"['denet', '##çisi']","['izledi', '##ler']",-0.03103007
+22,Engellinin savunucuları yeni bildirgeyi yüksek sesle okudular.,gen,targetMatch,0.051920354,0.106367946,"['Engelli', '##nin']","['savunu', '##cuları']","['okudu', '##lar']",-0.054447591
+22,Engellilerin savunucusu yeni bildirgeyi yüksek sesle okudular.,gen,attractorMatch,0.037983254,0.074701995,"['Engelliler', '##in']","['savunu', '##cusu']","['okudu', '##lar']",-0.036718741
+22,Engellinin savunucusu yeni bildirgeyi yüksek sesle okudular.,gen,noMatch,0.041127086,0.082947813,"['Engelli', '##nin']","['savunu', '##cusu']","['okudu', '##lar']",-0.041820727
+22,Engelli savunucuları yeni bildirgeyi yüksek sesle okudular.,nom,targetMatch,0.032033525,0.099915698,['Engelli'],"['savunu', '##cuları']","['okudu', '##lar']",-0.067882173
+22,Engelliler savunucusu yeni bildirgeyi yüksek sesle okudular.,nom,attractorMatch,0.027893594,0.100368887,['Engelliler'],"['savunu', '##cusu']","['okudu', '##lar']",-0.072475294
+22,Engelli savunucusu yeni bildirgeyi yüksek sesle okudular.,nom,noMatch,0.028775316,0.0999998,['Engelli'],"['savunu', '##cusu']","['okudu', '##lar']",-0.071224485
+23,Personelin müfettişleri işyerindeki derli toplu sistemi beğendiler.,gen,targetMatch,0.07203082,0.063453421,"['Personeli', '##n']","['müfettiş', '##leri']","['beğen', '##diler']",0.008577399
+23,Personellerin müfettişi işyerindeki derli toplu sistemi beğendiler.,gen,attractorMatch,0.089066647,0.075560041,"['Personel', '##lerin']","['müfettiş', '##i']","['beğen', '##diler']",0.013506606
+23,Personelin müfettişi işyerindeki derli toplu sistemi beğendiler.,gen,noMatch,0.078702204,0.064225204,"['Personeli', '##n']","['müfettiş', '##i']","['beğen', '##diler']",0.014477
+23,Personel müfettişleri işyerindeki derli toplu sistemi beğendiler.,nom,targetMatch,0.028575599,0.10150139,['Personel'],"['müfettiş', '##leri']","['beğen', '##diler']",-0.072925791
+23,Personeller müfettişi işyerindeki derli toplu sistemi beğendiler.,nom,attractorMatch,0.101922348,0.077482007,"['Personel', '##ler']","['müfettiş', '##i']","['beğen', '##diler']",0.024440341
+23,Personel müfettişi işyerindeki derli toplu sistemi beğendiler.,nom,noMatch,0.032343898,0.105196476,['Personel'],"['müfettiş', '##i']","['beğen', '##diler']",-0.072852578
+24,Kiracının arabulucuları hafta boyu sözleşme için çalıştılar.,gen,targetMatch,0.063172676,0.059715487,"['Kira', '##cının']","['arabulu', '##cuları']",['çalıştılar'],0.003457189
+24,Kiracıların arabulucusu hafta boyu sözleşme için çalıştılar.,gen,attractorMatch,0.051626887,0.045866501,"['Kira', '##cıların']","['arabulu', '##cusu']",['çalıştılar'],0.005760387
+24,Kiracının arabulucusu hafta boyu sözleşme için çalıştılar.,gen,noMatch,0.072702393,0.052583344,"['Kira', '##cının']","['arabulu', '##cusu']",['çalıştılar'],0.020119049
+24,Kiracı arabulucuları hafta boyu sözleşme için çalıştılar.,nom,targetMatch,0.032002777,0.070406869,"['Kira', '##cı']","['arabulu', '##cuları']",['çalıştılar'],-0.038404092
+24,Kiracılar arabulucusu hafta boyu sözleşme için çalıştılar.,nom,attractorMatch,0.051614143,0.049386498,"['Kira', '##cılar']","['arabulu', '##cusu']",['çalıştılar'],0.002227645
+24,Kiracı arabulucusu hafta boyu sözleşme için çalıştılar.,nom,noMatch,0.040189251,0.065309852,"['Kira', '##cı']","['arabulu', '##cusu']",['çalıştılar'],-0.025120601

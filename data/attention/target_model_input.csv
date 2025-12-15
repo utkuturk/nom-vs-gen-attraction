@@ -1,0 +1,145 @@
+Item,Case,Number,Attractor,Target,Adv1,Adv2,Adv3,Adv4,Verb,Sentence
+1,gen,targetMatch,Göçmenin,sözcüleri,geçen,hafta,protestoda,aralıksız,bağırdılar.,Göçmenin sözcüleri geçen hafta protestoda aralıksız bağırdılar.
+1,gen,attractorMatch,Göçmenlerin,sözcüsü,geçen,hafta,protestoda,aralıksız,bağırdılar.,Göçmenlerin sözcüsü geçen hafta protestoda aralıksız bağırdılar.
+1,gen,noMatch,Göçmenin,sözcüsü,geçen,hafta,protestoda,aralıksız,bağırdılar.,Göçmenin sözcüsü geçen hafta protestoda aralıksız bağırdılar.
+1,nom,targetMatch,Göçmen,sözcüleri,geçen,hafta,protestoda,aralıksız,bağırdılar.,Göçmen sözcüleri geçen hafta protestoda aralıksız bağırdılar.
+1,nom,attractorMatch,Göçmenler,sözcüsü,geçen,hafta,protestoda,aralıksız,bağırdılar.,Göçmenler sözcüsü geçen hafta protestoda aralıksız bağırdılar.
+1,nom,noMatch,Göçmen,sözcüsü,geçen,hafta,protestoda,aralıksız,bağırdılar.,Göçmen sözcüsü geçen hafta protestoda aralıksız bağırdılar.
+2,gen,targetMatch,Stajyerin,temsilcileri,bugünkü,toplantıda,edepsiz,edepsiz,konuştular.,Stajyerin temsilcileri bugünkü toplantıda edepsiz edepsiz konuştular.
+2,gen,attractorMatch,Stajyerlerin,temsilcisi,bugünkü,toplantıda,edepsiz,edepsiz,konuştular.,Stajyerlerin temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.
+2,gen,noMatch,Stajyerin,temsilcisi,bugünkü,toplantıda,edepsiz,edepsiz,konuştular.,Stajyerin temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.
+2,nom,targetMatch,Stajyer,temsilcileri,bugünkü,toplantıda,edepsiz,edepsiz,konuştular.,Stajyer temsilcileri bugünkü toplantıda edepsiz edepsiz konuştular.
+2,nom,attractorMatch,Stajyerler,temsilcisi,bugünkü,toplantıda,edepsiz,edepsiz,konuştular.,Stajyerler temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.
+2,nom,noMatch,Stajyer,temsilcisi,bugünkü,toplantıda,edepsiz,edepsiz,konuştular.,Stajyer temsilcisi bugünkü toplantıda edepsiz edepsiz konuştular.
+3,gen,targetMatch,Esnafın,yöneticileri,seçimden,sonra,senatoda,sertçe,tartıştılar.,Esnafın yöneticileri seçimden sonra senatoda sertçe tartıştılar.
+3,gen,attractorMatch,Esnafların,yöneticisi,seçimden,sonra,senatoda,sertçe,tartıştılar.,Esnafların yöneticisi seçimden sonra senatoda sertçe tartıştılar.
+3,gen,noMatch,Esnafın,yöneticisi,seçimden,sonra,senatoda,sertçe,tartıştılar.,Esnafın yöneticisi seçimden sonra senatoda sertçe tartıştılar.
+3,nom,targetMatch,Esnaf,yöneticileri,seçimden,sonra,senatoda,sertçe,tartıştılar.,Esnaf yöneticileri seçimden sonra senatoda sertçe tartıştılar.
+3,nom,attractorMatch,Esnaflar,yöneticisi,seçimden,sonra,senatoda,sertçe,tartıştılar.,Esnaflar yöneticisi seçimden sonra senatoda sertçe tartıştılar.
+3,nom,noMatch,Esnaf,yöneticisi,seçimden,sonra,senatoda,sertçe,tartıştılar.,Esnaf yöneticisi seçimden sonra senatoda sertçe tartıştılar.
+4,gen,targetMatch,Mültecinin,avukatları,duruşma,için,uzun,süre,hazırlandılar.,Mültecinin avukatları duruşma için uzun süre hazırlandılar.
+4,gen,attractorMatch,Mültecilerin,avukatı,duruşma,için,uzun,süre,hazırlandılar.,Mültecilerin avukatı duruşma için uzun süre hazırlandılar.
+4,gen,noMatch,Mültecinin,avukatı,duruşma,için,uzun,süre,hazırlandılar.,Mültecinin avukatı duruşma için uzun süre hazırlandılar.
+4,nom,targetMatch,Mülteci,avukatları,duruşma,için,uzun,süre,hazırlandılar.,Mülteci avukatları duruşma için uzun süre hazırlandılar.
+4,nom,attractorMatch,Mülteciler,avukatı,duruşma,için,uzun,süre,hazırlandılar.,Mülteciler avukatı duruşma için uzun süre hazırlandılar.
+4,nom,noMatch,Mülteci,avukatı,duruşma,için,uzun,süre,hazırlandılar.,Mülteci avukatı duruşma için uzun süre hazırlandılar.
+5,gen,targetMatch,Padişahın,tarihçileri,yolculuk,için,yavaşça,trene,bindiler.,Padişahın tarihçileri yolculuk için yavaşça trene bindiler.
+5,gen,attractorMatch,Padişahların,tarihçisi,yolculuk,için,yavaşça,trene,bindiler.,Padişahların tarihçisi yolculuk için yavaşça trene bindiler.
+5,gen,noMatch,Padişahın,tarihçisi,yolculuk,için,yavaşça,trene,bindiler.,Padişahın tarihçisi yolculuk için yavaşça trene bindiler.
+5,nom,targetMatch,Padişah,tarihçileri,yolculuk,için,yavaşça,trene,bindiler.,Padişah tarihçileri yolculuk için yavaşça trene bindiler.
+5,nom,attractorMatch,Padişahlar,tarihçisi,yolculuk,için,yavaşça,trene,bindiler.,Padişahlar tarihçisi yolculuk için yavaşça trene bindiler.
+5,nom,noMatch,Padişah,tarihçisi,yolculuk,için,yavaşça,trene,bindiler.,Padişah tarihçisi yolculuk için yavaşça trene bindiler.
+6,gen,targetMatch,Marangozun,ustaları,çoktan ,yeni,semtteki,atölyeye,ulaşmışlar.,Marangozun ustaları çoktan  yeni semtteki atölyeye ulaşmışlar.
+6,gen,attractorMatch,Marangozların,ustası,çoktan ,yeni,semtteki,atölyeye,ulaşmışlar.,Marangozların ustası çoktan  yeni semtteki atölyeye ulaşmışlar.
+6,gen,noMatch,Marangozun,ustası,çoktan ,yeni,semtteki,atölyeye,ulaşmışlar.,Marangozun ustası çoktan  yeni semtteki atölyeye ulaşmışlar.
+6,nom,targetMatch,Marangoz,ustaları,çoktan ,yeni,semtteki,atölyeye,ulaşmışlar.,Marangoz ustaları çoktan  yeni semtteki atölyeye ulaşmışlar.
+6,nom,attractorMatch,Marangozlar,ustası,çoktan ,yeni,semtteki,atölyeye,ulaşmışlar.,Marangozlar ustası çoktan  yeni semtteki atölyeye ulaşmışlar.
+6,nom,noMatch,Marangoz,ustası,çoktan ,yeni,semtteki,atölyeye,ulaşmışlar.,Marangoz ustası çoktan  yeni semtteki atölyeye ulaşmışlar.
+7,gen,targetMatch,Bakanın,sekreterleri,utanç,içinde,koridordaki,kapıya,yöneldiler.,Bakanın sekreterleri utanç içinde koridordaki kapıya yöneldiler.
+7,gen,attractorMatch,Bakanların,sekreteri,utanç,içinde,koridordaki,kapıya,yöneldiler.,Bakanların sekreteri utanç içinde koridordaki kapıya yöneldiler.
+7,gen,noMatch,Bakanın,sekreteri,utanç,içinde,koridordaki,kapıya,yöneldiler.,Bakanın sekreteri utanç içinde koridordaki kapıya yöneldiler.
+7,nom,targetMatch,Bakan,sekreterleri,utanç,içinde,koridordaki,kapıya,yöneldiler.,Bakan sekreterleri utanç içinde koridordaki kapıya yöneldiler.
+7,nom,attractorMatch,Bakanlar,sekreteri,utanç,içinde,koridordaki,kapıya,yöneldiler.,Bakanlar sekreteri utanç içinde koridordaki kapıya yöneldiler.
+7,nom,noMatch,Bakan,sekreteri,utanç,içinde,koridordaki,kapıya,yöneldiler.,Bakan sekreteri utanç içinde koridordaki kapıya yöneldiler.
+8,gen,targetMatch,Oyuncunun,koçları,ertesi,gün,provaya,geç,geldiler.,Oyuncunun koçları ertesi gün provaya geç geldiler.
+8,gen,attractorMatch,Oyuncuların,koçu,ertesi,gün,provaya,geç,geldiler.,Oyuncuların koçu ertesi gün provaya geç geldiler.
+8,gen,noMatch,Oyuncunun,koçu,ertesi,gün,provaya,geç,geldiler.,Oyuncunun koçu ertesi gün provaya geç geldiler.
+8,nom,targetMatch,Oyuncu,koçları,ertesi,gün,provaya,geç,geldiler.,Oyuncu koçları ertesi gün provaya geç geldiler.
+8,nom,attractorMatch,Oyuncular,koçu,ertesi,gün,provaya,geç,geldiler.,Oyuncular koçu ertesi gün provaya geç geldiler.
+8,nom,noMatch,Oyuncu,koçu,ertesi,gün,provaya,geç,geldiler.,Oyuncu koçu ertesi gün provaya geç geldiler.
+9,gen,targetMatch,Yatırımcının,danışmanları,dönem,sonundaki,toplantıdan,öfkeyle,çıktılar.,Yatırımcının danışmanları dönem sonundaki toplantıdan öfkeyle çıktılar.
+9,gen,attractorMatch,Yatırımcıların,danışmanı,dönem,sonundaki,toplantıdan,öfkeyle,çıktılar.,Yatırımcıların danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.
+9,gen,noMatch,Yatırımcının,danışmanı,dönem,sonundaki,toplantıdan,öfkeyle,çıktılar.,Yatırımcının danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.
+9,nom,targetMatch,Yatırımcı,danışmanları,dönem,sonundaki,toplantıdan,öfkeyle,çıktılar.,Yatırımcı danışmanları dönem sonundaki toplantıdan öfkeyle çıktılar.
+9,nom,attractorMatch,Yatırımcılar,danışmanı,dönem,sonundaki,toplantıdan,öfkeyle,çıktılar.,Yatırımcılar danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.
+9,nom,noMatch,Yatırımcı,danışmanı,dönem,sonundaki,toplantıdan,öfkeyle,çıktılar.,Yatırımcı danışmanı dönem sonundaki toplantıdan öfkeyle çıktılar.
+10,gen,targetMatch,Mültecinin,dostları,savaşın,ardından,yardım,çağrısına,koştular.,Mültecinin dostları savaşın ardından yardım çağrısına koştular.
+10,gen,attractorMatch,Mültecilerin,dostu,savaşın,ardından,yardım,çağrısına,koştular.,Mültecilerin dostu savaşın ardından yardım çağrısına koştular.
+10,gen,noMatch,Mültecinin,dostu,savaşın,ardından,yardım,çağrısına,koştular.,Mültecinin dostu savaşın ardından yardım çağrısına koştular.
+10,nom,targetMatch,Mülteci,dostları,savaşın,ardından,yardım,çağrısına,koştular.,Mülteci dostları savaşın ardından yardım çağrısına koştular.
+10,nom,attractorMatch,Mülteciler,dostu,savaşın,ardından,yardım,çağrısına,koştular.,Mülteciler dostu savaşın ardından yardım çağrısına koştular.
+10,nom,noMatch,Mülteci,dostu,savaşın,ardından,yardım,çağrısına,koştular.,Mülteci dostu savaşın ardından yardım çağrısına koştular.
+11,gen,targetMatch,Sendikacının,vekilleri,görüşme,salonundan,hızlı,hızlı,uzaklaştılar.,Sendikacının vekilleri görüşme salonundan hızlı hızlı uzaklaştılar.
+11,gen,attractorMatch,Sendikacıların,vekili,görüşme,salonundan,hızlı,hızlı,uzaklaştılar.,Sendikacıların vekili görüşme salonundan hızlı hızlı uzaklaştılar.
+11,gen,noMatch,Sendikacının,vekili,görüşme,salonundan,hızlı,hızlı,uzaklaştılar.,Sendikacının vekili görüşme salonundan hızlı hızlı uzaklaştılar.
+11,nom,targetMatch,Sendikacı,vekilleri,görüşme,salonundan,hızlı,hızlı,uzaklaştılar.,Sendikacı vekilleri görüşme salonundan hızlı hızlı uzaklaştılar.
+11,nom,attractorMatch,Sendikacılar,vekili,görüşme,salonundan,hızlı,hızlı,uzaklaştılar.,Sendikacılar vekili görüşme salonundan hızlı hızlı uzaklaştılar.
+11,nom,noMatch,Sendikacı,vekili,görüşme,salonundan,hızlı,hızlı,uzaklaştılar.,Sendikacı vekili görüşme salonundan hızlı hızlı uzaklaştılar.
+12,gen,targetMatch,Memurun,düşmanları,kavganın,ortasında,aniden,habersizce,kaçtılar.,Memurun düşmanları kavganın ortasında aniden habersizce kaçtılar.
+12,gen,attractorMatch,Memurların,düşmanı,kavganın,ortasında,aniden,habersizce,kaçtılar.,Memurların düşmanı kavganın ortasında aniden habersizce kaçtılar.
+12,gen,noMatch,Memurun,düşmanı,kavganın,ortasında,aniden,habersizce,kaçtılar.,Memurun düşmanı kavganın ortasında aniden habersizce kaçtılar.
+12,nom,targetMatch,Memur,düşmanları,kavganın,ortasında,aniden,habersizce,kaçtılar.,Memur düşmanları kavganın ortasında aniden habersizce kaçtılar.
+12,nom,attractorMatch,Memurlar,düşmanı,kavganın,ortasında,aniden,habersizce,kaçtılar.,Memurlar düşmanı kavganın ortasında aniden habersizce kaçtılar.
+12,nom,noMatch,Memur,düşmanı,kavganın,ortasında,aniden,habersizce,kaçtılar.,Memur düşmanı kavganın ortasında aniden habersizce kaçtılar.
+13,gen,targetMatch,Suçlunun,avcıları,son,çatışmada,dikkatsizlik,yüzünden,yaralandılar.,Suçlunun avcıları son çatışmada dikkatsizlik yüzünden yaralandılar.
+13,gen,attractorMatch,Suçluların,avcısı,son,çatışmada,dikkatsizlik,yüzünden,yaralandılar.,Suçluların avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.
+13,gen,noMatch,Suçlunun,avcısı,son,çatışmada,dikkatsizlik,yüzünden,yaralandılar.,Suçlunun avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.
+13,nom,targetMatch,Suçlu,avcıları,son,çatışmada,dikkatsizlik,yüzünden,yaralandılar.,Suçlu avcıları son çatışmada dikkatsizlik yüzünden yaralandılar.
+13,nom,attractorMatch,Suçlular,avcısı,son,çatışmada,dikkatsizlik,yüzünden,yaralandılar.,Suçlular avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.
+13,nom,noMatch,Suçlu,avcısı,son,çatışmada,dikkatsizlik,yüzünden,yaralandılar.,Suçlu avcısı son çatışmada dikkatsizlik yüzünden yaralandılar.
+14,gen,targetMatch,Sendikacının,koordinatörleri,yarınki,önemli,görüşme,için,hazırlandılar.,Sendikacının koordinatörleri yarınki önemli görüşme için hazırlandılar.
+14,gen,attractorMatch,Sendikacıların,koordinatörü,yarınki,önemli,görüşme,için,hazırlandılar.,Sendikacıların koordinatörü yarınki önemli görüşme için hazırlandılar.
+14,gen,noMatch,Sendikacının,koordinatörü,yarınki,önemli,görüşme,için,hazırlandılar.,Sendikacının koordinatörü yarınki önemli görüşme için hazırlandılar.
+14,nom,targetMatch,Sendikacı,koordinatörleri,yarınki,önemli,görüşme,için,hazırlandılar.,Sendikacı koordinatörleri yarınki önemli görüşme için hazırlandılar.
+14,nom,attractorMatch,Sendikacılar,koordinatörü,yarınki,önemli,görüşme,için,hazırlandılar.,Sendikacılar koordinatörü yarınki önemli görüşme için hazırlandılar.
+14,nom,noMatch,Sendikacı,koordinatörü,yarınki,önemli,görüşme,için,hazırlandılar.,Sendikacı koordinatörü yarınki önemli görüşme için hazırlandılar.
+15,gen,targetMatch,Engellinin,bakıcıları,ufacık,zamma,anlamsızca,çok,sevindiler.,Engellinin bakıcıları ufacık zamma anlamsızca çok sevindiler.
+15,gen,attractorMatch,Engellilerin,bakıcısı,ufacık,zamma,anlamsızca,çok,sevindiler.,Engellilerin bakıcısı ufacık zamma anlamsızca çok sevindiler.
+15,gen,noMatch,Engellinin,bakıcısı,ufacık,zamma,anlamsızca,çok,sevindiler.,Engellinin bakıcısı ufacık zamma anlamsızca çok sevindiler.
+15,nom,targetMatch,Engelli,bakıcıları,ufacık,zamma,anlamsızca,çok,sevindiler.,Engelli bakıcıları ufacık zamma anlamsızca çok sevindiler.
+15,nom,attractorMatch,Engelliler,bakıcısı,ufacık,zamma,anlamsızca,çok,sevindiler.,Engelliler bakıcısı ufacık zamma anlamsızca çok sevindiler.
+15,nom,noMatch,Engelli,bakıcısı,ufacık,zamma,anlamsızca,çok,sevindiler.,Engelli bakıcısı ufacık zamma anlamsızca çok sevindiler.
+16,gen,targetMatch,Partnerin,terapistleri,zor,durum,karşısında,ihtiyatlı,davrandılar.,Partnerin terapistleri zor durum karşısında ihtiyatlı davrandılar.
+16,gen,attractorMatch,Partnerlerin,terapisti,zor,durum,karşısında,ihtiyatlı,davrandılar.,Partnerlerin terapisti zor durum karşısında ihtiyatlı davrandılar.
+16,gen,noMatch,Partnerin,terapisti,zor,durum,karşısında,ihtiyatlı,davrandılar.,Partnerin terapisti zor durum karşısında ihtiyatlı davrandılar.
+16,nom,targetMatch,Partner,terapistleri,zor,durum,karşısında,ihtiyatlı,davrandılar.,Partner terapistleri zor durum karşısında ihtiyatlı davrandılar.
+16,nom,attractorMatch,Partnerler,terapisti,zor,durum,karşısında,ihtiyatlı,davrandılar.,Partnerler terapisti zor durum karşısında ihtiyatlı davrandılar.
+16,nom,noMatch,Partner,terapisti,zor,durum,karşısında,ihtiyatlı,davrandılar.,Partner terapisti zor durum karşısında ihtiyatlı davrandılar.
+17,gen,targetMatch,Sporcunun,eğitmenleri,yoğun,hazırlık,döneminden ,sonra,yoruldular.,Sporcunun eğitmenleri yoğun hazırlık döneminden  sonra yoruldular.
+17,gen,attractorMatch,Sporcuların,eğitmeni,yoğun,hazırlık,döneminden ,sonra,yoruldular.,Sporcuların eğitmeni yoğun hazırlık döneminden  sonra yoruldular.
+17,gen,noMatch,Sporcunun,eğitmeni,yoğun,hazırlık,döneminden ,sonra,yoruldular.,Sporcunun eğitmeni yoğun hazırlık döneminden  sonra yoruldular.
+17,nom,targetMatch,Sporcu,eğitmenleri,yoğun,hazırlık,döneminden ,sonra,yoruldular.,Sporcu eğitmenleri yoğun hazırlık döneminden  sonra yoruldular.
+17,nom,attractorMatch,Sporcular,eğitmeni,yoğun,hazırlık,döneminden ,sonra,yoruldular.,Sporcular eğitmeni yoğun hazırlık döneminden  sonra yoruldular.
+17,nom,noMatch,Sporcu,eğitmeni,yoğun,hazırlık,döneminden ,sonra,yoruldular.,Sporcu eğitmeni yoğun hazırlık döneminden  sonra yoruldular.
+18,gen,targetMatch,İşçinin ,sorumluları,soğuk,kış,havasından,ötürü,hastalandılar.,İşçinin  sorumluları soğuk kış havasından ötürü hastalandılar.
+18,gen,attractorMatch,İşçilerin,sorumlusu,soğuk,kış,havasından,ötürü,hastalandılar.,İşçilerin sorumlusu soğuk kış havasından ötürü hastalandılar.
+18,gen,noMatch,İşçinin ,sorumlusu,soğuk,kış,havasından,ötürü,hastalandılar.,İşçinin  sorumlusu soğuk kış havasından ötürü hastalandılar.
+18,nom,targetMatch,İşçi,sorumluları,soğuk,kış,havasından,ötürü,hastalandılar.,İşçi sorumluları soğuk kış havasından ötürü hastalandılar.
+18,nom,attractorMatch,İşçiler,sorumlusu,soğuk,kış,havasından,ötürü,hastalandılar.,İşçiler sorumlusu soğuk kış havasından ötürü hastalandılar.
+18,nom,noMatch,İşçi,sorumlusu,soğuk,kış,havasından,ötürü,hastalandılar.,İşçi sorumlusu soğuk kış havasından ötürü hastalandılar.
+19,gen,targetMatch,Bankacının,analistleri,büyük,ölçekte,veri,karşısında,zorlandılar.,Bankacının analistleri büyük ölçekte veri karşısında zorlandılar.
+19,gen,attractorMatch,Bankacıların,analisti,büyük,ölçekte,veri,karşısında,zorlandılar.,Bankacıların analisti büyük ölçekte veri karşısında zorlandılar.
+19,gen,noMatch,Bankacının,analisti,büyük,ölçekte,veri,karşısında,zorlandılar.,Bankacının analisti büyük ölçekte veri karşısında zorlandılar.
+19,nom,targetMatch,Bankacı,analistleri,büyük,ölçekte,veri,karşısında,zorlandılar.,Bankacı analistleri büyük ölçekte veri karşısında zorlandılar.
+19,nom,attractorMatch,Bankacılar,analisti,büyük,ölçekte,veri,karşısında,zorlandılar.,Bankacılar analisti büyük ölçekte veri karşısında zorlandılar.
+19,nom,noMatch,Bankacı,analisti,büyük,ölçekte,veri,karşısında,zorlandılar.,Bankacı analisti büyük ölçekte veri karşısında zorlandılar.
+20,gen,targetMatch,Yazılımcının,direktörleri,daha,etkili,bir,özet,yazdılar.,Yazılımcının direktörleri daha etkili bir özet yazdılar.
+20,gen,attractorMatch,Yazılımcıların,direktörü,daha,etkili,bir,özet,yazdılar.,Yazılımcıların direktörü daha etkili bir özet yazdılar.
+20,gen,noMatch,Yazılımcının,direktörü,daha,etkili,bir,özet,yazdılar.,Yazılımcının direktörü daha etkili bir özet yazdılar.
+20,nom,targetMatch,Yazılımcı,direktörleri,daha,etkili,bir,özet,yazdılar.,Yazılımcı direktörleri daha etkili bir özet yazdılar.
+20,nom,attractorMatch,Yazılımcılar,direktörü,daha,etkili,bir,özet,yazdılar.,Yazılımcılar direktörü daha etkili bir özet yazdılar.
+20,nom,noMatch,Yazılımcı,direktörü,daha,etkili,bir,özet,yazdılar.,Yazılımcı direktörü daha etkili bir özet yazdılar.
+21,gen,targetMatch,İşçinin ,denetçileri,tüm ,üretim ,aşamasını,dikkatle,izlediler.,İşçinin  denetçileri tüm  üretim  aşamasını dikkatle izlediler.
+21,gen,attractorMatch,İşçilerin,denetçisi,tüm ,üretim ,aşamasını,dikkatle,izlediler.,İşçilerin denetçisi tüm  üretim  aşamasını dikkatle izlediler.
+21,gen,noMatch,İşçinin ,denetçisi,tüm ,üretim ,aşamasını,dikkatle,izlediler.,İşçinin  denetçisi tüm  üretim  aşamasını dikkatle izlediler.
+21,nom,targetMatch,İşçi,denetçileri,tüm ,üretim ,aşamasını,dikkatle,izlediler.,İşçi denetçileri tüm  üretim  aşamasını dikkatle izlediler.
+21,nom,attractorMatch,İşçiler,denetçisi,tüm ,üretim ,aşamasını,dikkatle,izlediler.,İşçiler denetçisi tüm  üretim  aşamasını dikkatle izlediler.
+21,nom,noMatch,İşçi,denetçisi,tüm ,üretim ,aşamasını,dikkatle,izlediler.,İşçi denetçisi tüm  üretim  aşamasını dikkatle izlediler.
+22,gen,targetMatch,Engellinin,savunucuları,yeni,bildirgeyi,yüksek,sesle,okudular.,Engellinin savunucuları yeni bildirgeyi yüksek sesle okudular.
+22,gen,attractorMatch,Engellilerin,savunucusu,yeni,bildirgeyi,yüksek,sesle,okudular.,Engellilerin savunucusu yeni bildirgeyi yüksek sesle okudular.
+22,gen,noMatch,Engellinin,savunucusu,yeni,bildirgeyi,yüksek,sesle,okudular.,Engellinin savunucusu yeni bildirgeyi yüksek sesle okudular.
+22,nom,targetMatch,Engelli,savunucuları,yeni,bildirgeyi,yüksek,sesle,okudular.,Engelli savunucuları yeni bildirgeyi yüksek sesle okudular.
+22,nom,attractorMatch,Engelliler,savunucusu,yeni,bildirgeyi,yüksek,sesle,okudular.,Engelliler savunucusu yeni bildirgeyi yüksek sesle okudular.
+22,nom,noMatch,Engelli,savunucusu,yeni,bildirgeyi,yüksek,sesle,okudular.,Engelli savunucusu yeni bildirgeyi yüksek sesle okudular.
+23,gen,targetMatch,Personelin,müfettişleri,işyerindeki,derli,toplu,sistemi,beğendiler.,Personelin müfettişleri işyerindeki derli toplu sistemi beğendiler.
+23,gen,attractorMatch,Personellerin,müfettişi,işyerindeki,derli,toplu,sistemi,beğendiler.,Personellerin müfettişi işyerindeki derli toplu sistemi beğendiler.
+23,gen,noMatch,Personelin,müfettişi,işyerindeki,derli,toplu,sistemi,beğendiler.,Personelin müfettişi işyerindeki derli toplu sistemi beğendiler.
+23,nom,targetMatch,Personel,müfettişleri,işyerindeki,derli,toplu,sistemi,beğendiler.,Personel müfettişleri işyerindeki derli toplu sistemi beğendiler.
+23,nom,attractorMatch,Personeller,müfettişi,işyerindeki,derli,toplu,sistemi,beğendiler.,Personeller müfettişi işyerindeki derli toplu sistemi beğendiler.
+23,nom,noMatch,Personel,müfettişi,işyerindeki,derli,toplu,sistemi,beğendiler.,Personel müfettişi işyerindeki derli toplu sistemi beğendiler.
+24,gen,targetMatch,Kiracının,arabulucuları,hafta,boyu,sözleşme,için,çalıştılar.,Kiracının arabulucuları hafta boyu sözleşme için çalıştılar.
+24,gen,attractorMatch,Kiracıların,arabulucusu,hafta,boyu,sözleşme,için,çalıştılar.,Kiracıların arabulucusu hafta boyu sözleşme için çalıştılar.
+24,gen,noMatch,Kiracının,arabulucusu,hafta,boyu,sözleşme,için,çalıştılar.,Kiracının arabulucusu hafta boyu sözleşme için çalıştılar.
+24,nom,targetMatch,Kiracı,arabulucuları,hafta,boyu,sözleşme,için,çalıştılar.,Kiracı arabulucuları hafta boyu sözleşme için çalıştılar.
+24,nom,attractorMatch,Kiracılar,arabulucusu,hafta,boyu,sözleşme,için,çalıştılar.,Kiracılar arabulucusu hafta boyu sözleşme için çalıştılar.
+24,nom,noMatch,Kiracı,arabulucusu,hafta,boyu,sözleşme,için,çalıştılar.,Kiracı arabulucusu hafta boyu sözleşme için çalıştılar.

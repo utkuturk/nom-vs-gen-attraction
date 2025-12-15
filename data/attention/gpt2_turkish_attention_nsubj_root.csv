@@ -1,0 +1,1697 @@
+sentence,nsubj,root,root_idx,nsubj_idx,best_layer,best_head,attention_value
+""" Ben değişim hedefiyle yola çıktım .",Ben,yola,4,1,7,10,0.7889924645423889
+"CHP'li muhaliflerin itirazını haklı bulan YSK , Ümraniye kongresini iptal etti",YSK,iptal,13,8,7,8,0.8484423160552979
+"Kızılırmak kenarında yetişmiş bu pembe kır çiçeğine , başkentin bütün uçuk renkleri , baygın kokuları bir incelik veriyordu veriyor du .",renkleri,veriyor,22,15,10,6,0.28689420223236084
+"Bu arada cezaevinden çıkan Deniz , ODTÜ'ye geldi .",Deniz,geldi,9,4,11,0,0.8303449749946594
+3 - Yusuf da Revivo ile değişerek oynayabilir veya kapalı defans yapan zayıf rakipler önünde yararlı olur .,Yusuf,oynayabilir,10,2,11,7,0.5088924169540405
+""" Yılmaz Güney'i sevk ediyorlar , neresi olduğunu bilmiyoruz , bugün ziyaret yasak , "" dedi ve dediği gibi izinden dönen mahkûmları alıp gitti .",ziyaret,dedi,17,13,7,4,0.3991830348968506
+Romantikte de böyle bir yan var .,yan,var,7,6,4,0,0.999945878982544
+Aslan erkeği gibi o da sosyal ve arkadaşlar arasında hoş sohbetleri sever .,o,sever,12,3,8,4,0.7065393924713135
+"Açıklanması veya öğrenilmesi , devletin dış ilişkilerine , milli savunmasına ve milli güvenliğine zarar verebilecek , anayasal düzeni ve dış ilişkilerinde tehlike yaratabilecek ve bu nedenlerle niteliği itibarıyla gizli kalması gereken bilgi ve belgeler "" devlet sırrı "" olarak kabul edilecek .",bilgi,kabul,42,34,8,1,0.1036510244011879
+Ahlar vahlar arasında neredeyse sezon daha başlamadan acınacak hale geldik .,sezon,geldik,12,6,7,4,0.2872137427330017
+"Kuruluşunun 100'üncü yılını Avrupa'da ve Türkiye'de çeşitli etkinliklerle kutlayan Renault , 1998 yılını bulunduğu tüm pazarlarda atılım yılı ilan etti .",Renault,ilan,25,16,7,8,0.40550512075424194
+Oynadığı 21 maçtan 17'sini kazanmayı bilen Bursa ekibi ligde kalan maçları da kazanarak Play - Off'lara zirvede girmek istiyor .,ekibi,istiyor,24,11,8,3,0.7826995849609375
+Büyük ayaklarıma küçük numaralı döküntü bir spor ayakkabı hediye edildi .,spor,hediye,9,7,3,10,0.38045287132263184
+"Bakın hele kaç "" L "" oldu kaşla göz arasında .",L,oldu,6,4,9,2,0.47861289978027344
+"- Çünkü onlar , senin gibi gelip beni ziyaret etmediler .",onlar,ziyaret,8,2,7,8,0.9458207488059998
+Etkinlik kapsamında Anma ve Saygı Geceleri de yer alıyor .,Geceleri,yer,7,5,4,7,0.6957101821899414
+"Ben şimdi öder gelirim , dedi .",Ben,dedi,5,0,5,6,0.9934700727462769
+Sizce de Haydar Dümen’in artık emekliye ayrılması gerekmiyor mu ?,Haydar,gerekmiyor,12,3,11,2,0.2874733805656433
+İlk yüksek tahsil merkezleri Avrupa'da çok daha sonraları ortaya çıktılar .,merkezleri,ortaya,10,3,7,8,0.9381694197654724
+"Bu onları duyarlı , empatik ve merhametli yapar .",Bu,yapar,8,0,5,8,0.9368090629577637
+""" Allahım bu açığı kapatmalıyım , niye bu kitapların sayfasını açmamışım ben "" diye diye test çözüyor ...",ben,test,18,14,7,5,0.3824043571949005
+"Bir insandan nefret etmek için , onun seni kırması , sana kötülük yapması gerekir değil mi ? Bana hiçbir şey yapmıyordu .",onun,gerekir,14,6,11,10,0.28240957856178284
+"İki taraf da sorunu masa başında çözmek istiyor "" dedi .",taraf,dedi,9,1,7,10,0.32836848497390747
+Bunlar genel sorulardı sorular dı .,Bunlar,sorular,4,0,3,3,0.9461849331855774
+19 Ocak'da dost burcunuz Oğlakta doğan Yeni Ay yeni biriyle tanışma veya aşk ilişkisine başlama şansı getiriyor .,Yeni,getiriyor,20,10,11,11,0.40692323446273804
+Onun bir birikimi var bende .,birikimi,var,3,2,4,0,0.9998238682746887
+Ne yol bitiyor ne yeşil ne de mavi .,yol,bitiyor,2,1,4,0,0.9999854564666748
+Bir kazan gerekti .,kazan,gerekti,2,1,4,0,0.9965947270393372
+"Mutfak montajı hakkında en ufak bir bilgisi yoktu yok tu , ama gözüne kestirdiği şeyin peşine düşerdi .",bilgisi,yok,7,6,4,1,0.9981661438941956
+Ziyaretçilere bölgelere has yiyecek ve içeceklerden de ikram edildi .,yiyecek,ikram,9,4,3,10,0.23478399217128754
+Pakistan Leşker'e karşı harekete geçti,Pakistan,harekete,7,0,5,6,0.9961131811141968
+O kendini savunur .,O,savunur,2,0,5,6,0.9998185038566589
+O iki kişinin sıcaklığını kimse veremez onların yanında duyulan güven kimsenin yanında duyulamaz .,kimse,veremez,5,4,4,0,0.9982395172119141
+Burada fiziksel enerji ve kuvvetli zihinsel fakülteler yan yana gelecektir gelecek tir .,enerji,yan,8,2,6,11,0.3746565580368042
+"Bu arada 1999 yılının üçüncü üç aylık dönemine ilişkin harcamalar yöntemiyle hesaplanan GSYİH sonuçlarına göre , sabit fiyatlarla özel nihai tüketim harcamalarında yüzde 2 .9 , gayri safi sabit sermaye oluşumunda ise yüzde 11.9'luk azalma oldu .",azalma,oldu,43,42,4,0,0.9997804760932922
+- Bir defa da sen idare etseydin .,sen,idare,5,4,4,0,0.9995145797729492
+Yine de siz abartılı bulun bu fanteziyi .,siz,bulun,4,2,7,8,0.9023957848548889
+"Ortanca gelin , kaynanasının bu sözlerine kulak asmadı .",gelin,kulak,10,3,10,3,0.7451023459434509
+- Doktor ne dedi ?,Doktor,dedi,3,1,10,11,0.7290953397750854
+Firdevs Meydanı'ndaki Saddam heykeli devrildi .,heykeli,devrildi,8,7,4,0,0.9993507266044617
+""" Piyano ile anlat bakalım , bugün sokakta neler gördün ? "" Ben de piyanoda "" arabalar gördüm "" derdim .",Ben,derdim,21,13,3,0,0.5656066536903381
+O da beni duymuyor ve ...,O,duymuyor,3,0,5,6,0.9937928915023804
+Annem gelmedi .,Annem,gelmedi,1,0,4,0,0.9999531507492065
+"Anlamazsa NATO eyleme geçmeye hazır "" dedi .",NATO,dedi,8,3,10,11,0.9926823973655701
+"Bu yıl size tatlı öyküler , sıcak masallar , sevgi dolu şiirler getirdim .",sevgi,getirdim,13,10,5,3,0.22083334624767303
+Daha da ne olacağı belli değil .,ne,belli,4,2,8,4,0.5734567642211914
+Bu burcun erkekleri biraz havaidirler havai dirler .,erkekleri,havai,8,3,10,11,0.48621493577957153
+Valla öyle korkan bir halleri yoktu yok tu .,halleri,yok,6,5,4,0,0.9999043941497803
+Ama benim kafamda sorular var .,sorular,var,4,3,4,0,0.9999713897705078
+Her yer teneke kutularla dolu .,yer,dolu,6,1,8,1,0.994813084602356
+Herşeyden önce yemekte taze fesleğen kullanma fikri insanlara inanılmaz garip geliyordu .,fikri,garip,13,10,4,7,0.9103500247001648
+"Ortada bir toplum varsa , insanların karşılıklı saygı çerçevesi içinde birbirlerine eleştiri de olmalıdır .",toplum,varsa,4,3,4,1,0.9998743534088135
+Şu an bile birden silkinip uyanmayacağımızı kim iddia edebilir !,kim,edebilir,12,10,7,10,0.9961985945701599
+"Eğer et yağlıysa yağlı ysa hiç yağ koymadan , eğer yağsızsa yağsız sa içine yağ ekleyerek kendi suyuyla kavurun .",et,kavurun,23,1,9,10,0.3025320768356323
+Hürriyet'te diplomasi muhabiri oldu .,muhabiri,oldu,5,4,4,0,0.9999992847442627
+"Bu da zaman ister , emek ister .",Bu,ister,3,0,5,8,0.999193012714386
+""" Hayır , ben masal istiyorum ! """,ben,istiyorum,5,3,4,7,0.73676997423172
+"Ben , kendi hesabıma , bir denizin kenarında elimde bir rakı bardağı ve yanımda Isabelle Adjani ile oturduğumda mutlu oluyorum .",Ben,oluyorum,25,0,5,6,0.996709942817688
+"Ben yol bilmem , iz bilmem .",Ben,bilmem,2,0,5,6,0.987066924571991
+"Toplumun bu kadar açlık , işsizlik , eşitsizlik gibi sorunu varken var ken .",sorunu,var,11,10,4,0,0.9957833290100098
+Bu eylem kent insanının kültürel gelişiminin doruklarına varmasının bir göstergesi kabul edilir .,eylem,kabul,12,1,11,6,0.6015373468399048
+Babasının el yazısıyla yazılmış küçük bir kitap duruyormuş duruyor muş içinde .,kitap,duruyor,9,8,4,1,0.9994175434112549
+"Henry gibi hükümranlığını ve krallığın cakasını en pervasızca , en şımarıkça yaşamış bir kral bile Katolik karısı Catherine ile sevgilisi Anne Boleyn arasındaki arasında ki savaşta sıkışıp yeni bir din icat etmek ve bütün memleketin dinini değiştirip yıllarca bitmeyecek kanlı bir din savaşının başlamasına neden olmak zorunda kalır .",Anne,zorunda,62,33,6,4,0.1090238019824028
+"Dedim ya , taraftar - yazarların yazdıklarından tribünlerin "" ruhsuz ibne""sine sıçramak hiç zor değildir .",taraftar,zor,21,4,7,4,0.1410510390996933
+3'ün başına gelenlerin benim başıma da gelmemesi için insanlardan saklanmak zorunda olduğumu biliyordum .,gelenlerin,biliyordum,15,4,10,11,0.4838835299015045
+"Yakınma konusu olan bir başka sorun , giyimle ilgiliydi ilgili ydi .",sorun,ilgili,12,6,5,2,0.46652689576148987
+Hipotiroidizme yol açan guatr vakalarında mutlaka tiroid hormonu verilmesi gereklidir gerekli dir .,hormonu,gerekli,17,15,2,11,0.32803940773010254
+"Hepsi de esmer , karıştırırım "" diyor .",Hepsi,diyor,7,0,5,6,0.9895381927490234
+Konu komşusu severdi sever di hani .,Konu,sever,2,0,5,6,0.9953781366348267
+"- Kurusun , bu senin , dedi yanındaki küçük kıza .",bu,dedi,7,4,7,7,0.4769481420516968
+"İlkelliği içinde , o an tüm yetkiler elinde .",yetkiler,elinde,9,8,4,0,0.9988045692443848
+"Ancak kafam ve gözüm hâlâ telefonda , bir kez daha açıyorum .",kafam,telefonda,5,1,9,4,0.8028507232666016
+Ya da ikinci şekildeki şekilde ki gibi bu tahta çubuğa yanlamasına bir tahta eklenir .,tahta,eklenir,15,8,11,10,0.6914986371994019
+""" Kızım sen deli misin .",sen,deli,3,2,4,1,0.9989424347877502
+"Zaten felsefe de bunu gerektirmez mi ? Kahvehaneden , internet kafeye akmış güruhu ise ayrı tutarım .",felsefe,gerektirmez,4,1,10,0,0.7924156785011292
+Senin yaptığına abesle iştigal denebilir örneğin .,Senin,denebilir,7,0,6,7,0.9770368933677673
+Musa'yı durduran Emevi halifesi ve yakınlarının haklı bir sebepleri var mıydı acaba ?,sebepleri,var,15,14,4,1,0.9999171495437622
+İçme suyu yoktu yok tu .,suyu,yok,3,2,4,0,0.9999951124191284
+Yarın Paris'in ünlü Bercy Salonu'nda başlayacak Final Four'da temsilcimizin önünde yine aynı engel var : Panathinaikos .,engel,var,22,21,4,1,0.9998205304145813
+1. Sizce insanlar niçin hayal kurarlar ?,insanlar,hayal,5,3,7,8,0.9960934519767761
+"Kazanmayı isteyen herkes , Aslan ile çalışmak için özel çaba sarf etmelidir etmeli dir .",herkes,sarf,11,3,7,10,0.764781653881073
+Açık ve güçlü bir karşı çıkışa gerek var .,gerek,var,8,7,4,0,0.9999943971633911
+Ankara'ya gitmesi gerekiyordu .,gitmesi,gerekiyordu,4,3,4,0,0.9999221563339233
+""" Dinlenmen gerek , durumun iyi değil "" diyordu bana .",durumun,diyordu,10,6,9,4,0.29996585845947266
+Bütün bunlar gerçeklere ne kadar uyuyor ?,bunlar,uyuyor,6,1,10,7,0.7748655676841736
+Mustafa Kemal de Corinne Lütfü'yü başsağlığı için ziyaret eder ve şu sözlerle teselli etmeye çalışır :,Mustafa,ziyaret,12,0,5,6,0.9960922598838806
+B Grubu'ndaki mücadelede ise grup lideri G .,G,lideri,7,1,8,5,0.40349698066711426
+"Türkiye'de o hayallerin onlarca yıl gerisinde yaşayan kentler , kasabalar ve insanlar vardır var dır .",kentler,var,16,10,10,0,0.6048654317855835
+Olay bundan ibaret .,Olay,ibaret,2,0,5,8,0.9992401599884033
+- Geçmişyaşamdaki Geçmiş yaşamda ki arkadaşlarından hayatta olan var mı ?,olan,var,10,9,4,0,0.9997918009757996
+Bu durumda olan insanlar bile mutlu olabiliyor .,insanlar,olabiliyor,6,3,7,8,0.7133576273918152
+"Devlet sırrı niteliğini taşıyan bilgi ve belgeler , Başbakan'ın başkanlığında oluşturulacak kurul tarafından belirlenecek .",bilgi,belirlenecek,15,4,9,8,0.36775949597358704
+Irak'ta birçok PKK kampına biz girdik .,biz,girdik,7,6,4,0,0.9540849924087524
+"Program , Arthur Honegger'in üçnumaralı "" Litürjik "" senfonisiyle sona erecek .",Program,sona,20,0,5,8,0.9952652454376221
+Hatta bunun böyle olması gerektiği bile pek bilinmiyor .,bunun,bilinmiyor,7,1,11,4,0.266361802816391
+Yeni iki dil öğrenmek ufkumun her gün biraz daha açıldığını fark etmek öncelikle kişisel gelişimim acısından muhteşem bir olaydı olay dı .,fark,olay,21,11,5,0,0.11447397619485855
+Öte yandan Milli Birlik Komitesi'nin en genç üyelerinden Numan Esin de benim askerlik dersi hocam .,Numan,hocam,16,10,11,0,0.439697265625
+""" Ben Gediz Akdeniz'in doktora öğrencisiyim "" dedi .",Ben,dedi,9,1,5,11,0.31811660528182983
+Tiyatro gişesinde telefonlar durmak bilmiyor .,telefonlar,bilmiyor,5,3,10,0,0.7776781320571899
+Sayın Başbakan'ın ifadesi ile 36 tane etnik grup var .,grup,var,10,9,4,0,0.9999988079071045
+"Babam , koltuğa oturdu .",Babam,oturdu,3,0,5,8,0.9937805533409119
+"İlaç firmalarının kendisine büyük bir rüşvet teklifi karşısında , müsteşarına : "" Sen ne dersin , tarihe mi geçeyim , yoksa yok sa köşeyi mi döneyim ? "" diye sormasından da anlaşılacağı üzere , ekstrovert , yani dışa dönük bir kişiliğe sahipti .",Sen,sahipti,50,14,6,5,0.13866321742534637
+Güzel konuşan kimseleri vardır var dır .,kimseleri,var,3,2,4,0,0.9999998807907104
+Onur Bağı'm olan kent .,Onur,kent,5,0,5,6,0.9997971653938293
+"O , daha dün ortaya çıktı .",O,ortaya,4,0,5,0,0.9640468955039978
+Ben de kendimce sınamak istedim bunu .,Ben,istedim,6,0,5,6,0.9982781410217285
+"Meram'da binlerce bağ evi ve kulübeler , cami , mescit , han , hamam , çarşı ve pazaryeri vardır var dır .",evi,var,23,6,8,2,0.29608017206192017
+Beni duymanıza gerek yok .,gerek,yok,4,3,4,0,0.9825837016105652
+Uçağa yüklenen ve uçuş sonunda artan kullanılabilir tüm malzemeler sayılarak kabin amirine bildirilir .,malzemeler,bildirilir,15,9,10,0,0.41160672903060913
+- Bu nedir ne dir ?,Bu,ne,2,1,4,0,0.9999949932098389
+Peki kim bu küçük ve basit sebepleri devleştirerek aramıza sokup duruyor ?,kim,sokup,10,1,7,8,0.9414994120597839
+Tapınakta panik var,panik,var,4,3,4,1,0.9999532699584961
+"Moby Dick'e aldığım sarı boya inceltmek için ne gaz , ne benzin , hiçbir şey kabul etmiyordu etmiyor du .",boya,kabul,22,9,4,11,0.1194484531879425
+"O , öncelikle çok büyük bir asker ve komutandır .",O,asker,6,0,5,6,0.9986739158630371
+"Ne kadar düşünürsem düşünür sem düşüneyim , televizyonda izlediklerimden başka bir fikir gelmiyor aklıma .",fikir,gelmiyor,15,14,4,0,0.9999810457229614
+Onu tutacak kimse yok ki !,kimse,yok,3,2,4,0,0.9998263716697693
+"Ve işte o , beni kahreden , somurtganlaştıran , saatlerce ağlatan , gözyaşlarıyla dolu ...",o,dolu,19,2,7,8,0.5100750923156738
+"Her ülkede hem çalışıp , hem de okuyanlar vardır var dır .",okuyanlar,var,8,7,4,0,0.9999961853027344
+İşte ben buna iletişim diyorum .,ben,diyorum,4,1,4,7,0.5748305916786194
+"Gazetenin sahibi Mehmet Ali Yılmaz'a , "" Davos'a beraber gidelim , "" dedim .",Mehmet,dedim,18,3,10,2,0.21231570839881897
+Budapeşte Tren istasyonu yorgun .,istasyonu,yorgun,5,4,4,0,0.9999974966049194
+Sel sularında neler yoktu yok tu ki ...,neler,yok,3,2,4,0,0.9998663663864136
+"Aziz , deli gibi çalışkan , güçlü kuvvetli , pes etmeyen cinsten .",Aziz,cinsten,11,0,8,8,0.9252176284790039
+"Akşam Jan Bey uğradığında bana , "" Doktorla bayağı İngilizce konuştun "" dedi .",Jan,dedi,17,1,10,8,0.8330442905426025
+"Ben Zeki değil , Ekrem'im Ekrem 'im . """,Ben,Zeki,1,0,4,0,0.9999994039535522
+"Özellikle eğitimsiz , kendi çıkarını bilmeyen ya da bilir gözükmeyen bu durağan toplumu harekete geçirmek için şiddetli bir deprem gerekecekti gerekecek ti .",deprem,gerekecek,22,21,4,1,0.9994914531707764
+"Deniz Baykal , Cahit Kayra , Mustafa Ok , Erol Çevikçe ayrıca Doçent Özsan Uluatam ve Üstün Üstün var .",Deniz,var,23,0,5,6,0.9961971044540405
+"Hiç harika bir öykünün sonuna gelip de birlikte onca serüven yaşadığı , sevip hayran olduğu , adlarına kaygılanıp umutlandığı kahramanlara veda etmek zorunda kaldığı ve onlarsız hayat kendisine boş ve anlamsız göründüğü için açıkça ya da gizlice acı gözyaşları dökmemiş biri ...",hayat,biri,49,34,4,11,0.0507175549864769
+Annem akşam işten geldi .,Annem,geldi,3,0,5,6,0.9978764057159424
+Onlar sizden biri değil .,Onlar,biri,2,0,5,0,0.9937605261802673
+Artık üniversitede bana kadro bulunup bulunmadığını bile takip etmiyordum etmiyor dum .,kadro,takip,7,3,1,2,0.35428354144096375
+Ada bu yıl 8 .,Ada,8,3,0,5,8,0.9997294545173645
+"O zirveye ulaştıktan sonra , dağın başka hiçbir yeri artık onları tatmin etmez .",yeri,tatmin,12,9,8,10,0.3538975417613983
+"Sen çalışansın çalışan sın , "" dedi .",Sen,dedi,7,0,5,6,0.97591632604599
+"Bnet Genel Müdürü Hakan Akan da , "" Kısa vadede internet servis sağlayıcılığı alanının öncüsü olmayı , uzun vadede telekom liberalizasyonu sonrasında alternatif telekom operatörü olarak faaliyetlerimizi sürdürmeyi hedefliyoruz "" dedi .",Hakan,dedi,36,4,8,7,0.46659886837005615
+""" Doyduğunuz yer "" ne oldu ?",yer,oldu,6,3,10,10,0.4763057231903076
+"Bizler , eşitliğe ve demokrasiye anlamlar yükledik , özünü yaşatamadık .",Bizler,anlamlar,6,0,5,6,0.987114429473877
+Guatemala'da iki kesim var .,kesim,var,8,7,4,0,0.9999762773513794
+"İşte bu yüzden , Mim Sadun Ne'nin Alaska doğumlu olmasına şaşmamak gerekir .",Mim,gerekir,16,4,8,3,0.30292412638664246
+Kitapları onlara uzatıp vermenize gerek yok ; sadece onlara okumalarını söyleyin .,gerek,yok,8,7,4,0,0.9997689127922058
+"New Orleans'ta caz , San Francisco'da hüzün vardı var dı ...",caz,var,13,6,10,0,0.9744319319725037
+Ben bu haberi okuyunca mezun olmaktan ve askere gitmekten çok korkar oldum .,Ben,korkar,11,0,5,6,0.9969050288200378
+Biz oradayız orada yız .,Biz,orada,1,0,4,0,0.9991255402565002
+"Ah'lara , vah'lara gerek yok .",gerek,yok,8,7,4,0,0.9999889135360718
+Altıncı gününü de bitiren eylemin bu ilgisizlik yüzünden daha ne kadar süreceği ise bilinmiyor .,eylemin,bilinmiyor,16,5,10,9,0.5073665976524353
+Allah böyle istemiyor .,Allah,istemiyor,2,0,8,3,0.9936853051185608
+Transfer bitiyor,Transfer,bitiyor,1,0,4,0,0.9998766183853149
+"Ermenistan - Türkiye maçının sabahı Erivan'da yayımlanan gazetelerden birinin vurgusu ilgi çekiciydi çekici ydi : "" Başkan Bush'tan da sıkı korunacak """,vurgusu,ilgi,15,14,4,0,0.9998588562011719
+"Arılardan birisi , bir besin kaynağı bulduğunda kovana dönüp vücudunu titreterek , diğer arkadaşlarına besinin yerini tarif eder .",birisi,tarif,22,2,9,1,0.4725383222103119
+Yaşadığımız sürece bu olay tekrar eder .,olay,tekrar,5,4,4,0,0.9999921321868896
+Yeni ve temiz elbiseler giyilerek önceden hazırlanan yiyeceklerle birlikte mezarlığa gidilir .,elbiseler,gidilir,13,3,10,9,0.2459469437599182
+"Onlar bizden kölelik değil , saygı ve emeklerinin karşılığını bekliyorlar .",Onlar,bekliyorlar,10,0,5,6,0.9896119236946106
+""" Ben Türk gazetecileri ile konuşmam , "" dedi .",Ben,dedi,10,1,5,1,0.3960796594619751
+Japonya'da bu zorunluluk sadece feribotlarda var .,zorunluluk,var,8,4,8,1,0.48182931542396545
+Hepsi olur ...,Hepsi,olur,1,0,4,0,0.9999982118606567
+"Şimdi Oprah ( Winfrey Amerikan televizyonunun en ünlü sunucusu ) sayesinde kitaplar mutlu , seksi şeyler haline geldiler , aynı rock yıldızları gibi .",kitaplar,geldiler,22,16,10,0,0.7202101349830627
+Mustafa Abdülhalik Bey geldi .,Mustafa,geldi,5,0,5,6,0.9878115057945251
+Arkamda annem var yalnız değilim hayatta seninle baş edebilirim .,annem,var,3,2,4,0,0.9999996423721313
+"Park , hınzır bir sonbaharın keyfini çıkarıyordu çıkarıyor du ...",Park,keyfini,9,0,5,6,0.998982846736908
+"- Ben çantaya neler konulacağını biliyorum , diyerek kalem , kâğıt ve ilk yardım malzemeleri getirdi .",Ben,getirdi,17,1,11,1,0.15123683214187622
+Söyleyecek laf bile yok artık .,laf,yok,4,2,3,10,0.7945815324783325
+Lena'dan bir sorun çıkmazsa çıkmaz sa öğleden sonra 4200'e gidiyoruz .,sorun,gidiyoruz,16,5,8,10,0.5175463557243347
+haftada ise F.Bahçe'yi konuk edecek olan Trabzonspor yapacak .,Trabzonspor,yapacak,12,11,4,0,0.9817078113555908
+Afganistan Devlet Başkanı Hamid Karzai'nin erkek kardeşinin Kandahar'daki Kandahar'da ki evinde patlama meydana geldi .,patlama,meydana,24,23,4,0,0.9999300241470337
+Kemal Atatürk şahane bir umursamazlıkla kendi hayatını yedi bitirdi .,Kemal,yedi,9,0,5,8,0.9975388050079346
+Ortalama sekiz haftalık bir tedavi uygulanacaktı uygulanacak tı .,tedavi,uygulanacak,6,5,4,0,0.9997077584266663
+Yabancı Sermaye için ülkemizde yatırıma özendirici tedbirlerin daha objektif bir şekilde alınması gereklidir gerekli dir .,tedbirlerin,gerekli,13,7,3,8,0.3051922917366028
+"Ya da incecik bir ses tonu ile yapılan anons sahibi , 1.90 boyunda , heybetli ve ihtişamlı biri olabilir .",sahibi,biri,20,9,7,2,0.5920671820640564
+"Belçika'da yayınlanan Le Soir gazetesine göre , Tacik yetkililer , Belçika vatandaşlarını 28 yaşındaki yaşında ki Kasım Bukoli ve 34 yaşındaki yaşında ki Kerim Suzani olarak tespit ettiler ve Belçikalı yetkililere ilettiler .",yetkililer,tespit,33,11,7,8,0.9793486595153809
+"Ben , ' Elbette Hasan Bey , sizin yanınızdayım yanınızda yım ' dedim .",Ben,dedim,14,0,5,6,0.9942242503166199
+""" CHP , Türkiye'nin son 15 yılında yaşadığı olumsuzluklardan sorumlu değildir .",CHP,sorumlu,12,1,10,1,0.6415395140647888
+"Ne korkular salmışım kim bilir ,",kim,bilir,6,5,4,0,0.999725878238678
+Olimpiyat Stadı'nda son 3 sezonun Serie A şampiyonu Inter Milan'ı 2 - 1 yenen AS Roma İtalya Kupası'nın sahibi oldu .,AS,oldu,27,20,11,0,0.6418663859367371
+"Erkan , Moldovan , Abdullah ve Sergen için özel programlar uygulanacak .",programlar,uygulanacak,14,13,4,0,0.9999074935913086
+Her üç kişiden birinin yaşamının herhangi bir döneminde herhangi bir cinsel sorun yaşadığı tahmin ediliyor .,birinin,tahmin,13,3,9,10,0.511458694934845
+Cephe içinde İslamcı ve milliyetçi gruplar birlikte temsil ediliyor .,gruplar,temsil,8,6,7,8,0.7946223616600037
+"ÖİB yetkililerinin , bu durumu da önemli bir olasılık olarak değerlendirdiği ifade edildi .",yetkililerinin,ifade,13,2,9,10,0.7054524421691895
+"Yoksa bu ikili ortak kararlar alamaz , ilişkilerini yönlendiremezler .",ikili,alamaz,5,2,7,8,0.44558852910995483
+Bu nasıl oldu ?,Bu,oldu,2,0,5,8,0.9992475509643555
+"Chat'in "" yalnız anlarını oyalamak "" gibi bir misyonu var bana göre ... "" Jar """,misyonu,var,13,12,4,1,0.9999793767929077
+madde var dı ki ...,madde,var,1,0,4,0,0.9999997615814209
+Bunun ortadan kaldırılmamasının bize getireceği maliyeti hesaplamak çok zor .,Bunun,zor,11,0,5,6,0.9986692667007446
+"13 Haziran , tarihi bir gün olacak "" dediği belirtildi .",Haziran,belirtildi,9,1,10,11,0.6311800479888916
+Kendine bunu söylediğimde her erkek gibi o da kabullenmek istemezdi istemez di kullanıldığını ...,o,istemez,12,8,5,7,0.4484727382659912
+- : Talihsiz olaylar bununla da bitmedi .,olaylar,bitmedi,8,5,7,8,0.8147727251052856
+Kim koydu bu kuralları ?,Kim,koydu,1,0,4,1,0.99893718957901
+- Uyku apnesi sendromu nedir ?,sendromu,nedir,5,4,4,0,0.9428392648696899
+"Programdan iki gün önce , odamdan içeri esmer , uzun boylu biri girdi .",biri,girdi,14,13,4,0,0.9999469518661499
+"Hayat , İstanbul'da olduğundan çok daha ucuzdu ucuz du .",Hayat,ucuz,8,0,5,6,0.9998070597648621
+"43 yaşındaki yaşında ki Dana , evli ve 4 çocuk babasıydı babası ydı .",Dana,evli,6,4,8,5,0.4731113612651825
+"- Orada ODTÜ'nün , yani öğrencilerin dışında birtakım etkenler vardı var dı .",etkenler,var,11,10,4,0,0.9984585046768188
+Kaleiçi'nin anıtsal nitelikli kültür varlıklarından biri olan Aya Yorgi ( Agios Georgios ) Kilisesi'nin yapım tarihi kesin olarak bilinmiyordu bilinmiyor du .,tarihi,bilinmiyor,32,29,10,7,0.5994549989700317
+Bunlar oldu .,Bunlar,oldu,1,0,4,0,0.9985427856445312
+Her yer beyaz bir bulutun içinde kaybolup giderdi gider di .,yer,gider,9,1,7,8,0.5113894939422607
+"Mustafa Kemal bulunduğu ortamı tasvir ediyor , o günlerde zihnini meşgul eden fikirleri aktarıyor , yaptıklarını anlatıyor .",Mustafa,tasvir,4,0,5,6,0.9999021291732788
+"Bunun üzerine bilge adam dedi ki : “ Kralım biliyorum ki , çocuk yaştan beri bizi layığıyla yönetiyorsunuz .",adam,dedi,4,3,4,0,0.9999969005584717
+"Apaçık ki , 2500 yılının insanı için "" şimdiki zaman "" kalmayacak .",zaman,kalmayacak,12,10,11,5,0.6361648440361023
+"Mevcut nedenler yüzünden 2008 yılında da bankalar maliyet artışlarını kredi faizlerine yansıtamayabilirler "" açıklamasında bulundu .",bankalar,bulundu,19,6,10,0,0.4961400032043457
+"Onun otomobili var , benim yazlığım .",otomobili,var,2,1,4,0,0.9998213648796082
+Her insan aynı şeyi düşünüp yapamaz ...,insan,yapamaz,5,1,8,3,0.999081015586853
+"Öncemizdeki Öncemizde ki ve sonramızdaki sonramızda ki spikerler gibi bizler de her türlü haberi okuduk , iyisini - kötüsünü , inandığımızı - inanmadığımızı , eğrisini - doğrusunu , sevdiğimizi - sevmediğimizi ...",bizler,okuduk,21,16,7,8,0.8502400517463684
+"Ee , sevinçli olunca da zaman su gibi akarmış akar mış .",zaman,akar,10,7,4,7,0.45462071895599365
+"Çünkü müdür yardımcımız Osman Hoca , son derece adaletsizdi adaletsiz di .",Osman,adaletsiz,9,4,7,8,0.4597819149494171
+Bu deneyim karşısında bireyin çaresizlik yaşaması ve dehşete düşmesi ve bazı özgün belirti örüntüsünü bir ay süreyle sergilemesi gerekir .,bireyin,gerekir,22,3,6,6,0.5824750065803528
+Sert tedbirler için sert kanunlar gerekiyordu gerekiyor du .,kanunlar,gerekiyor,6,5,4,0,0.997660756111145
+"Aksi halde bu işin sonu askerin müdahalesine kadar gidecektir . """,sonu,gidecektir,10,5,8,9,0.5152762532234192
+"Tom ile Ceri mahkemede ... "" denildi .",Tom,denildi,7,0,5,6,0.9850723147392273
+Üç ana '' tarz '' bu mutfağı belirler ve bugün Fransa'da her üç mutfağın da örneklerini bolca bulabilirsiniz .,tarz,belirler,7,3,6,1,0.4731001555919647
+"Oysa dostluk , standartların ötesinde sohbetleri gerektirir .",dostluk,gerektirir,7,1,8,1,0.6175029873847961
+( Doğanın müminliğine en popüler örneklerden biri rahmetli Barış Manço'nun Afrika'daki Afrika'da ki ağaçlardan birinde bulduğuydu bulduğu ydu hatırlarsanız hatırlar sanız . ) Daha da komplike olanlar var tabii .,biri,var,43,9,2,1,0.05079825222492218
+"2008 yılının ilk yarısını geride bıraktığımızda , bilimsel yayınların dünya eğilimleri çerçevesinde değerlendirilmesinde yarar var .",yarar,var,16,15,4,1,0.9995469450950623
+Bende bir de panik atak var .,panik,var,5,3,2,11,0.5604469180107117
+"AB , 2003 yılında , Bosna'daki Bosna'da ki istikrar gücü SFOR'un yönetimine talip oldu .",AB,talip,19,0,5,6,0.9988804459571838
+- Ama onlardan telefon olmaz ki dedi .,telefon,dedi,6,3,10,0,0.722975492477417
+Köpek gibi bir herif var ...,herif,var,4,3,4,1,0.9998534917831421
+O yöneticilerin derdi .,O,derdi,2,0,5,8,0.9917157292366028
+Aşağıdaki Aşağıda ki manzara 80'li yılların akıl almaz kavgalarından bir manzaraymış manzara ymış gibi geldi .,manzara,geldi,20,3,9,2,0.5105398893356323
+Türkiye'de hiç kimse bunu dile getirmeye cesaret edemiyor .,kimse,cesaret,8,4,8,3,0.966324508190155
+Eylül ayında ise ithalat ve ihracatın gerçekleşmediği belirtildi .,ithalat,belirtildi,8,3,10,11,0.5086603164672852
+Geleneksel ibadeti muhafaza eden ve onu yeni nesillere aktarma görevini üstlenen aile ve onun reisi olan babadır .,muhafaza,aile,11,2,6,1,0.16859474778175354
+Batıdan doğuya giden yollar muhacirlerle doluydu dolu ydu .,yollar,dolu,8,4,7,8,0.5420108437538147
+Bu mektuplarda ve yazışmalarda milyarlarca dolar söz konusudur konusu dur .,dolar,konusu,9,7,8,9,0.7673414945602417
+"Muayenehanesinin kapısına , hastaları ürkütmemek için "" akıl - sinir "" ya da "" ruh ve sinir hastalıkları "" hekimi olduğunu bile yazamayan hekimlerin bulunduğu ülkemizde , sayısı kısıtlı kısıt lı , yani yetersiz akıl hastaneleri vardır var dır .",hastaneleri,var,41,40,4,0,0.9999940395355225
+"Bu durumda iştahta azalma ve kilo kaybı , uykusuzluk ve seyrek olarak aşırı uyuma isteği , ölüm ve intihar düşünceleri , kendini değersiz görme gibi belirtiler olur .",belirtiler,olur,27,26,4,0,0.9999423027038574
+Buradaki Burada ki yönetimle vatan her gün biraz daha elden gidiyordu gidiyor du .,vatan,elden,10,5,7,2,0.2664797008037567
+Fas Futbol Federasyonu iki ay önce Fas Milli Takımı'nın başına getirdiği Fransız teknik adam Philippe Troussier'in görevine son verdi .,Federasyonu,son,26,3,8,8,0.23990990221500397
+Daha sonra topluca yemek yenir .,yemek,yenir,4,3,4,0,0.999970555305481
+"Sonuç olarak , 68 gerçekten genç insanların hareketiydi hareketi ydi .",68,hareketi,9,3,8,6,0.6766912937164307
+"İçinizde sürekli bir "" olumlama "" duygusu olması gerek .",duygusu,gerek,10,8,8,3,0.3790415823459625
+"Bu sesler derinden , uzaklardan geliyordu geliyor du .",sesler,geliyor,6,1,10,0,0.7211567759513855
+"Hele bir kaleci var ki , topu oyuna sokmamak için elinden geleni yaptı ! Taa ki , sarı kart görene kadar .",kaleci,elinden,12,3,10,9,0.4651017189025879
+"Metroda benimle aynı yönde ilerleyen birisinin elindeki elinde ki uzunca değnekten çıkan , "" tak , tak , tak "" sesleri , telaşımı ve kafamdaki kafamda ki düşünceleri birden unutturdu unuttur du .",sesleri,unuttur,35,24,8,1,0.5556774735450745
+30 yaşıma kadar hayatımda chat yoktu yok tu ve rahatsızlık da duymamıştım duymamış tım yokluğundan dolayı .,chat,yok,6,5,4,0,0.99998939037323
+Herkes oradaydı orada ydı .,Herkes,orada,1,0,4,0,0.9996262788772583
+Bu derece dövüşmeye ben neden olmuştum olmuş tum .,ben,neden,5,4,4,1,0.969150722026825
+"Türk Telekom'dan yapılan açıklamada , büyük hasar gören SMW3 denizaltı fiber kablosunda restorasyon çalışması devam etmesine karşın , servise verilen 155 ve 622 Mbps'lik devreler sayesinde internetin eskisinden yüksek kapasiteye sahip olduğu belirtildi .",internetin,belirtildi,43,36,10,0,0.375015527009964
+Yemek bitti bir burukluk içinde birbirimizden ayrıldık .,Yemek,bitti,1,0,4,0,0.9999988079071045
+"Bir gün set hazır diyorlar , çekim yaptığımız salona iniyorum .",set,diyorlar,4,2,10,0,0.6265025734901428
+"Rüyamda ak sakallı , nur yüzlü bir adam karşıma çıkıp aynen şöyle dedi : "" Muhterem yetkili , bu ülkeye geldiğinizden beri gece gündüz sizi izliyorum .",adam,dedi,13,8,8,3,0.7674341201782227
+"Mesela o zaman bana emniyet yetkilileri gelir , telefon numarası verirlerdi verirler di ; Hollanda'dan , Almanya'dan .",yetkilileri,gelir,6,5,4,0,0.9999758005142212
+Bu oyuna kimse gelmesin .,kimse,gelmesin,3,2,4,0,0.9996422529220581
+"- Ben senin oğlun Hanifi'yim , dedim .",Ben,dedim,10,1,3,0,0.5579544305801392
+A ! o da bizimle dans ediyor .,o,dans,5,2,11,2,0.3277560770511627
+""" Neler çalındı ? "" diye sordu .",Neler,sordu,6,1,4,6,0.6024748682975769
+Bu erkek paraya önem veren bir yapıya sahip değildir .,erkek,sahip,7,1,7,8,0.9249622225761414
+"Aylar sonra , çalınan bu otomobil , istanbul'un arka semtlerinden birinde bulundu .",otomobil,bulundu,15,6,8,1,0.47777029871940613
+"* Deniz araçlarının teknik nitelik ve yeterlilikleriyle bunlarda çalışanların yeterlilik şartlarının belirtilmesi hususlarında temel prensip ve politikayı tespit etmek , koordine etmek ,",nitelik,tespit,20,4,0,0,0.10753155499696732
+Müzikte neler olup bitiyor ? Almanya'yı bilmek kolay ...,neler,olup,3,2,4,0,0.9997748732566833
+""" Bu saati bana Anafartalar'da bir Türk askeri , ölen bir İngiliz subayının kolundan çıkardığını söyleyerek getirdi getir di .",askeri,getir,23,12,10,11,0.1363876461982727
+"""Öteki""nin ezilişini topluca seyretmekten insanlar haz alıyor maalesef .",insanlar,haz,12,11,4,0,0.9999960660934448
+Mantıklı olan bazı hafta sonlarında evli arkadaşlarınızı da davet etmenizdir .,olan,davet,11,3,9,7,0.4478221833705902
+"Az sonra kapımızın önünde kırmızı bir araba duruyor , hemen komşum Dikmen Hoca ile iniyorum .",araba,duruyor,8,7,4,0,0.9990528225898743
+"Merak edilen belgeler , etkinliklerden çekilen fotoğraflar yer alabilir .",belgeler,yer,9,3,11,6,0.48221105337142944
+"Bu onlara duamdır "" dedi .",Bu,dedi,6,0,5,6,0.9856293797492981
+"Müze'de sergilenen eserler sadece Türkiye'de değil , yurtdışındaki yurtdışında ki müzayedelerden de toplanarak Müze'ye getirildi .",eserler,getirildi,24,5,10,0,0.5189853310585022
+"La Caisse d'Epargne , ekim ayında borsadaki borsada ki bazı işlemcilerinin hatası yüzünden 600 milyon avro zarar etmişti etmiş ti .",La,zarar,25,0,5,6,0.999863862991333
+"1972'de toplanan CHP kongresinde Ecevit , İnönü'nün karşısına parti lideri adayı olarak çıkma gibi bir tercih yerine parti organlarına yönelik liste yarışma girdi .",Ecevit,girdi,29,8,11,7,0.5785824060440063
+"Gerçekten , Sevim Dura iyi bir ressamdı ressam dı .",Sevim,ressam,7,2,8,1,0.713565468788147
+Her kavramı ifade kabiliyeti vardır var dır .,kabiliyeti,var,4,3,4,0,0.9978213310241699
+"Mahkeme , Galile'yi her ne kadar serbest bırakmışsa bırakmış sa da , 8 Ocak 1642'de ölünceye kadar , onu gözaltında tutmaya devam etmiştir .",Mahkeme,devam,29,0,5,6,0.9969156980514526
+"Ben , Bülent Beyden randevu aldım .",Ben,randevu,5,0,5,8,0.999649167060852
+Yay kadınının beklentileri cinsellikten ziyade akılla ilgilidir .,beklentileri,ilgilidir,9,3,7,8,0.7591079473495483
+""" Hiç milis kalmayacak """,milis,kalmayacak,3,2,4,0,0.998847246170044
+"Ama bizde , Türkiye'de rastlandığı gibi , kendini methetmek gereksinmesini duymayan yazar türü kadar tadına doyulmaz insanlar yoktu yok tu .",insanlar,yok,23,22,4,0,0.9995207786560059
+"Bu , sosyal olaylarda , ticarette ve entellektüel alanda olabilir .",Bu,olabilir,11,0,5,6,0.9987475872039795
+Bence Türkiye'de oyunun her yönünü eksiksiz oynayan bir tek Hakan Şükür var .,Hakan,var,13,11,11,7,0.8268839716911316
+O bizden de deliydi deli ydi .,O,deli,5,0,5,6,0.990331768989563
+G . Antep büyük oynuyor,G,oynuyor,4,0,5,6,0.9955258965492249
+Oyunu izleyen anne - babaların o anda ne düşündüğünü bilmek isterdim ister dim .,anne,ister,11,3,9,7,0.34845733642578125
+Evde de klima yok ki ...,klima,yok,3,2,4,0,0.9999966621398926
+""" Saddam'ı Kuveyt'e saldırması için Amerika teşvik etti ! "" Bu taşların kaç yaşında olduğunu ne ben bilebilir ne de oradakilerden herhangi biri .",ben,biri,30,21,5,11,0.36638662219047546
+Rüya tabirinde faydalar vardır var dır .,faydalar,var,5,4,4,0,0.9999366998672485
+Başka ne olabilirdi olabilir di ki ?,ne,olabilir,2,1,4,0,0.9999701976776123
+"Ben bunu , bir hekim arkadaşımdan dinledim .",Ben,dinledim,7,0,5,8,0.9577113389968872
+"Yukarda belirttiğim gibi , babam , sinirlendiği zamanlar kimi sözcüklerde tutulurdu tutulur du ama ne Falih Rıfkı Atay'ın ne de bir başkasının yanında kesinlikle "" tir tir "" titremezdi titremez di .",babam,tutulur,14,6,8,8,0.6806167960166931
+İkinci dönem bana bir gayret geldi ve sınıfı doğrudan geçtim .,gayret,geldi,5,4,4,0,0.99997878074646
+"Üstelik o , genç kızlığında , son derece az rastlanan bir olayı başarmış başar mış bir insandı insan dı : Paris Konservatuarı Keman Bölümü birincisiydi birincisi ydi .",o,insan,18,1,7,0,0.19230350852012634
+Mesela lokantalarda tek kişilik porsiyon yok .,porsiyon,yok,6,5,4,0,0.9992079138755798
+Sanal âleme en çok ilgi kadın ve gençlerden geliyor .,ilgi,geliyor,10,5,0,0,0.5078418850898743
+Olası bir Kürt devletinin daha büyük bir Kürt devleti olmasını kabul edebilirsiniz .,devletinin,kabul,11,4,8,3,0.599145770072937
+"e gönderdiği kutlama mesajında , kurumun milli ve manevi değerleri gözeten ilkeli ve seviyeli yayın anlayışıyla Türk televizyon yayıncılığının temel ve öncü kurumlarından olduğunu belirtti .",kurumun,belirtti,27,5,10,11,0.577896237373352
+"Saddam Hüseyin , duruşmada , "" Amerikan askerleri bana dayak attı ve işkence etti "" dedi .",askerleri,dedi,16,8,10,11,0.22132118046283722
+O yarım saat sanki bir ömür gibi geldi bana .,saat,geldi,7,2,4,11,0.330762654542923
+Olan her ne ise izin ver o olsun .,o,olsun,8,7,4,0,0.9998664855957031
+İlker'in İngilizce bilgisi bu siteleri anlamaya yeterli değildi .,bilgisi,yeterli,9,5,10,7,0.714063286781311
+""" Lanet olsun be , bok var sanki dışarıda .",bok,var,7,6,4,0,0.9999994039535522
+"Bu okulu , 1899 yılında bitiren Mustafa Kemal , aynı yıl İstanbul'da Harp Okuluna girdi .",Mustafa,girdi,18,7,11,7,0.2929728329181671
+Artık siz esaslı bir yardımı hak ettiniz .,siz,hak,5,1,7,8,0.8276735544204712
+Ağaçların arasında şırıl şırıl akan güzel bir dere varmış var mış .,dere,var,11,10,4,0,0.9999294281005859
+"O da biliyordu biliyor du bunu , demekki yanımdakinin tayinine bakıyordu bakıyor du .",O,biliyor,2,0,5,6,0.9755546450614929
+"Önümüzdeki Önümüzde ki hafta Türkiye'ye dönmesi beklenen teknik direktör Del Bosque'nin ise ülkesinde hem yeni sezonda kadroda kalacak oyuncuları belirlemek , hem de İspanya'dan getirmek istediği oyuncular için çalışmalarını sürdürdüğü belirtildi .",Del,belirtildi,38,12,11,11,0.5123673677444458
+"Büyükelçi Erkan Gezer , Zaman'a mülakat verdikten iki gün sonra emekliye ayrıldı .",Erkan,emekliye,15,3,11,4,0.23455660045146942
+"Her şeye rağmen Kabil'de , hayat devam ediyordu ediyor du .",hayat,devam,8,7,4,0,0.9998931884765625
+Bir tekme ayaklarının altındaki altında ki tabureyi savurdu savur du .,tekme,savur,10,1,0,0,0.42289435863494873
+"Yazar , ilk gençlik yıllarından başlayarak kadınlara karşı büyük bir sevgi gizli gücüyle doludur dolu dur .",Yazar,dolu,13,0,5,6,0.9954074025154114
+Kısacası Rumeli içerdiği tüm nesnel koşullarla bir ilerici harekete gebeydi gebe ydi .,Rumeli,gebe,13,1,8,5,0.8551751375198364
+"Hem o yol hem bu oğul hep dursun , gitmesin ! """,yol,dursun,7,2,10,10,0.4364163875579834
+"Çanakkale Savaşları ile ilgili bir efsane daha var ki , onu da anlatmamak olmaz .",efsane,olmaz,14,5,6,11,0.30003076791763306
+Lider Telekom yine galip,Telekom,galip,3,1,7,8,0.7160243988037109
+Babil Kulesi'nin yeryüzünü bir kez daha selamlaması gibi bir şey bu .,bir,bu,15,7,8,4,0.327962726354599
+"Onlar Anadolu'dan kalkıp , dünyanın her köşesine sevgi tohumları ekmek için yola çıktılar , birer sevgi ocağı haline gelen eğitim kurumlarını , Türk okullarını kurdular .",Onlar,yola,13,0,5,8,0.9821011424064636
+"İçtüzüğe göre , komisyonun çalışmalarını üç ay içinde tamamlaması gerekiyor .",komisyonun,gerekiyor,13,6,10,9,0.7242661118507385
+Ama sen sekiz say .,sen,say,3,1,8,7,0.9407545924186707
+Tiniç tarafından hazırlanan ön rapor toplantıya getirildi .,rapor,getirildi,8,6,8,2,0.6392638087272644
+X . Ev'de Ay ve Jüpiter var .,Ay,var,8,5,11,7,0.6776356101036072
+"Ayrıca mevcut "" backbone "" üzerinden çeşitli elektronik ticaret sitelerine Web sunuculuğu , güvenlik , yedekleme ve ödeme altyapısı hizmeti verilmektedir .",hizmeti,verilmektedir,23,22,4,0,0.9628636837005615
+Üç günlük bir tatil olduğunda aileleri ya da kız arkadaşları ve dostları ile Dubai'ye gidiyorlar .,tatil,gidiyorlar,16,3,4,11,0.1662660837173462
+""" Şerifçiğim , senaryo sana ait .",senaryo,sana,6,5,4,0,0.9999997615814209
+"Mutlulukla aramızda duran en büyük engel kendimiz miyiz yoksa yok sa ? "" 500 mgr . "" dedik .",kendimiz,dedik,20,8,7,5,0.46561864018440247
+İstanbul'un varoşlarında ise durum tam tersi .,durum,tersi,9,7,10,7,0.9740694165229797
+Benim haberim yok .,haberim,yok,2,1,4,0,0.9999657869338989
+Bundan haberim bile yoktu yok tu .,haberim,yok,3,1,7,5,0.776563286781311
+Üç tane ipucu yeter .,ipucu,yeter,3,2,4,0,0.9998866319656372
+Oysaki Oysa ki sadece insanlarda duygular vardır var dır .,duygular,var,7,6,4,0,0.9999984502792358
+"Bir insan şu aileden , şu etnisiteden gelir , şu dine mensuptur mensup tur .",insan,gelir,10,1,8,3,0.8834326267242432
+"Hollanda , 2000 Avrupa Kupası'na komşusu Belçika'yla birlikte dört şehrinde ev sahipliği yapacak .",Hollanda,ev,14,0,5,6,0.9950425624847412
+Ama sizin soy nedense gider,soy,gider,4,2,3,10,0.8602856993675232
+Tabii daha ileri tedbirleri de var .,tedbirleri,var,5,3,4,1,0.9943310022354126
+"Anladım ki , bizleri kimse sevmez .",kimse,sevmez,6,5,4,0,0.9997342228889465
+Ondan sonra beyler de öyle yapar .,beyler,yapar,6,3,3,8,0.6825960874557495
+"Çok seks , bebek getirir mi ?",seks,getirir,4,1,6,1,0.39811038970947266
+Erbil'de ise 42 sağlık merkezinden sadece 5 tanesi çalışabilir haldeydi halde ydi .,tanesi,halde,12,10,10,7,0.9519556164741516
+"Karşınızda düzenli ordu yok , dolayısıyla taarruz durumunda değilsiniz .",ordu,yok,4,3,4,0,0.9999749660491943
+Bana kalırsa kalır sa insan evlatları olarak yaptığımız en büyük hata da budur bu dur .,hata,bu,12,10,8,9,0.5796414613723755
+""" Oğlum git arabayı çalıştır , motor ısınsın "" derdi .",motor,derdi,10,6,9,2,0.4199785888195038
+Devre arasında ne oldu ?,ne,oldu,4,3,4,0,0.9998661279678345
+"Geçiş Dönemlerinde Kudretli Bir El Geldi , geldi , burnunu cama dayadı , bana kafatasını gösteriyor .",El,Geldi,8,7,4,0,0.9991483688354492
+Bu efsaneyle benzer temalara sahip bir başka hikayenin başrolünde de James Dean var .,James,var,15,12,5,11,0.4117946922779083
+Bu da bir sorun olarak sizin karşınızda durur .,Bu,durur,7,0,5,8,0.9991949200630188
+Kral bu cevapları kabul etmedi .,Kral,kabul,3,0,5,6,0.9997935891151428
+Keloğlan : Ulusal egemenlik nedir ?,egemenlik,nedir,5,4,4,0,0.9999901056289673
+"Bu , filmin başındaki başında ki sahne idi .",Bu,sahne,6,0,5,6,0.9648874402046204
+"Yeryüzünün en büyük , en güzel , en insan kokulu kültür kazanını , çarpık ulusçulukla tanıtmaya kalkışanlar mı , işi , güzel kadın , deniz , güneş , yemek yazınına dökenler mi istersiniz ?",insan,istersiniz,41,10,1,3,0.029443874955177307
+Hepimiz koleksiyoner olduk .,Hepimiz,olduk,3,0,7,10,0.9925159811973572
+Ama ben kimi kişileri kendimce birtakım yöntemlerle test ettim .,ben,test,8,1,6,4,0.8178483247756958
+""" O'na uyup denize açıldığın için onun kadar suçlusun "" Ben : ""O'nunla gittim , çünkü o'nunla birlikteydim birlikte ydim "" dedim .",Ben,dedim,36,16,3,0,0.5095465183258057
+"Ben burada rahattım rahat tım , geldin beni buldun .",Ben,rahat,2,0,5,8,0.9846273064613342
+""" Keşif yetkisi mahkemelere aittir .",yetkisi,aittir,5,2,10,6,0.7179672718048096
+- Ben de çıplak ağaçtaki ağaçta ki kuşu yapabilir miyim anne ?,Ben,yapabilir,10,1,7,8,0.7788171172142029
+Ben görevliyi de arabama almak istedim .,Ben,istedim,7,0,5,6,0.9972525238990784
+İnsanları tanımak için hapishaneler kadar elverişli yer yoktur yok tur .,yer,yok,9,8,4,1,0.999848484992981
+""" En küçük oğlum Mahmut Can , çok zekiydi zeki ydi .",Mahmut,zeki,10,4,8,5,0.6202337145805359
+"Mehmet ( Memo ) , kariyeri boyunca ikinci ligden Türkiye'nin en iyi takımlarına ve Milli Takıma kadar nerede oynadıysa oynasın her zaman "" önce takım "" zihniyetine sahip olmuştu olmuş tu .",Mehmet,sahip,37,0,5,6,0.9961950778961182
+"Anayasa Mahkemesi krizi çözmemiş , krizi ortaya koymuş , krizi tespit etmiştir etmiştir tir "" dedi .",Mahkemesi,dedi,16,1,10,9,0.7957121133804321
+Burina ( borina ) deyimi seren yelkenlerinin rüzgârüstü yakalarını rüzgâra açan selviçe ( hareketli halat ) demek .,deyimi,demek,26,6,10,7,0.7981880307197571
+Almanya buraya kadar ...,Almanya,buraya,1,0,4,0,0.9999874830245972
+Bütün şirketlerde toparlanma var .,toparlanma,var,3,2,4,0,0.9999439716339111
+"Oyuncu , Carolina Üniversitesi'nde oyunculuk eğitimi aldıktan sonra New York'ta tiyatro kariyeri yapmaya karar verdi .",Oyuncu,karar,18,0,5,6,0.9997140765190125
+O da birgün sonra uçakla İstanbul'a geldi .,O,geldi,8,0,5,6,0.9968053102493286
+* Siz bebekken bebek ken hangi ayakkabıları giydirmişler giydir mişler ? Şimdi hangi ayakkabıları giyiyorsunuz ?,Siz,giydir,8,1,9,1,0.9106574654579163
+"Tüzük ve program çalışmaları konusunda oluşturulan çalışma grubunun yarına kadar hazırlıklarını tamamlayacakları , Salı günü ise milletvekilleri ile yapılacak toplantıdan sonra partinin adına kesin karar verileceği belirtiliyor .",grubunun,belirtiliyor,30,8,11,8,0.19604268670082092
+Bu film Öger Prodüksiyon'un ilk filmi .,film,filmi,9,1,7,8,0.9396198987960815
+"Bu özellikleri nedeniyle matematik öğretmeni Yüzbaşı Mustafa Efendi , ona "" olgun "" anlamına gelen Kemal adını verdi .",Mustafa,verdi,17,6,11,2,0.18014352023601532
+"Bir gün birine bir şey diyorsun , ertesi gün başka biri gelip "" nasıl gidiyor , boşanman sonuçlandı mı "" diyor , güldürüyor beni .",biri,diyorsun,5,2,3,1,0.6781291365623474
+"* Geçici personel , her ay için bir gün ücretli izne hak kazanacak .",personel,hak,11,2,8,3,0.7955754995346069
+Peşinden First Lady ekrana getirildi ...,First,getirildi,6,3,11,11,0.559370219707489
+Bu gece bize yetmezdi yetmez di .,gece,yetmez,3,1,11,5,0.7534343600273132
+"Bunlar arasında radikalleşme , Londra'daki Londra'da ki 7 Temmuz saldırılarını anlatan "" 7 /7"" , Britanya'da Müslümanların yoğun yaşadığı yerleri ifade etmekte kullanılan ve giderek İslami teröre atıf haline gelen "" Londonistan "" ile Guantanamo Üssü'nü niteleyen "" Gitmo "" var .",7,var,57,12,5,0,0.08081743121147156
+"Sinan Engin'in 26 Nisan'da başlayan Brezilya seferi , 6 Mayıs Pazartesi günü sona erecek .",seferi,sona,17,11,8,1,0.8120378255844116
+Sabaha kadar bir asker su getirdi getir di .,asker,getir,6,4,10,11,0.9486413598060608
+Bunun da araştırılmasını istiyorum .,Bunun,istiyorum,4,0,5,6,0.9969209432601929
+1996 için belirlenen hedef ise 60 trilyon lira .,hedef,lira,7,3,7,8,0.6522687673568726
+""" Peki , biz sevgiline bir şey diyebilir miyiz anketmen ? """,biz,diyebilir,8,3,7,8,0.9163196682929993
+"İster erkek ister kadın olsun , kimliğini belirtmekten çekinen bu kişiyi , arada sırada da olsa öylesine merak ediyordum ediyor dum ki ...",erkek,merak,19,1,1,6,0.07448083907365799
+Yay burçlar kuşağının dokuzuncu burcudur burcu dur .,Yay,burcu,6,0,5,6,0.9897547364234924
+"Ne belli saat ve günlerde ayin vardı var dı , ne de belli formüllerin uygulandığı dualar .",ayin,var,6,5,4,0,0.9998180270195007
+Sabah kahvaltısında çorba içmeye alışmış kimseler bunu kabul etmeyeceklerdir .,kimseler,kabul,8,6,7,8,0.9830830097198486
+İddianamede onlar da var .,onlar,var,4,2,7,8,0.8359017372131348
+7 . Bir vajina çok fazla küçük olabilir mi ?,vajina,olabilir,7,3,8,3,0.9391109943389893
+"Kişi başına düşen kitap sayılarımız ; Sıradanlığın ötesinde bir yan bulmalı okur , diyorsunuz sanırım .",okur,diyorsunuz,16,14,10,9,0.5128589868545532
+"Her gidiş gelişte bir kelime , bir kelam kapsaydın kapsa ydın memleket maruf , sende arif olurdun olur dun .",memleket,olur,21,15,11,5,0.6162299513816833
+"Nevşehir'i , Kaymaklı Yeraltı Şehrini ve Ortahisar'ı gezmede Nevşehir'den gelmiş olan Sami Bey rehberlik etti .",Sami,rehberlik,23,21,3,4,0.4512072205543518
+"Karşıdan gelen yeşil paltolu , cebinde Hürriyet Gazetesi olan biri ona "" Aksaray'a buradan mı gideceğim "" diye soracaktı sor acaktı .",biri,sor,23,12,8,3,0.9184959530830383
+Bu sana çok güzel gelir .,Bu,gelir,4,0,5,8,0.9961471557617188
+"O düşüncede olanların gereğini , kendisinin yapacağını belirtiyor .",kendisinin,belirtiyor,8,6,6,9,0.6040141582489014
+O birkaç dakikalık zaman dilimi içinde yüksek bir ağaçtan yere düştüğümü hissettim .,O,hissettim,12,0,5,6,0.9808376431465149
+O da geç kalmakmış kalmak mış .,O,kalmak,3,0,5,6,0.9983729124069214
+"- İyi geceler , dedi , iyi geceler .",geceler,dedi,4,2,7,4,0.7366432547569275
+ABD'li bakan İslamabad'dan aldığı sözlerden tatmin oldu .,bakan,tatmin,12,3,8,3,0.2588742673397064
+Öyle tuhaf bir şey ki kim başa geçerse kendi doğrularını uyguluyor .,kim,uyguluyor,11,5,8,3,0.8744791150093079
+"Sitelerde yaşayan herkesin hemen hemen bir otomobili bulunurken , gecekondulardakilerde ise ""taksi"" olarak çalıştırılan arabalar var .",arabalar,var,23,22,4,0,0.9995245933532715
+"Birden hayat çıplaklaşıp kayboldu , bu garip , etkileyici ve masalsı ışığın içinde .",hayat,kayboldu,5,1,8,1,0.42064523696899414
+"Üstelik , daha önce çekilmiş bir filme ne kadar da benziyordu benziyor du .",filme,benziyor,12,6,7,4,0.6554794311523438
+"ABD Başkanı George Bush , Hindistan Başbakanı Manmohan Singh'i , Teksas'taki Teksas'ta ki çiftlik evine davet etti .",George,davet,24,2,1,6,0.07988626509904861
+"Beşte biten atölye mesaimizi biz , şaşı gözlü odalarımızda elektrik ışığı altında gece yarılarına kadar aynı hızla devam ettiriyor ve ekseriya sabahlara kadar dünyanın kâğıdını karalıyor , kilolarca beyaz boya , şişelerce mürekkep sarf ediyorduk ediyor duk .",biz,devam,22,6,8,10,0.2493998259305954
+"ABD , Gürcistan'ın ardından Ermenistan ve Azerbaycan'la da askeri işbirliğini arttırmaya yönelik görüşmelerde bulunuyor .",ABD,bulunuyor,17,0,5,6,0.9896911978721619
+Metroseksüel Türklere örnek olarak gösterilen Kenan Doğulu da giyim sektörüne girdi .,Kenan,girdi,14,9,4,5,0.4722917079925537
+Ancak çok ciddi şekilde kurallar uygulandığı için kazak ve çorapları kabul etmediler .,kurallar,kabul,11,4,6,11,0.4876232445240021
+"( beyin şimdilik dursun ) "" bir tek insana "" aittir .",beyin,aittir,10,1,9,2,0.34295129776000977
+O bilinen eski Türk mahallelerinden birinde .,O,birinde,6,0,5,6,0.9974417686462402
+"Samsung , üç yeni kompakt fotoğraf makinesini geçen hafta sergiledi",Samsung,sergiledi,9,0,5,8,0.9984391331672668
+"Bunun , bundan öte bir yolu yoktur yok tur .",yolu,yok,6,5,4,0,0.9998725652694702
+"21.92 metreyle bu yılın en iyi ikinci derecesini gerçekleştiren İngiliz atlet , bugünkü bugün kü seçmelerde 19.51 metreyle serisinde dokuzuncu , genel klasmanda 20.",atlet,dokuzuncu,26,13,10,0,0.9487868547439575
+"Küçük beyaz bulut bisiklet oldu , uzun saçlı kocaman bir bebek oldu , kamyon oldu ama ne Hasan'ın ne de Esma'nın öne eğilmiş başlarını yukarıya kaldıramadı .",bulut,oldu,4,2,6,9,0.5895730257034302
+Ben seğirtip arabaya ulaşana kadar kapıyı açıp girdiler .,Ben,girdiler,10,0,5,6,0.9992185831069946
+- Ben Halil .,Ben,Halil,2,1,4,0,0.9999817609786987
+"Turist sorunlarına , İnsan Hakları Komisyonu el koydu",Komisyonu,el,7,6,4,0,0.9999997615814209
+"Kurban kesilir ... """,Kurban,kesilir,1,0,4,0,0.9999939203262329
+"Aslında hiç birisi kehanet olmuyor , işaretleri görebiliyorsunuz .",birisi,olmuyor,5,2,10,6,0.9020536541938782
+İşin doğru ya da uydurma olduğuna tabi ki mahkemeler karar verecekler .,mahkemeler,karar,9,8,4,0,0.9999383687973022
+Bu güvenlik açısından gereklidir .,Bu,gereklidir,3,0,5,8,0.9970033764839172
+Bunun sonucunda yüzlerce İngilizce site geldi .,site,geldi,5,4,4,0,0.9999991655349731
+Babam kimi zamanlar Ankara'da Anadolu Kulübü'nde briç oynardı oynar dı .,Babam,oynar,12,0,5,6,0.999566376209259
+"Bu adam , devrindeki devrinde ki ilahi kitapları tetkik etmiş , ilmi sahada otorite olmuş , ibadet ve taatıyla şöhret kazanmıştır .",adam,tetkik,9,1,7,8,0.9252098798751831
+"Ancak bugünkü adıyla KADEK olan PKK , büyük ölçüde etkisiz hale getirildi .""",PKK,hale,11,6,7,8,0.6318835020065308
+Öğürtü ile beraber kan gelirse gelir se bunun tahrişe bağlı olduğunu anlatıp sakinleştirmek gerekir .,bunun,gerekir,19,9,6,3,0.298328161239624
+Uydurmasan Uydurma san ne olacak ?,ne,olacak,8,7,4,0,0.999920129776001
+"sahibi Tevfik İhtiyar , "" Bu galeride , kişisel ve karma sergiler düzenlenirken düzenlenir ken , vakfı desteklemek ve aynı zamanda da çağdaş Türk resim ve heykeline hizmet etmek için Nâzım Hikmet Kültür ve Sanat Vakfı'nın Sıraselviler'deki Sıraselviler'de ki merkezinin bir bölümünü çağdaş bir galeri haline getirdik getir dik "" dedi .",Tevfik,dedi,72,2,8,5,0.38923510909080505
+"Balık burcundan olanlar , kendilerine daha olumlu ve iyimser bir bakış açısı geliştirmek zorundadırlar zorunda dırlar .",olanlar,zorunda,14,3,11,7,0.5087877511978149
+"Ben de diyorum ki , bu ilkel organizasyona rağmen benzer ameliyatlar yaptık , yüzlerce hasta kurtardık kurtar dık .",Ben,diyorum,2,0,5,8,0.9752787947654724
+"Olaylara çeşitli yönlerden bakabilme kabiliyeti , danışmanlık gibi işlerde de uygundur uygun dur .",kabiliyeti,uygun,12,6,4,11,0.2201155722141266
+""" Sizin Cumhur gitti ... """,Cumhur,gitti,3,2,4,0,0.9999366998672485
+Bunlar başkent Addis Ababa'ya 59 km mesafede bir üs ile Somali sınırında çöldeki çölde ki gizli cezaevlerinde tutuluyor .,Bunlar,tutuluyor,24,0,5,6,0.9967431426048279
+Ben de istedim pilav .,Ben,istedim,2,0,7,3,0.9701772928237915
+"Tabii ben böyle nevrotik hadiselerimi yazdıkça , Perihan Hilmi Örnekal'layıp daha önce bilmediği için uygulayamadığı bu "" Maksimum Şişe Temizleme "" yöntemini hayatına sokacak olan nevrotik eğilimli okurlarıma da "" Sony "" , diyorum .",ben,diyorum,45,1,5,1,0.1494879275560379
+"Ben de "" İntiharda kararlı mısın ? "" diye sordum .",Ben,sordum,11,0,5,6,0.9960195422172546
+Bu tasavvuf ozanı Yunus Emre'nin sesiydi sesi ydi .,Bu,sesi,10,0,5,6,0.935742974281311
+"Sanki onları , topluca okul getirmiş getir miş .",okul,getir,5,4,4,0,1.0
+Hiçbir fark yok arada .,fark,yok,2,1,4,1,0.9859877228736877
+"Bu mahalle arasında , bakkal dükkanından çok , eczane var .",eczane,var,10,9,4,0,0.999866247177124
+Bu oyuncuda önemli bir sorun bulunmadığı ifade edildi .,sorun,ifade,7,5,6,9,0.40832653641700745
+"Açık ihalelerde , "" yaklaşık maliyet "" in yüzde 80'i düzeyinde oluşan fiyatlar , pazarlık usulünde yüzde 98 , doğrudan teminde ise yüzde 89 düzeyinde oldu .",fiyatlar,oldu,30,15,5,7,0.307651162147522
+"Garip tutkularınızdan biri , yanıbaşınızda yiyecek içecek bir şey bulundurmak .",biri,bulundurmak,13,4,7,2,0.8422941565513611
+Adada elektrik yoktu yok tu .,elektrik,yok,3,2,4,0,0.9998953342437744
+Kurumsal hedefler ile kurumun diğer alanlardaki alanlarda ki alt hedefleri nasıl entegre edilmelidir ?,hedefler,entegre,11,1,7,8,0.5083155035972595
+"Tüm bunlar yetmezmiş yetmez miş gibi , elimi yıkamak için lavaboya giderken gider ken , arkamdan koşup karnıma olanca gücüyle yumruk attı .",bunlar,yumruk,27,1,7,8,0.08556489646434784
+"Basçı Chris Minh Doky'nin albümü "" The Nomad Diaries "" , son kaydı oldu .",The,oldu,21,11,10,8,0.25842443108558655
+Zaten onun da insan ilişkilerinde soğuk yapılı olması bunu destekler .,onun,destekler,9,1,8,11,0.1760948747396469
+İşte ben acemilikten yedek subaylığa sadece bu tel örgüyü geçecek kadar yol katederek terfi ettim .,ben,terfi,20,1,7,8,0.9680274128913879
+""" Araştırma ve incelemelerin sonuçlarını gösteren , bilim ve tekniğin ilerlemesini sağlıyan her türlü yayımları yapmak ; yardımcılara , doktora adaylarına ve öğrencilerine yaptırmak .""",bilim,yapmak,20,8,11,0,0.30790674686431885
+Ben de en yakınımızdaki yakınımızda ki bir sivil savunma kuruluşunda gönüllü olarak çalışmak istiyorum .,Ben,istiyorum,15,0,5,6,0.9974998831748962
+"Paris'teki Paris'te ki barış görüşmelerine katılan Yugoslav heyeti , önceki önceki ki gün anlaşmayı imzalamak için öne sürdüğü değişiklikler konusundaki konusunda ki kararlılığını devam ettiriyor .",heyeti,devam,29,11,7,8,0.47828754782676697
+"Almanya ve Fransa arasındaki arasında ki işbirliğini daha da geliştireceklerinden söz ettiklerini ve kendisine görevinde başarılar dilediğini ifade eden Merkel , "" Sarkozy ile çok iyi bir işbirliği olacağına inanıyorum "" dedi .",Merkel,dedi,34,20,10,11,0.892338752746582
+"Gecenin sonunda toplu olarak sahneye çıkan Aksu , Leman Sam , Yaşar , Timur Selçuk , Uğur Yücel , Mehmet Ali Erbil , Cem Yılmaz , Grup Bulutsuzluk Özlemi ve Nilüfer , hep birlikte "" İspanyol Meyhanesi "" adlı unutulmaz şarkıyı seslendirdi .",Aksu,seslendirdi,46,7,11,0,0.37343281507492065
+"Onlar , güzel , değerli hediyelerden büyük bir zevk alırlar .",Onlar,zevk,9,0,5,6,0.9986287355422974
+Hessen eyaletinde de hazırladığımız bu kitap verildi .,kitap,verildi,8,7,4,0,0.9998698234558105
+""" Benim Sinemalarım "" , Avşar'ın doruk noktalarından biri olacaktı olacak tı .",Benim,olacak,12,1,6,6,0.5599237084388733
+"İnanılmaz koruyucu , baskıcı , her şeyi ben bilirim havasında biriydi biri ydi .",ben,biri,11,8,2,7,0.3323698937892914
+Başka hiçbir kelimeye gerek yok .,gerek,yok,5,4,4,0,0.9999868869781494
+"Bana her seferinde "" Biliyor musun sen çok komik hapşırıyorsun ."" der .",sen,der,16,7,11,7,0.1320977807044983
+Bir ara çok cılız bir ses geldi kulağına .,ses,geldi,8,7,4,0,0.9999967813491821
+""" Bize böylesi memurlar gereklidir , "" der .",memurlar,der,7,3,10,11,0.6686764359474182
+Her ses partisinin konuşmasıyla gökyüzünde yeni mesafeler kat ediyoruz .,partisinin,kat,8,2,6,4,0.26177382469177246
+"Atatürk'ün doğum tarihi , ay ve gün olarak bilinmemektedir bilinmemekte dir .",tarihi,bilinmemekte,10,4,8,2,0.4141368269920349
+Büyük bir yazar oldu .,yazar,oldu,3,2,4,0,0.9996881484985352
+İçimde bir Mehmet Ali Erbil var .,Mehmet,var,6,3,5,11,0.716282069683075
+PARANIN ARKASINDA NE VAR ?,NE,VAR,8,7,4,0,0.9994511008262634
+Dost meclislerinde O da gelir oturur masanın başköşesine .,O,oturur,6,3,11,2,0.6469640135765076
+Biz ülkemizde o güne kadar tartışılmayan en sivri konuları tartışmaya açmak istiyorduk istiyor duk .,Biz,istiyor,12,0,5,8,0.9862961769104004
+"Menderes Tekstil Yönetim Kurulu Başkan Vekili Ahmet Göksan da , Mısır'da yatırım planladıklarını ifade etti .",Ahmet,ifade,18,7,11,6,0.10818975418806076
+Aileye ben bakar oldum .,ben,bakar,3,2,4,0,0.9998844861984253
+Ben ise ayakta dimdik ve istediğim duvar dibine .,Ben,ayakta,2,0,5,8,0.9991629123687744
+"Bu durum mide bulantısı , kusma , çarpıntı , halsizlik , daha ağır vakalarda nefes darlığı ve kendinden geçmeye ( bilinç kaybına ) yol açar .",durum,yol,25,1,7,8,0.878695011138916
+"Böylece her şey ( ilim de dahil her şey ) , dinle sınanacağına , din başka şeylerle sınanacak bir yere konulmuş olur .",din,olur,25,11,6,5,0.15903730690479279
+maddeleri ile 1 Numaralı Protokol'ün 1 ve 3'üncü maddelerinin çiğnenmediğine karar vermiştir .,maddelerinin,karar,16,13,6,9,0.37090590596199036
+"Nuri Bilge Ceylan'ın "" Uzak "" filmi , 3 - 19 Ekim tarihleri arasında Lincoln Center'da düzenlenecek New York Film Festivali'nde yer alacak .",filmi,yer,29,9,8,1,0.37086355686187744
+Ben de oraya gittim .,Ben,gittim,3,0,5,8,0.9888468384742737
+"Böylece neden yaşadığımızı , yarın ölsek gerçekten neyi yapmak isteyeceğimizi düşünürüz ki bu sağlık kadar gereklidir .",bu,gereklidir,19,16,7,9,0.5687755346298218
+Coşkun Kırca'nın gerçekleri çarpıtan tanıklığına karşı savunma tanıklığı yapmak üzere Zorlu'nun avukatına başvurdumsa da Yüce Divan savunma tanıklarının dinlenmesine gerek görmediğini bir ara kararıyla bildirdi bildir di .,Divan,bildir,41,29,11,7,0.3392745554447174
+Annem ise ev hanımı .,Annem,ev,2,0,5,6,0.9997057318687439
+Ekonominin patronu koltuğuna oturdu otur du .,patronu,otur,4,2,11,7,0.5222111940383911
+"Ardından "" Ali Yazar Veli Bozar "" ve "" Şehrazat "" geldi ...",Ali,geldi,14,2,10,10,0.23212802410125732
+Fakat buna rağmen o gün boyunca telefon Ali Beydeydi Beyde ydi .,telefon,Ali,7,6,4,0,0.9999967813491821
+Sessiz yanaşma işlerini çok iyi becerdiğim için adam beni biraz geç fark etmişti etmiş ti .,adam,fark,14,10,7,5,0.5338618755340576
+Cennet ve cehennem nedir ?,Cennet,nedir,3,0,5,6,0.9988935589790344
+"Kahverengi - kırmızı , kırmızı renkli olan 20 - 30 cm'lik cm 'lik iskorpit ve 35 - 60 cm'lik cm 'lik lipsoz'un ucunda 3 tane zehirli diken , sırt yüzgeçlerinin en sonunda büyük zehirli diken , kafasının üstünde birkaç zehirli diken bulunur .",diken,bulunur,57,39,8,2,0.16441358625888824
+"Bilirsiniz , her yalan sonunda Pinokyo'nun burnu uzardı uzar dı .",burnu,uzar,15,12,8,4,0.36417287588119507
+Herkes helalleşmeye geliyordu geliyor du .,Herkes,geliyor,3,0,5,8,0.995415210723877
+Aramıza kara dikenler gibi girenler kimlerdir kim lerdir ve bizler biz ler niçin onların kararmış karar mış yüzlerine tüküremiyoruz ? ..,girenler,kim,8,7,4,0,0.990649402141571
+""" Sen ne arıyorsun burada abi ? "" dedi .",Sen,dedi,9,1,11,1,0.4478603005409241
+Fakat biz burada önemli önem li sayılabilecek bazı sorunlara değinmiş olduk .,biz,olduk,11,1,7,8,0.8616172075271606
+Bu yüzden telefonlar icat edildi .,telefonlar,icat,3,2,4,0,0.9999756813049316
+Ben de bu erdemin yüksek bir derecesine sahibim .,Ben,sahibim,9,0,5,6,0.9924773573875427
+Manor dışında dikkate alınacak ölçüde bir tarımsal faaliyet yoktur yok tur .,faaliyet,yok,9,8,4,0,0.9999997615814209
+"Bu paragraf , ne yazık ki Türkiye’nin mizah babasına ait .",paragraf,ait,11,1,8,1,0.7837902903556824
+"Ama doktorlar ' Yine de alalım , iyi olur ' diyorlar ...",doktorlar,diyorlar,10,1,8,3,0.8935350775718689
+"Bir gün çocuklara konacak güzel isimlerden bahseden hadisi okuyorduk okuyor duk , Adeti olduğu üzere elini kaldırdı kaldır dı : Dur evlad dur ! diyerek bir nükte anlatacağını ifade etti .",Dur,ifade,35,24,4,6,0.16716156899929047
+KENDİNİ İKİ BOK SANMAK Bunun da tek bir yolu vardır var dır .,yolu,var,14,13,4,0,0.999816358089447
+Ben olabilirim .,Ben,olabilirim,1,0,4,0,0.9999899864196777
+Ben Everton diyorum ama sadece bir fikir vermek için .,Ben,diyorum,3,0,5,6,0.9850655198097229
+"Bu olmaz , "" dedim .",Bu,dedim,4,0,5,6,0.9885590076446533
+"Ben , İngilizce'yi çok seviyorum .",Ben,seviyorum,6,0,5,6,0.9953097701072693
+Bir de özel medrese kurulmasına izin verildi .,medrese,izin,5,3,1,9,0.6242259740829468
+"Bir tutam kırmızı karanfil , bir demet menekşe olsun istiyorum Bosna'da , Tunceli'de , tüm evrende ...",karanfil,istiyorum,10,3,10,0,0.38676732778549194
+"Seks , skandal , isyan , rock'n roll , PJ'in 1.55'lik 1.55 'lik , ama sahnede , sanki 5 - 10 metreyi bulan gövdesinde üç boyutlu hale geliyor !",Seks,geliyor,42,0,5,6,0.9997199177742004
+"Önce han , bunu kıskaçla tutup örse koyar , çekiçle döver .",han,koyar,10,1,8,3,0.5309670567512512
+Ahmet her gittikleri yerde selam verecek ve birkaç da soru soracaktı sor acaktı .,Ahmet,selam,4,0,5,6,0.9999456405639648
+"Bu metin bir muhtıra olabilirdi olabilir di ama muhtıra olması , karşı tarafın yani sivil kesimin kabulüne bağlıydı bağlı ydı .",metin,olabilir,6,1,8,3,0.6815382242202759
+"Misafir geldiğinde salondan kahkaha sesleri duydukça , isyan ederdim eder dim .",Misafir,isyan,9,0,5,6,0.9981194138526917
+Kitaplarını okuyanlar yarının dünyasını görür gibi oluyorlardı oluyorlar dı .,okuyanlar,oluyorlar,9,2,6,5,0.32711783051490784
+"Kimseye tabak , çatal , bıçak verilmiyor .",tabak,verilmiyor,8,3,10,10,0.5180585980415344
+"Bu , bizce çok olumlu ... """,Bu,olumlu,5,0,5,6,0.9986640214920044
+"4616 Sayılı Şartla Salıverilmeye , Dava ve Cezaların Ertelenmesine Dair Yasa ile tahliye edilmesiyle "" mağdur "" olduklarını belirten bir grubu makamında kabul etti .",Dava,kabul,29,9,6,0,0.19223423302173615
+Annem de onun öbür koluna girdi .,Annem,koluna,4,0,5,6,0.9967175126075745
+"PKK'ya , "" Bakın bu adam bu adreste oturuyor "" der gibi hareket edemezsin !",adam,hareket,14,7,8,3,0.5997903347015381
+Beyaz bayrak bir sonrası için bir umut ama ya tetiğe dokunursan dokunur san ...,bayrak,umut,6,1,11,2,0.37418332695961
+"Aday , locada bir kez dolaştırıldıktan sonra ant kürsüsünün önüne getirilir .",Aday,getirilir,15,0,5,6,0.9913911819458008
+Onları asacak yer bile yoktu yok tu .,yer,yok,6,4,4,1,0.6952213048934937
+"Herhangi bir sorunumuz yok "" dedi .",sorunumuz,dedi,5,2,9,2,0.6441411972045898
+Elbette öyle bir hayatın böyle bir neticesi olacak .,neticesi,olacak,7,6,4,0,0.9998639822006226
+Üniversite için yaptığımız en önemli transfer bence Şükrü Bayındır oldu .,transfer,oldu,9,5,8,1,0.6259583830833435
+""" Hiçbir barbar , insanlığa Batı medeniyeti kadar zarar vermemiştir "" dediniz .",barbar,dediniz,12,2,11,11,0.5103586316108704
+"Yine Murat Astsubay "" incecik bir dala miğfer takmışsın gibi duruyor uzaktan , üzülüyorum Baba'nın durumuna "" diyordu .",Murat,diyordu,24,1,11,7,0.8127266764640808
+"Daha sonra ; buna güreş , uzun atlama , maraton gibi sporlar da eklendi .",sporlar,eklendi,13,11,3,8,0.7400214672088623
+O yüzden para kazanmaya başlayınca pazar yerinden alış veriş etmeye son vermek gibi zımni bir hedef vardır var dır pek çoğumuzun kafasında .,hedef,var,17,16,4,0,0.999308705329895
+Oluşturulan metnin izleyiciler tarafından anlamlandırılması ise zamanla oluyor .,metnin,oluyor,10,3,10,2,0.535444438457489
+Yanımda Opel marka kırmızı bir araba durdu .,araba,durdu,7,6,4,0,0.9941412806510925
+"Bir an önce bunun aşılması lazım "" dedi .",bunun,dedi,7,3,5,2,0.26222261786460876
+"Avrupa Birliği üyeliğine destek de en fazla CHP'den , en az MHP seçmeninden geliyor .",destek,geliyor,16,3,8,0,0.41098684072494507
+""" Eğilin "" diyenlere , "" esas siz eğilin "" diye cevap vermeli .",siz,cevap,13,8,7,4,0.1955333650112152
+"Çünkü , Silahlı Kuvvetler , adı üstünde ellerindeki ellerinde ki silahtan ötürü - o silahı hiç kullanmasalar bile - siyasete şiddet unsuru sokmuş oluyor .",Kuvvetler,oluyor,27,3,10,11,0.22516991198062897
+Bunlar birçok can ve mal kaybına neden olmaktadır .,Bunlar,neden,6,0,5,6,0.9961898326873779
+Bundan başka zorunlu olarak yapılan birtakım istemli ve istemsiz hareketler vardır var dır .,hareketler,var,12,11,4,0,0.9999902248382568
+Konuk ekip gelmedi,ekip,gelmedi,3,2,4,0,0.9999641180038452
+Sıkı politika devam edecek,politika,devam,3,2,4,1,0.9942601919174194
+"O , bir zamanlar Hortu Köyü'nü birbirine katan afacan çocuklardan biridir biri dir .",O,biri,10,0,5,6,0.9942409992218018
+"İçinde milyonlarca ev , milyonlarca sokak , binlerce şehir varmış var mış .",ev,var,9,2,8,2,0.3926892876625061
+"İletişim stratejisi , etkinlik stratejisini destekleyerek ,",stratejisi,destekleyerek,6,1,9,9,0.5171576738357544
+Ben de senden bunu beklerdim bekler dim işte .,Ben,bekler,4,0,5,8,0.9986832737922668
+""" Ah Meral , ben senin gelin arabanı kullanacaktım kullanacak tım .",ben,kullanacak,9,4,7,8,0.9414757490158081
+Saddam'ın dış siyaset hedefleri konusunda ayrıntılı bilgi sahibi olan diplomatların taleplerinin kabul edilmesinin Batı'ya büyük istihbarat akışı sağlayabileceği belirtiliyor .,taleplerinin,belirtiliyor,25,14,5,5,0.16255247592926025
+"Artık , matbaacı Manol , kırık dökük "" takası "" yla dolmuşçuluk yapan Karınca ezmez Şevki gibi amigo tipleri yok .",tipleri,yok,29,28,4,1,0.9956641793251038
+"Bakın , biz Nevruz'u kutluyoruz işte .",biz,kutluyoruz,6,2,7,8,0.8454727530479431
+"- Kol altı temizliğine dikkat edilmezse edilmez se , insan çok kötü ter kokuyor , dedim .",insan,dedim,17,11,11,10,0.538658618927002
+"Her millet var . """,millet,var,2,1,4,0,0.9999984502792358
+"Sabah idmanında futbolcuların adeta pestillerini çıkartan Mustafa hoca , "" Bu dönemde fedakârlık yapmayan sonra sevinemez "" dedi .",Mustafa,dedi,23,10,11,7,0.5841545462608337
+"Mutlaka bir yerde bir pürüz çıkaran , araya çomak sokan birileri oluyordu oluyor du .",birileri,oluyor,13,12,4,0,0.999956488609314
+"Hoş , Banu pek takıp takıştırmayı sevmezdi sevmez di .",Banu,sevmez,8,2,8,5,0.8862862586975098
+Böylece vücudumuza daha çok temiz hava girer .,hava,girer,7,6,4,0,0.9999890327453613
+Ama sonuçta biz genelgelere saygı duymak zorundayız zorunda yız .,biz,zorunda,8,2,3,0,0.4918411672115326
+Çok eskiden Erol Taş vardı var dı .,Erol,var,4,2,11,2,0.7097111940383911
+Bu da yönetimi ve yaşayışı bazen zorluyor .,Bu,zorluyor,7,0,5,6,0.9992548823356628
+1509'daki 1509'da ki depremde yıkılan kulenin yerine yapılan ve fener olarak kullanılan ahşap kule 1721 'de çıkan yangından büyük zarar gördü .,kule,zarar,29,20,7,8,0.5933113098144531
+"Kararı disiplin kurulu verecektir "" dedi .",kurulu,dedi,6,3,10,9,0.8030974268913269
+"Bir zaman için doğru ve yeterli olan kurallar , belirli bir zaman sonra işlevini kaybetmiş olabilir , hatta gereksiz bile olabilir .",kurallar,olabilir,15,7,8,3,0.38870343565940857
+- Bu demek ...,Bu,demek,2,1,4,0,0.9993293285369873
+Para insanlara ulaşmak istediği herşeye her şeye ulaşma imkanı sağlarken sağlar ken ; aynı zamanda insanların duygu ve düşüncelerinde de değişimlere neden olmaktadır .,Para,neden,22,0,5,6,0.9255145788192749
+Sen olmazsan olmaz san başkasını bulurlar röportaj yapacak .,Sen,bulurlar,6,0,5,6,0.9723190665245056
+- Ana dolu ...,Ana,dolu,2,1,4,0,0.9999861717224121
+Bilir misiniz bilmem ilaç dumanının rengi beyaz olurdu olur du .,bilmem,olur,9,3,3,9,0.7132430076599121
+"Kimse ne zom oldu , ne küfelik oldu ...",Kimse,oldu,4,0,5,0,0.9831575751304626
+Artık Ayla'nın bulut oyunu sona ermişti ermiş ti .,oyunu,sona,6,5,4,0,0.999996542930603
+"Kendi hayatına Allah Resulü'nün sünnetini geçirmiş geçir miş olan kimse , zamanda O'nun ahlâkı ile de ahlâklanmış olur .",kimse,olur,25,13,7,8,0.8677476048469543
+Doğrusunu yalnız Allah bilir .,Allah,bilir,4,3,4,0,0.9999997615814209
+YSK Gül'ün istifasını kabul etti,YSK,kabul,6,0,5,6,0.9791669845581055
+Biz güzel Ayvalık'ın mutlu kapısını şöyle bir aralayalım dedik .,Biz,dedik,12,0,5,6,0.9781730771064758
+"Çok çirkin olsam bile benim bu çirkinliklerime katlansanız ne olur ? Söz veriyorum , bundan sonra hiç ağzımı açmam .",ne,olur,12,11,4,0,0.999943733215332
+"Rıhtım , iskele gibi yerler kötü deniz ve hava koşullarına karşı korunaklı iseler de her zaman emniyetli değillerdir değiller dir .",yerler,emniyetli,20,6,8,3,0.5227581262588501
+Telefon bozuk herhalde .,Telefon,bozuk,1,0,4,0,1.0
+Uzun Mehmet iki üç günde bir eve birçok kara taşla geliyordu geliyor du .,Uzun,geliyor,11,0,5,6,0.9962978959083557
+"Çaldıran seferinden sonra ordu , Tebriz'e girdi .",ordu,girdi,12,6,8,1,0.5858752727508545
+"Bize dost görünen düşmanlarımız tarafından verilen en büyük zarar budur bu dur : "" Zaman kaybetmek ... """,zarar,bu,10,9,4,0,0.9934626817703247
+Peki ne oldu derseniz ? Bulgaristan'a girdim .,ne,oldu,2,1,4,0,0.9996609687805176
+"Deniz , savunmasını yapması için kendisine gönderilen çağrılara cevap vermez .",Deniz,cevap,9,0,5,6,0.9982432126998901
+"Cansız etkenler insan vücuduna solunum , sindirim yollarından , deriden ve diğer parenteral yollardan girer veya tesir eder .",etkenler,girer,18,2,7,10,0.7776432037353516
+Insignia için özel olarak geliştirilen üç yeni direkt enjeksiyonlu turbo dizel motorlar 2 .0 litre hacmine sahip .,motorlar,sahip,20,14,7,8,0.9840120077133179
+"Kimi zaman Ali İhsan daireden dönüp , ağacın tepesine oturduğunda , karısı da şöyle bir uğrayıp halini - hatırını soruyor :",Ali,soruyor,23,2,8,5,0.6002820730209351
+"Laikliğin dinsizlik olmadığı maddesi var . "" Altı - yedi tane olmuştu olmuş tu .",maddesi,var,7,6,4,0,0.999983549118042
+"28 Şubat akşamı Sultanahmet'teki Sultanahmet'te ki Four Seasons Oteli'ne giderken gider ken Ülker'in Mozart Günleri'ne bu yıl kimlerin , hangi ünlü sanatçıların , orkestraların geleceğini merak ediyordum ediyor dum .",kimlerin,merak,41,31,3,7,0.23503811657428741
+"Bir akşam , Uzun Mehmet eve beş on parça kara taşla geldi .",Uzun,geldi,12,3,5,7,0.29352861642837524
+"Dünyada ve bir de , bu anlamda size yakın /uzak duran kimler var ?",kimler,var,14,13,4,0,0.99998939037323
+Köyden hiçbir resim yok gözümün önünde .,resim,yok,4,3,4,0,0.9999971389770508
+"Polis de , "" güvenlik "" gerekçesiyle yürüyüşe izin vermedi .",Polis,izin,8,0,5,6,0.9987264275550842
+"Hayır , yakmaya gerek yok .",gerek,yok,5,4,4,0,0.9999706745147705
+"Halbuki Evren , plaket furyasını başlatanlardan biriydi biri ydi .",Evren,biri,10,2,11,7,0.893858790397644
+Kırmızı rengi çok sevdiğim için kırmızı araba benim olur .,araba,olur,8,6,10,8,0.7987154722213745
+"Bu arada , KKTC Cumhurbaşkanı Rauf Denktaş , görevine yeni başlayan BM Genel Sekreteri'nin Kıbrıs Özel Temsilci Yardımcısı Zbigniew Wlosewic'i kabul etti .",Rauf,kabul,33,5,11,10,0.12698596715927124
+"- "" Normal dersler yeterli olmuyordu olmuyor du .",dersler,olmuyor,7,3,10,11,0.6382272839546204
+"Kötü adam yerine , "" mutlu son "" yok oldu .",son,yok,8,6,6,8,0.42583319544792175
+"Zirveye katılan Irak lideri Celal Talabani , Sosyalist Enternasyonal Başkanı Yorgo Papandreu ile samimi görüntüler verdi .",lideri,verdi,24,5,10,3,0.1930610090494156
+"Paniğe kapılan insan ne yapacağını bilemez , ne yapacağını bilse dahi paniğe kapılınca bir şey yapamaz .",insan,bilemez,6,3,8,3,0.9890071153640747
+yemek için d s ne anlama geliyor,d,geliyor,6,2,11,11,0.5479857921600342
+Tampa'dan Milwaukee'ye Amerikan 811 uçuşunda hangi yemekler servis edilir,yemekler,servis,18,17,4,0,0.9999514818191528
+AP 57 ne anlama geliyor,AP,anlama,3,0,5,6,0.9877089262008667
+Atlanta Havaalanı'ndan şehir merkezine limuzinle gitmenin maliyeti nedir,maliyeti,nedir,13,12,4,0,0.9994481205940247
+United Airlines'in Denver'den Boston'a olan son uçuşunun kalkış saati nedir,saati,nedir,18,17,4,0,0.999045193195343
+M80 uçağının koltuk kapasitesi nedir,kapasitesi,nedir,5,4,4,0,0.9999886751174927
+733 uçağının koltuk kapasitesi nedir,kapasitesi,nedir,5,4,4,0,0.9999836683273315
+757'nin koltuk kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.999945878982544
+M80 uçağındaki oturma kapasitesi nedir,kapasitesi,nedir,7,6,4,0,0.9998972415924072
+7 Temmuz'da San Francisco’dan Pittsburg’e uçuş yapan uçaklarınızın saatleri nelerdir,saatleri,nelerdir,18,17,4,1,0.9903610944747925
+Pittsburgh Havaalanı'nda limuzin servisi var mı,servisi,var,12,11,4,0,0.9999486207962036
+Boston ve Baltimore arasındaki en ucuz uçak bileti nedir,bileti,nedir,13,12,4,0,0.9990925788879395
+Atlanta'dan Denver'e 12 Ekim'de kalkan en ucuz tek yön bilet nedir,bilet,nedir,18,17,4,0,0.999977707862854
+Philadelphia'dan San Francisco'ya uçmanın en ucuz yolu nedir,yolu,nedir,16,15,4,0,0.9961732029914856
+rezervasyon sınıfı c nedir,c,nedir,5,4,4,0,1.0
+ücret kodu c nedir,c,nedir,3,0,5,6,0.9991915822029114
+ücret kodu m nedir,m,nedir,3,2,4,0,0.9999890327453613
+yn kodu ne anlama geliyor,kodu,anlama,3,1,10,7,0.7500220537185669
+Continental'ın Boston'dan San Francisco'ya giden 1765 numaralı uçuşunda ne yemek servis ediliyor,yemek,servis,20,19,4,0,0.9999680519104004
+24 Aralık'ta Dallas'tan Baltimore'ye uçmak için en ucuz hava yolu hangisi,hava,hangisi,21,19,9,5,0.6368496417999268
+Columbus'tan Milwaukee'ye TWA ile uçmanın maliyeti nedir,maliyeti,nedir,18,17,4,0,0.9995430707931519
+Hangi havayolu Denver Pittsburgh ve Atlanta'ya hizmet veriyor,havayolu,hizmet,13,1,8,1,0.8839894533157349
+Baltimore'den Sallas'a birinci sınıf bir biletin maliyeti nedir,maliyeti,nedir,16,15,4,0,0.9996567964553833
+Boston'dan San Francisco'ya birinci sınıf bir biletin gidiş dönüş maliyeti nedir,maliyeti,nedir,17,16,4,0,0.9998356103897095
+Pittsburgh'tan San Francisco'ya en ucuz birinci sınıf uçak bileti hangisi,bileti,hangisi,17,16,4,1,0.9945728182792664
+7 Temmuz'da Denver'den Baltimore'ye giden United Airlines uçuşlarında birinci sınıf bir gidiş dönüş biletinin maliyeti nedir,maliyeti,nedir,27,26,4,0,0.9996334314346313
+Denver'den Pittsburgh'a en ucuz tarife hangisi,tarife,hangisi,13,12,4,0,0.9992502331733704
+Boston'dan Baltimore'ye en ucuz tek yön tarife hangisi,tarife,hangisi,16,15,4,0,0.999943733215332
+Pittsburgh'tan Atlanta'ya tek yönlü bir uçuşun maliyeti nedir,maliyeti,nedir,17,16,4,0,0.9998992681503296
+Boston'dan Atlanta'ya olan uçuşun maliyeti nedir,maliyeti,nedir,13,12,4,0,0.9988941550254822
+Pekala çarşamba günü Oakland'dan Philadelphia'ya ne var,ne,var,16,15,4,0,0.999985933303833
+Dallas'tan Baltimore'ye yedi Temmuz'da varan ekonomi sınıfında olan en ucuz bilet nedir,bilet,nedir,21,20,4,0,0.9994611144065857
+Philadelphia'da limuzin servisinin maliyeti nedir,maliyeti,nedir,12,11,4,0,0.9989929795265198
+100'de kaç koltuk var,koltuk,var,5,4,4,1,0.9997605681419373
+bir Boeing 737 kaç yolcu alabilir,Boeing,alabilir,6,1,5,11,0.5676433444023132
+bir dc9'un koltuk kapasitesi nedir,kapasitesi,nedir,8,7,4,0,0.9999005794525146
+Delta BE1 koltuk kapasitesi nedir,kapasitesi,nedir,7,6,4,0,0.9996887445449829
+Baltimore Havaalanında limuzin servisi var mı,servisi,var,10,9,4,0,0.9999502897262573
+Dallas'tan Baltimore'ye üç Ağustos'ta uygun olan uçuşlardan hangisinin en ucuz,hangisinin,ucuz,20,18,7,0,0.9683935046195984
+Boston ve San Francisco arasındaki en pahalı birinci sınıf biletler hangileri,biletler,hangileri,12,11,4,1,0.9995373487472534
+ücret kodu Y ne anlama geliyor,Y,anlama,4,2,7,2,0.46007177233695984
+DL 323 DL 229 numaralı Boston - Denver seferi Philadelphia'da durur mu,seferi,durur,18,11,4,11,0.5212798714637756
+DL 98 hangi havayolu,98,havayolu,4,2,11,6,0.4583778381347656
+hp nedir,hp,nedir,1,0,4,0,0.9999974966049194
+Baltimore'den San Francisco'ya birinci sınıf bilet ne kadar,bilet,ne,13,12,4,0,1.0
+Baltimore'den Atlanta'ya en ucuz tek yön bilet nedir,bilet,nedir,15,14,4,0,0.9999960660934448
+Pittsburgh'tan San Francisco'ya gidiş dönüş bir seyahatin maliyeti ne olur,maliyeti,olur,18,16,2,11,0.4840564429759979
+Delta ile Dallas'tan Baltimore'ye uçmanın maliyeti nedir,maliyeti,nedir,16,15,4,0,0.9993715882301331
+United havayolları ile Boston'dan Oakland'a uçmanın maliyeti nedir,maliyeti,nedir,16,15,4,0,0.9987298846244812
+Pittsburgh'tan Atlanta'ya 25 Nisan'da gidiş 6 Mayıs'ta dönüşü olan bir gidiş dönüş uçuşunun maliyeti nedir,maliyeti,nedir,28,27,4,0,0.9999047517776489
+S yemek olarak neyi belirtir,S,belirtir,4,0,5,6,0.9992629885673523
+Kaç ücret kodu ekonomi sınıfına ait,kodu,ait,5,2,7,7,0.9021283984184265
+Ne tür yemekler mevcut,yemekler,mevcut,3,2,4,0,0.9999338388442993
+Tower Air'de hiç yemek servis ediliyor mu,yemek,ediliyor,8,6,5,7,0.6964832544326782
+Salı sabahı Milwaukee'den Washington DC'ye 382 numaralı uçuşta hangi yemekler var,yemekler,var,20,19,4,0,0.9999840259552002
+Mevcut tüm yemekler nelerdir,yemekler,nelerdir,3,2,4,0,0.9964123368263245
+Boston'dan 7.05'te kalkıp Atlanta'ya giden US Air uçuşunda durak var mı,durak,var,21,20,4,1,0.9996500015258789
+Oak ve ATL arasında birinci sınıf gidiş dönüş biletinin maliyeti nedir,maliyeti,nedir,13,12,4,0,0.9993535876274109
+Dallas'ta araba kiralama maliyetleri nelerdir,maliyetleri,nelerdir,7,6,4,0,0.9300535917282104
+Ontario Havaalanı'nda taksi hizmeti var mı,hizmeti,var,8,7,4,0,0.9999630451202393
+Philadelphia Uluslararası Havalimanı'ndaki hava taksiciliğinin maliyeti nedir,maliyeti,nedir,14,13,4,0,0.9992722868919373
+General Mitchell International nerede bulunur,General,bulunur,6,0,5,6,0.9196629524230957
+La Guardia'da limuzin servisi ne kadar,servisi,kadar,10,8,10,7,0.8696447610855103
+Toronto International'da limuzin servisi ne kadar,servisi,kadar,10,8,10,7,0.8414837121963501
+Boston'da limuzin servisi ne kadar,servisi,kadar,10,8,3,2,0.8505392074584961
+Los Angeles'te limuzin servisi ne kadar,servisi,kadar,10,8,3,2,0.8273348808288574
+Logan Havaalanı'nda limuzin servisinin maliyeti nedir,maliyeti,nedir,10,9,4,0,0.9969738721847534
+Boston'dan 428'de ayrılan US Air 269 uçuşunun Baltimore'ye varış saati nedir,saati,nedir,24,23,4,0,0.9988911747932434
+Detroit'ten Westchester bölgesine hareket saatleri nedir,saatleri,nedir,11,10,4,0,0.995820164680481
+Boston'dan Denver'e olan en erken hareket saati nedir,saati,nedir,14,13,4,1,0.9925476908683777
+Washington'dan kalkan 755 uçuşunun San Francisco'ya varış saati nedir,saati,nedir,14,13,4,0,0.9979853630065918
+BUR nedir,BUR,nedir,1,0,4,0,0.9999791383743286
+New York'taki La Guardia şehir merkezinden ne kadar uzakta,La,uzakta,11,4,0,3,0.1430189311504364
+Pittsburgh Havaalanı ile Pittsburgh şehir merkezi arasındaki mesafe ne kadar,mesafe,kadar,16,14,8,9,0.9800232648849487
+San Francisco International şehir merkezinden ne kadar uzakta,San,uzakta,7,0,5,6,0.9916553497314453
+Salt Lake City Havaalanı Salt Lake City'den ne kadar uzakta,Salt,uzakta,12,5,5,11,0.726775586605072
+Şehir merkezi Dallas'taki havaalanından ne kadar uzakta,merkezi,uzakta,10,1,4,11,0.2731606364250183
+Atlanta'daki en çok varışa sahip olan havayolu hangisi,havayolu,hangisi,11,10,4,0,0.9996939897537231
+En yüksek oturma kapasitesine sahip uçak tipi nedir,tipi,nedir,7,6,4,0,0.9999532699584961
+American Airlines'in tüm uçaklarının toplam oturma kapasitesi nedir,kapasitesi,nedir,10,9,4,0,0.9988899827003479
+Tüm havayolları arasında Atlanta'ya en çok varışı olan havayolu hangisi,havayolu,hangisi,14,13,4,0,0.9993995428085327
+Diğer havayollarından daha fazla uçuşu olduğunun reklamını yapan bir havayolu var mı,havayolu,var,12,11,4,0,0.9999120235443115
+Pittsburgh'tan Cleveland'a 200 doların altında bir tarife var mı,tarife,var,17,16,4,0,1.0
+733'ün oturma kapasitesi ne kadar,kapasitesi,kadar,7,5,8,9,0.9519398212432861
+734'te kaç koltuk var,koltuk,var,6,5,4,1,0.9996778964996338
+Bir Boeing 767'nin oturma kapasitesi nedir,kapasitesi,nedir,8,7,4,0,0.9999033212661743
+M80 tipi uçakların oturma kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.999976396560669
+73S'nin kapasitesi nedir,kapasitesi,nedir,5,4,4,0,0.9991393089294434
+Uçak l10 için oturma kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.9987753033638
+72S'nin oturma kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.9998501539230347
+m80'in oturma kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.9999575614929199
+72S'de kaç koltuk var,koltuk,var,6,5,4,1,0.9996902942657471
+F28 koltuk kapasitesi ne kadar,kapasitesi,kadar,5,3,8,1,0.8620237112045288
+M80 uçağının oturma kapasitesi nedir,kapasitesi,nedir,5,4,4,0,0.9999666213989258
+Bir F28'in kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.9995409250259399
+757'nin oturma kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.9999150037765503
+73S uçağının oturma kapasitesi nedir,kapasitesi,nedir,5,4,4,0,0.9999388456344604
+Bir 733'ün kapasitesi nedir,kapasitesi,nedir,6,5,4,0,0.9997459053993225
+bir M80'in oturma kapasitesi nedir,kapasitesi,nedir,7,6,4,0,0.9997878670692444
+72S uçağının oturma kapasitesi nedir,kapasitesi,nedir,5,4,4,0,0.9999340772628784
+30 Eylül'de Washington'dan San Francisco'ya olan bir ekonomi sınıfı bilet ne kadar,bilet,kadar,17,15,8,0,0.9258074760437012
+Akşam geç saatlerde US Air ile Orlando'dan Cleveland'a uçmak istiyorum elinizde ne var,ne,var,21,20,4,0,0.9999774694442749
+Boston'dan San Francisco'ya öğlen 12'den önce kalkan tüm uçuşlarda kaçar durak var,durak,var,20,19,4,1,0.9998834133148193
+Boston'dan San Francisco'ya Continental 1765 uçuşunda kaç durak var,durak,var,17,16,4,1,0.9998733997344971
+Tacoma'dan Montreal'a tek yön kaç tarife var,tarife,var,14,13,4,0,0.9999998807907104
+Delta'nın tüm havalimanlarına uçuşları için genel program nedir,program,nedir,11,10,4,0,0.9999980926513672
+Boston Havalimanı'nda herhangi bir taksi hizmeti veya limuzin var mı,hizmeti,var,14,9,3,10,0.4528355896472931
+Boston'da hangi limuzin servisi var,servisi,var,10,9,4,0,0.9996539354324341
+Pittsburgh Havaalanı'nda limuzin servisi mevcut mu,servisi,mevcut,12,11,4,0,0.9999970197677612
+Delta 82 ve Delta 139 uçuşlarında Atlanta'dan San Francisco'ya en düşük fiyat nedir,fiyat,nedir,20,19,4,0,0.9999786615371704
+Boston'dan Salt Lake City'e en ucuz tarife nedir,tarife,nedir,13,12,4,0,0.9999796152114868
+30 Eylül'de kalkan Baltimore'den San Francisco'ya en ucuz bilet hangisi,bilet,hangisi,18,17,4,1,0.9967005848884583
+Atlanta ve Dallas arasındaki en pahalı birinci sınıf biletler nelerdir,biletler,nelerdir,11,10,4,1,0.9984014630317688
+Washington'a uçabilmemin en pahalı yolu nedir,yolu,nedir,9,8,4,0,0.9990167617797852
+Boston'dan Washington'a tek yön biletin en düşük maliyeti nedir,maliyeti,nedir,15,14,4,0,0.9993867874145508
+Amerikan Havayolları uçuşlarının hangileri Milwaukee'den cumartesi veya pazar günü Phoenix'e gidiyor,hangileri,gidiyor,20,4,7,10,0.967786967754364
+Ücret kodu y bu ne anlama geliyor,bu,geliyor,6,3,5,11,0.49950969219207764
+M ücret kodu ne anlama geliyor,kodu,geliyor,5,2,10,7,0.5696175694465637
+Ücret kodu q ve ücret kodu b arasındaki fark nedir,fark,nedir,9,8,4,0,0.9997321963310242
+M ne demek,M,demek,2,0,5,6,0.9790050983428955
+qw kodu ne anlama geliyor,kodu,geliyor,5,2,8,5,0.7123653888702393
+ücret kodu f ne anlama geliyor,f,geliyor,5,2,11,4,0.8106825947761536
+ücret kodu f ne anlama geliyor,f,geliyor,5,2,11,4,0.8106825947761536
+ücret kodu f nedir,f,nedir,3,2,4,0,0.9999992847442627
+ücret kodu h nedir,h,nedir,3,2,4,0,0.9999843835830688
+ücret kodu q ne anlama geliyor,q,geliyor,5,2,10,8,0.9984116554260254
+y kodu ne anlama geliyor,kodu,geliyor,4,1,8,5,0.8013181686401367
+ücret sınıfı h nedir,h,nedir,3,2,4,0,0.9999809265136719
+ücret kodu y ne anlama geliyor,y,geliyor,5,2,11,4,0.9434716105461121
+q ne demek,q,demek,2,0,7,11,0.9893712997436523
+y kodu ne anlama geliyor,kodu,geliyor,4,1,8,5,0.8013181686401367
+ücret kodu f ve fn ne anlama geliyor,f,geliyor,8,2,7,1,0.5427283644676208
+ücret kodu y nedir ve ücret kodu h nedir,y,nedir,3,2,4,0,0.9999996423721313
+ücret kodu q ve ücret kodu f arasındaki fark nedir,fark,nedir,9,8,4,0,0.9993656277656555
+yn kodu nedir,kodu,nedir,2,1,4,0,0.9997822642326355
+ücret kodu y ne anlama geliyor,y,geliyor,5,2,11,4,0.9434716105461121
+ücret kodu q nedir,q,nedir,3,2,4,0,0.9999997615814209
+y ne demek,y,demek,2,0,5,6,0.9841548204421997
+Delta'nın San Francisco'dan Atlanta'ya en erken uçuşunda yemek servis ediliyor mu,yemek,ediliyor,18,16,3,6,0.4762028753757477
+Herhangi bir havayolu Denver ve Boston arasında dc10 hizmeti sunuyor mu,havayolu,sunuyor,12,2,8,7,0.7020346522331238
+Boston DC ve Dallas'a hizmet veren bir havayolu var mı,havayolu,var,13,12,4,1,0.999931812286377
+Washington Dc'den Salt Lake City'e en düşük fiyatlar nedir,fiyatlar,nedir,13,12,4,1,0.998172402381897
+Boston'dan Denver'e yapılan UA 281 seferi hangi havayolu,seferi,havayolu,16,14,4,7,0.6769738793373108
+Continental 1291 Denver - San Francisco gidiş dönüş seferlerinde en ucuz gidiş dönüş bileti nedir,bileti,nedir,19,18,4,0,0.9992138147354126
+Denver'den San Francisco'ya Continental 1291'de gidiş dönüş bileti ve dönüş bileti ne kadar,bileti,kadar,21,16,7,3,0.7991816401481628
+ve Boston havaalanından şehir merkezine seyahat etmenin maliyeti nedir,maliyeti,nedir,9,8,4,0,0.9989417195320129
+Atlanta'dan San Francisco'ya yarın saat 5'ten sonra neyin var,neyin,var,15,14,4,0,0.9999977350234985
+hp ne demektir,hp,demektir,2,0,5,6,0.9963546991348267
+ff ne demektir,ff,demektir,2,0,5,6,0.9916806817054749
+ff nedir,ff,nedir,1,0,4,0,0.9999700784683228
+us ne demektir,us,demektir,2,0,5,6,0.992088794708252
+as nedir,as,nedir,1,0,4,0,0.999750554561615
+ea ne demektir,ea,demektir,2,0,5,6,0.9911214113235474
+us ne demektir,us,demektir,2,0,5,6,0.992088794708252
+co ne demektir,co,demektir,2,0,5,6,0.9906588792800903
+FF havayolu hangisidir,havayolu,hangisidir,2,1,4,0,0.9998093247413635
+dl havayolu hangisidir,havayolu,hangisidir,3,2,4,0,0.999035120010376
+us uçuş kodu ne anlama gelmektedir,kodu,gelmektedir,5,2,9,6,0.6467192769050598
+us havayolu hangisidir,havayolu,hangisidir,2,1,4,0,0.998870313167572
+Pittsburgh ile Baltimore arasında jet uçuşu olan bir havayolu var mı,havayolu,var,16,15,4,0,0.9978035092353821
+Boston'dan Oakland'a öğleden sonra uçuşu olan bir havayolu var mı,havayolu,var,16,15,4,0,0.9999055862426758
+Atlanta'dan Boston'a öğleden sonra uçuşu olan bir havayolu var mı,havayolu,var,13,12,4,1,0.9998899698257446
+Boston ile San Francisco arasında hangi havayollarının business class hizmeti var,hizmeti,var,15,14,4,0,0.9995025396347046
+Philadelphia'dan San Francisco'ya Dallas üzerinden uçuşu olan bir havayolu var mı,havayolu,var,18,17,4,1,0.9998507499694824
+4 Temmuz'da Dallas'tan Baltimore'ye en ucuz fiyatı hangi havayolu veriyor,havayolu,veriyor,19,18,4,0,0.9998583793640137
+Detroit'ten St. Petersburg'a gidiş dönüş first class bir bilet ne kadar,bilet,kadar,19,17,9,6,0.9261052012443542
+US Air'de Cleveland'dan Miami'ye gidiş dönüş first class bir uçak bileti ne kadar,bileti,kadar,21,19,7,3,0.9072930216789246
+Atlanta'dan San Francisco'ya gidiş dönüş first class bir bilet ne kadar,bilet,kadar,16,14,9,6,0.9086432456970215
+Philadelphia'dan San Francisco'ya first class bir bilet ne kadar,bilet,kadar,17,15,7,3,0.9347854852676392
+Milwaukee'den San Francisco'ya first class gidiş dönüş bileti ne kadar,bileti,kadar,17,15,7,3,0.9440029263496399
+Boston'dan San Francisco'ya gidiş dönüş first class United bileti ne kadar,bileti,kadar,17,15,7,3,0.9483048319816589
+Boston'dan San Francisco'ya first class bilet ne kadar,bilet,kadar,14,12,10,11,0.8847212791442871
+Dallas Fort Worth'dan San Francisco'ya first class bilet ne kadar,bilet,kadar,16,14,9,6,0.8985800743103027
+Boston'dan San Francisco'ya gidiş dönüş first class bilet ne kadar tutar,bilet,tutar,17,14,10,11,0.7089789509773254
+Boston'dan Dallas'a 1 Temmuz tarihli bir business class bilet ne kadar,bilet,kadar,19,17,8,0,0.9227681159973145
+cuma Washington'dan San Francisco'ya bir first class bilet ne kadar,bilet,kadar,14,12,9,6,0.9084739089012146
+Delta'yla Boston'la Atlanta arası ekonomi bileti ne kadar,bileti,kadar,13,11,7,3,0.9519138932228088
+Newark'tan La'ya öğleden sonra 3'ten sonra hareket eden ekonomi sınıfı biletleri ne kadar,biletleri,kadar,19,17,8,7,0.9770236611366272
+Atlanta'dan Boston'a tek yön ekonomi sınıfı bilet ne kadar,bilet,kadar,13,11,9,6,0.8936538696289062
+pazartesi öğleden sonra Baltimore'den Dallas'a hareket eden hangi uçuşlarda ekonomi sınıfı var,ekonomi,var,21,19,2,11,0.4837184250354767
+Philadelphia'daki karayolu ulaşım hizmetleri ne,hizmetleri,ne,10,9,4,0,0.9995604157447815
+Atlanta ve Denver arasında uçmanın en ucuz yolu nedir,yolu,nedir,11,10,4,0,0.9991762042045593
+otuz Ağustos cuma günü Baltimore - San Francisco arası en ucuz bilet nedir,bilet,nedir,16,15,4,1,0.9998002648353577
+Denver'den Pittsburgh'a en ucuz tek yön bilet nedir,bilet,nedir,15,14,4,0,0.9999933242797852
+15 Temmuz'da Denver - Pittsburgh arası en ucuz tek yön uçuşu rezerve etmek istiyorum,15,istiyorum,20,0,5,6,0.9987210631370544
+San Francisco - Milwaukee arası en ucuz uçak bileti nedir,bileti,nedir,12,11,4,0,0.9992178678512573
+Dallas'tan Denver'e alabileceğim en ucuz tarife nedir,tarife,nedir,13,12,4,0,0.9998605251312256
+Pittsburgh ve Denver arasındaki en ucuz ücretli tek yön nedir,tek,nedir,14,12,5,9,0.6812410354614258
+20 Temmuz'da Pittsburgh - Atlanta arası en ucuz tek yön uçuşu rezerve etmek istiyorum,20,istiyorum,20,0,5,6,0.9982028007507324
+tamam Charlotte'den Montreal'a gidiş dönüş bileti almak isteyen başka biri var,biri,var,18,17,4,1,0.9956704378128052
+Boston'dan Dallas'a ve Dallas'tan Oakland'a 1 Temmuz'da bir gidiş dönüş biletinin maliyeti nedir,maliyeti,nedir,29,28,4,0,0.9993667006492615
+Atlanta'dan Baltimore'ye sabah uçuşlarının maliyeti nedir,maliyeti,nedir,14,13,4,0,0.9992737174034119
+Atlanta - Boston arası Eastern havayolları ile uçuşun maliyeti ne kadar,maliyeti,kadar,15,13,6,1,0.9300193190574646
+Boston'dan Atlanta'ya uçmanın maliyeti nedir,maliyeti,nedir,12,11,4,0,0.9995678067207336
+American ile Dallas'tan Baltimore'ye uçmanın maliyeti nedir,maliyeti,nedir,16,15,4,0,0.998763918876648
+Atlanta'dan San Francisco'ya uçmanın maliyeti nedir,maliyeti,nedir,11,10,4,0,0.9992891550064087
+Baltimore'den Philadelphia'ya olan bu uçuşların maliyeti nedir,maliyeti,nedir,17,16,4,0,0.9964430928230286
+bunların maliyeti ne,maliyeti,ne,3,2,4,0,0.9999970197677612
+Cumartesi günü Boston'dan Baltimore'ye uçmanın maliyeti nedir,maliyeti,nedir,14,13,4,0,0.999367892742157
+Denver - San Francisco uçuşlarının maliyeti nedir,maliyeti,nedir,8,7,4,0,0.9990334510803223
+Boston - San Francisco uçuşunun maliyeti nedir,maliyeti,nedir,9,8,4,0,0.9984482526779175
+Boston ve San Francisco arasındaki United havayolları hizmeti nedir,hizmeti,nedir,11,10,4,0,0.9971030354499817
+O her zaman yemeklerini lokantada yer .,O,yer,6,0,5,6,0.9980056881904602
+Herkesin burada olduğunu bilmiyordum .,Herkesin,bilmiyordum,3,0,5,6,0.9926385879516602
+Sarı sarı evler var .,evler,var,3,2,4,0,0.9999645948410034
+Adam kurnaz mı kurnaz .,Adam,kurnaz,1,0,4,0,0.9999328851699829
+Konu komşu yardıma geldi .,Konu,geldi,3,0,5,6,0.9957351684570312
+"Gittin mi , hemen yerine yenisi gelir .",yenisi,gelir,7,6,4,0,0.9999802112579346
+Siz çok iyi bir doktorsunuz doktor sunuz .,Siz,doktor,4,0,5,8,0.9995436072349548
+Herkes ona karşıymış karşı ymış .,Herkes,ona,1,0,4,1,0.9976829290390015
+Buzdolabında iki şişe bira var .,bira,var,7,6,4,0,0.9999382495880127
+O gün ben yoktum yok tum .,ben,yok,3,2,4,0,0.9985041618347168
+Bende bir kitap var .,kitap,var,3,2,4,0,0.9999221563339233
+Bu kitap bende var .,kitap,var,3,1,8,10,0.8468320369720459
+Banyoda Murat vardı var dı .,Murat,var,4,3,4,0,0.999998927116394
+Murat banyodaydı banyoda ydı .,Murat,banyoda,1,0,4,0,0.999434769153595
+Shakespeare’in birçok oyunu var .,oyunu,var,7,6,4,0,0.9999741315841675
+Nejat’ta sadece 10 dolar varmış var mış .,dolar,var,8,7,4,1,0.9971724152565002
+Murat’ta bu resim var .,resim,var,5,4,4,0,0.9999737739562988
+Murat’ta bir resim var .,resim,var,5,4,4,0,0.9999914169311523
+Bu bina eskiden okulmuş okul muş .,bina,okul,3,1,7,8,0.7486002445220947
+evde su olmadığı zaman,su,zaman,4,2,8,4,0.9794584512710571
+Evde su yok .,su,yok,2,1,4,0,0.9997965693473816
+Ben o adamı sevmiyorum .,Ben,sevmiyorum,3,0,5,8,0.9945441484451294
+Annem yorgun .,Annem,yorgun,1,0,4,0,0.9999985694885254
+Selim Bey evdeler evde ler mi acaba ?,Bey,evde,4,1,7,8,0.7497693300247192
+Dün otuz üç mektup geldi .,mektup,geldi,4,3,4,1,0.9999524354934692
+Buradaki Burada ki odalar banyoluymuş banyo lu ymuş .,odalar,banyo,8,3,9,5,0.710227370262146
+Hepimiz tatilde deniz kıyısına gidiyoruz .,Hepimiz,gidiyoruz,5,0,5,6,0.9861624240875244
+Oyuncuların hepsi yeni kostümler istiyorlar .,hepsi,istiyorlar,6,2,10,6,0.9294977188110352
+Televizyon şu anda tamir ediliyor .,Televizyon,ediliyor,4,0,5,8,0.9989637136459351
+Ahmet arkadaşlarına hep yardım eder .,Ahmet,eder,4,0,5,8,0.9992707371711731
+Bunu sen al .,sen,al,2,1,4,0,0.9997345805168152
+"Masada biraz kalem , kitap falan vardı var dı galiba .",kalem,var,7,3,6,1,0.49083569645881653
+Bu işte büyük para var .,para,var,4,3,4,0,0.9999949932098389
+O adam para için her şeyi yapar .,adam,yapar,6,1,8,3,0.9071235656738281
+O gün siz yoktunuz yok tunuz .,siz,yok,3,2,4,0,0.9972551465034485
+Anahtar yerinde değil .,Anahtar,yerinde,1,0,4,0,0.9999967813491821
+Köyde elektrik var mıydı ?,elektrik,var,3,2,4,0,0.9999988079071045
+Okuldan sonra genellikle futbol oynuyor .,futbol,oynuyor,5,4,4,0,0.999901533126831
+Osman yakın arkadaşlarımdan biri değildir .,Osman,biri,4,0,5,6,0.9966316819190979
+Bu çocuğun annesi nerede ?,annesi,nerede,3,2,4,0,0.9969437718391418
+"Fotoğraf makinesi benim değil , babamın .",makinesi,benim,2,1,4,0,0.9993770718574524
+Bisikletin motorlusuna motor lusuna motosiklet denir .,motosiklet,denir,9,8,4,0,0.9994542002677917
+Küçüklerden on tane yeter mi ?,tane,yeter,4,3,4,0,0.9961613416671753
+Bunlardan bizde de var .,Bunlardan,var,3,0,5,8,0.9898902177810669
+"Hafta sonlarında çocuklarından bazen biri , bazen iki tanesi geliyor .",biri,geliyor,10,5,8,2,0.7051783800125122
+Arkamızdaki Arkamızda ki araba bizi geçmek istiyor .,araba,istiyor,8,5,7,8,0.9212471842765808
+Arkamızdaki Arkamızda ki bir araba bizi geçmek istiyor .,araba,istiyor,9,6,7,8,0.8247673511505127
+Bizim mahallede Güneş Gıda diye bir market var .,market,var,7,6,4,1,0.9999220371246338
+Arkamızdan gelen araba bizi geçmek istiyor .,araba,istiyor,6,3,7,8,0.9178534746170044
+Bu makine öbüründen ucuz .,makine,ucuz,4,1,8,3,0.8336655497550964
+Bu makine öbüründen de ucuz .,makine,ucuz,5,1,8,3,0.8324100375175476
+benim en sevdiğim tiyatro oyuncusu,benim,oyuncusu,4,0,5,6,0.996471643447876
+Ahmet çocuklara ikişer hediye verdi .,Ahmet,verdi,4,0,5,6,0.9836195111274719
+Onlar herşeyi ailece aile ce yaparlar .,Onlar,yaparlar,6,0,5,6,0.9830069541931152
+Meyva olarak ne var ?,ne,var,4,3,4,0,0.99991774559021
+Bu oda bana oldukça karanlık geldi .,oda,geldi,5,1,8,3,0.9369609951972961
+Herkesin para katkısında bulunması isteniyor anlaşılan .,Herkesin,isteniyor,5,0,5,8,0.9967548251152039
+Anahtar paltomun cebindeymiş cebinde ymiş meğerse .,Anahtar,cebinde,5,0,5,6,0.9983218312263489
+Bu sorun daha iki yıl önce vardı var dı .,sorun,var,6,1,7,8,0.7379201650619507
+"Bak , şurada yeni bir leke var .",leke,var,7,6,4,1,0.9998190999031067
+Annem aşağıda oturuyor .,Annem,oturuyor,2,0,5,8,0.9980050921440125
+Bunun sırrını bir sen biliyorsun .,sen,biliyorsun,4,3,4,0,0.9999308586120605
+Bunun sırrını bir tek sen biliyorsun .,sen,biliyorsun,5,4,4,0,0.9999856948852539
+Mehmet ekmeği keskin bir bıçakla kesti .,Mehmet,kesti,5,0,5,6,0.993312418460846
+Ötekine göre bu otelin pek bir konforu yok .,konforu,yok,9,8,4,1,0.9994230270385742
+Bu oda tam sana göre .,oda,sana,3,1,11,8,0.9457272291183472
+Ahmet’le çocukların arasında bir sorun mu var ?,sorun,var,8,6,3,2,0.8533400297164917
+Ahmet’le çocuklar arasında bir sorun mu var ?,sorun,var,8,6,3,2,0.8383834958076477
+"Babası , amcası ve bizim aramızda eski bir dostluk vardı var dı .",dostluk,var,10,9,4,0,0.9999998807907104
+Kapıda birisi var .,birisi,var,3,2,4,0,0.9997394680976868
+Planın kendisinde bir sorun var .,sorun,var,5,4,4,1,0.9999793767929077
+"Bu , evin kendi rengi .",Bu,rengi,4,0,5,6,0.999605119228363
+Sizin kendinizin oraya gitmeniz gerekiyor .,Sizin,gerekiyor,6,0,5,8,0.9972202777862549
+Sizin kendiniz oraya gitmeniz gerekiyor .,Sizin,gerekiyor,5,0,5,8,0.9973053932189941
+Oraya sizin kendiniz gitmeniz gerekiyor .,sizin,gerekiyor,6,2,5,11,0.7507607340812683
+Sizin kendinizi eleştirmeniz ne kadar kolaymış kolay mış !,Sizin,kolay,6,0,5,8,0.9917614459991455
+Ahmet hala uyuyor .,Ahmet,uyuyor,2,0,5,8,0.992397129535675
+Kendisi bu günlerde çok yorgun .,Kendisi,yorgun,4,0,5,6,0.9986698627471924
+O bu günlerde çok yorgun .,O,yorgun,4,0,5,6,0.9985528588294983
+Ahmet kendisine hediye vermeyenleri sevmiyor .,Ahmet,sevmiyor,5,0,5,6,0.9917683601379395
+Ahmet ona hediye vermeyenleri sevmiyor .,Ahmet,sevmiyor,5,0,5,8,0.988804280757904
+— Ben isterim .,Ben,isterim,2,1,4,0,0.9999526739120483
+Onun kaza geçirmesi bütün planları altüst edecek .,Onun,edecek,6,0,5,8,0.994891881942749
+"Ayşe , benim şimdi çıkmam gerekiyor .",benim,gerekiyor,7,3,10,10,0.3136431872844696
+Bizim başka bir haberimiz daha var .,haberimiz,var,5,3,6,1,0.8608081340789795
+En önemli önem li sorun bu .,sorun,bu,5,4,4,0,0.99968421459198
+Köyün ötesinde bir dere var .,dere,var,5,4,4,1,0.9994117021560669
+"Demek Cemal bugün okula gitmedi , öyle mi ?",Cemal,gitmedi,4,1,8,5,0.9243264198303223
+Bu kutunun içinde neler var ?,neler,var,5,4,4,0,0.9999281167984009
+O adam ne doktoru ?,adam,doktoru,3,1,8,1,0.8939338326454163
+Aranızdan hangisi bu işte gönüllü gönül lü olarak çalışmak istiyor ?,hangisi,istiyor,11,3,7,10,0.9726352095603943
+İçinizden hangisi bu işte gönüllü gönül lü olarak çalışmak istiyor ?,hangisi,istiyor,10,2,7,10,0.973973274230957
+Bu araba ne kadar hızlı gider ?,araba,gider,5,1,8,3,0.7230550646781921
+Bu elbise ne kadar ?,elbise,ne,2,1,4,0,0.9991984963417053
+Partide kimler vardı var dı ?,kimler,var,3,2,4,0,0.9999022483825684
+Kim kime neyi verdi ?,Kim,verdi,3,0,5,6,0.9920112490653992
+Semra’ya aldığın hediye hani ?,hediye,hani,7,6,4,0,0.9998217225074768
+Semra’ya aldığın hediye hani nerede ?,hediye,nerede,8,6,7,2,0.9520763754844666
+Hani bana vereceğin para nerede ?,para,nerede,5,4,4,0,0.9995430707931519
+Acaba misafirler saat kaçta gelecek ?,misafirler,gelecek,4,1,7,8,0.7924952507019043
+Bakalım doktorlardan hangisi o hastayı ameliyat edecek .,hangisi,ameliyat,7,4,3,9,0.551230251789093
+Ahmet Zeki’yi görmeyeceğini iddia ediyordu .,Ahmet,ediyordu,7,0,5,8,0.9954783320426941
+Ahmet Nuran’a Noel hediyesi alıp almayacağını bilmiyor .,Ahmet,bilmiyor,10,0,5,6,0.9823848605155945
+Evde bir tane bile fazla ampul yok .,ampul,yok,6,5,4,0,0.9989926218986511
+Çorbanın tuzu yok .,tuzu,yok,4,3,4,0,0.9999946355819702
+Evde kimse var mı ?,kimse,var,2,1,4,0,0.9998795986175537
+Evde kimse yok mu ?,kimse,yok,2,1,4,0,0.9998328685760498
+Trende yer yokmuş yok muş hiç .,yer,yok,4,3,4,0,0.9997637867927551
+Herhangi bir yerde su var mı ?,su,var,4,3,4,0,0.9999994039535522
+Hiçbir yerde su var mı ?,su,var,3,2,4,0,0.9999984502792358
+Bugün kimse evinde değil .,kimse,evinde,2,1,4,0,0.9997954964637756
+Bugün hiç kimse evinde değil .,kimse,evinde,3,2,4,0,0.9989274144172668
+İçeride kimse var mı ?,kimse,var,3,2,4,0,0.9999980926513672
+Partiye hiç kimse gelmedi .,kimse,gelmedi,4,3,4,0,0.999919056892395
+Partiye hiçbir kimse gelmedi .,kimse,gelmedi,4,3,4,0,0.9999656677246094
+Beni artık kimseler sevmiyor .,kimseler,sevmiyor,3,2,4,0,0.9902961850166321
+Beni artık hiç kimseler sevmiyor .,kimseler,sevmiyor,4,3,4,0,0.991758406162262
+Ahmet bir elma yedi .,Ahmet,yedi,3,0,5,8,0.941336452960968
+Ahmet sabahları bir elma yerdi .,Ahmet,yerdi,4,0,5,8,0.9977598190307617
+Evde hiç para yoktu yok tu .,para,yok,3,2,4,1,0.9998148083686829
+Evde hiç para yok .,para,yok,3,2,4,1,0.9999854564666748
+Birkaç gün sonra annesi geliyordu .,annesi,geliyordu,4,3,4,0,0.9999097585678101
+En beğenilen tablo bu oldu .,tablo,bu,3,2,4,0,0.9999927282333374
+Bu akşam film var .,film,var,3,2,4,0,0.9999958276748657
+Bazı akşamlar film oluyor .,film,oluyor,3,2,4,0,0.9999983310699463
+"Anne babaları arasındaki arasında ki bu gerginlik , çocuklar için zor oluyor tabii .",gerginlik,zor,10,6,11,5,0.6855008602142334
+"Anne babaları arasındaki arasında ki bu gerginlik , çocuklar için zor tabii .",gerginlik,zor,10,6,11,5,0.6855008602142334
+Mehmet geç gelir .,Mehmet,gelir,2,0,5,8,0.9928665161132812
+En iyisi bu olsa gerek .,iyisi,gerek,4,1,10,7,0.572512149810791
+Herkesin afişi görmüş olması gerek .,Herkesin,gerek,5,0,5,6,0.9964501857757568
+Ahmet tezini bu odada yazabilir .,Ahmet,yazabilir,4,0,5,8,0.9997490048408508
+İki tarafın temsilcileri Hilton Oteli’nde bir araya geldiler .,temsilcileri,geldiler,9,2,8,1,0.38601163029670715
+Bugün dolar ne kadarmış kadar mış ?,dolar,ne,2,1,4,0,0.9999932050704956
+Keşke daha çok param olsa .,param,olsa,4,3,4,1,0.999760091304779
+- Turgut bana selam vermedi .,Turgut,vermedi,4,1,8,5,0.6217963099479675
+Ali’nin patronu onu sevmiyor olabilir .,patronu,sevmiyor,5,3,11,10,0.5236601829528809
+Murat seni seviyor .,Murat,seviyor,2,0,5,6,0.9951855540275574
+Masaya bırakılmış bir not yeterli olurdu .,not,yeterli,5,4,4,0,0.9998286962509155
+Programda yetkililerin istediği bazı değişiklikleri yapmamız gerekebilir .,yetkililerin,gerekebilir,7,2,11,10,0.6344563364982605
+Programda yetkililerin istediği bazı değişiklikler yapmamız gerekebilir .,yetkililerin,gerekebilir,7,2,11,10,0.6437810659408569
+İsterse Ahmet bir arkadaşını getirebilir .,Ahmet,getirebilir,5,2,8,6,0.9295520782470703
+Onlar doktormuş doktor muş .,Onlar,doktor,5,0,5,8,0.9884628653526306
+Onlar doktormuşlar doktor muşlar .,Onlar,doktor,6,0,5,8,0.9968365430831909
+Onlar doktorlarmış doktor larmış .,Onlar,doktor,1,0,4,1,0.9951489567756653
+Misafir mi gelecek ?,Misafir,gelecek,2,0,5,6,0.8646863102912903
+Kalorifersiz Kalorifer siz evler nispeten ucuz oluyor .,evler,ucuz,8,6,11,7,0.8448131084442139
+Ali doktorları sevmez .,Ali,sevmez,3,0,5,6,0.9659770131111145
+Bilgisayar Kenan’ın odasına kondu .,Bilgisayar,kondu,5,0,5,8,0.9994392991065979
+Hasan'ın imza yetkisi yok .,yetkisi,yok,5,4,4,0,0.9999967813491821
+Elimi cam kesti .,cam,kesti,3,2,4,0,0.9999991655349731
+Sabah eve bir adam geldi .,adam,geldi,4,3,4,1,0.9996911287307739
+Bizde sahiden video yok .,video,yok,4,3,4,0,0.9999988079071045
+Ahmet öğrencilere sınav kağıtlarını verdi .,Ahmet,verdi,5,0,5,6,0.997501790523529
+Ben şimdi derslerimi aşağıda bilgisayarla veriyorum .,Ben,veriyorum,7,0,5,6,0.9966322779655457
+Dün annem doktora gitti .,annem,gitti,3,1,8,3,0.9367669820785522
+Suluboyayı ancak usta bir ressam böyle kullanabilir .,ressam,kullanabilir,9,7,8,3,0.7472048997879028
+Kitaplarsa Kitaplar sa hala kutularda duruyor .,Kitaplar,duruyor,7,2,9,6,0.8825251460075378
+Sen Londra’dasın Londra’da sın diye biliyordum .,Sen,biliyordum,10,0,5,6,0.9941264390945435
+Senin piyano çaldığını bilmiyordum .,Senin,bilmiyordum,4,0,5,6,0.9915766716003418
+New York ağustosta çekilmez diyorlar .,New,diyorlar,7,0,5,6,0.9958388805389404
+Her taraf mermerle kaplansın istiyor .,taraf,istiyor,6,1,8,1,0.5995059013366699
+Sen nereye gitmek istiyorsun ?,Sen,istiyorsun,3,0,5,1,0.9756960272789001
+Ahmet araba kullanmasını sever .,Ahmet,sever,3,0,5,6,0.9999029636383057
+Yaşlıları dinlemekte fayda var .,fayda,var,5,4,4,0,0.9996174573898315
+Babana bir kere daha sormakta yarar var .,yarar,var,8,7,4,1,0.9983623623847961
+"Evi kendim temizlemek , başkasına temizletmekten daha kolay geliyor .",kendim,geliyor,11,2,9,8,0.7543689608573914
+Bu tablonun şuraya asılmasını istiyoruz .,tablonun,istiyoruz,6,1,4,11,0.5037359595298767
+Senin ablanın yanında olduğunu biliyordum .,Senin,biliyordum,5,0,5,6,0.997701108455658
+Annem bana akşama gelip gelmeyeceğimi sordu .,Annem,sordu,7,0,5,6,0.9982329607009888
+Buraya araba çarptığını tahmin ediyorum .,araba,ediyorum,5,1,10,0,0.8586559891700745
+Siz hayatınızdan memnunsunuz memnun sunuz gibi duruyor .,Siz,duruyor,9,0,5,6,0.9534914493560791
+içinde üç top bulunan kutu,top,kutu,5,3,9,6,0.6025550961494446
+Kutunun içinde üç top var .,top,var,5,4,4,1,0.9994826316833496
+çatısından birkaç küçük kiremit düşen ev,kiremit,ev,7,5,0,8,0.535785973072052
+Çocuğun arkasında adam var .,adam,var,4,3,4,0,0.9999816417694092
+kitap imzalanan yer,kitap,yer,2,0,5,6,0.998105525970459
+benim korktuğum bazı hayvanlar,benim,hayvanlar,4,0,5,6,0.9992486834526062
+Biz öyle kişilerden nefret ediyoruz .,Biz,ediyoruz,4,0,5,8,0.9808161854743958
+Çayla insan bir şeyler yer .,insan,yer,5,2,8,3,0.8836348652839661
+"Bir ahçı ki baklava yapmayı bilmesin , ben ona ahçı demem .",ben,demem,13,9,7,5,0.7992202639579773
+Adam hayalet görmüş gibi sapsarı kesildi .,Adam,kesildi,6,0,5,8,0.9848832488059998
+Makine tamir edildikten sonra yeniden bozuldu .,Makine,bozuldu,5,0,5,6,0.999148964881897
+Haberi duyduğunuz sırada Filiz burada mıydı ?,Filiz,burada,5,4,4,0,0.9972447156906128
+Ahmet yeni eve geçtikten sonra daha rahat olacak .,Ahmet,rahat,6,0,5,6,0.9995444416999817
+Biz size iki ay içinde geri ödemek şartıyla on milyarlık borç verebiliriz .,Biz,verebiliriz,12,0,5,6,0.987405002117157
+Mehmet geç yatarsa zor kalkar .,Mehmet,kalkar,5,0,5,6,0.989486575126648
+Ahmet de gelse ne iyi olurdu .,Ahmet,iyi,4,0,5,6,0.9847733974456787
+Ahmet çalışıyorsa rahatsız edilmek istemez .,Ahmet,istemez,5,0,5,6,0.9976754784584045
+Sen gelmesen de olur .,Sen,olur,5,0,5,6,0.9932681918144226
+Ahmet aslında çok iyi bir mimar .,Ahmet,mimar,5,0,5,6,0.9987647533416748
+Gerçi Ziya kayak yapmayı sevmez ama yine de gidecekmiş .,Ziya,sevmez,5,2,8,5,0.8594753742218018
+Mehmet ikiye kadar gelirse iyi .,Mehmet,iyi,4,0,5,6,0.9995074272155762
+"Annem Afrika’yı , özellikle güney Afrika’yı çok seviyor .",Annem,seviyor,11,0,5,6,0.9980406165122986
+Bence başkanlığı en iyi Osman yapar .,Osman,yapar,5,4,4,0,0.9999998807907104
+Yusuf pilavı çok sever .,Yusuf,sever,3,0,5,6,0.9998152852058411
+Daha doğrusu annesinin yaptığı pilavı çok sever .,annesinin,sever,6,2,6,5,0.7783343195915222
+Demek sen de kaza yerindeydin yerinde ydin !,sen,yerinde,4,1,7,8,0.9452606439590454
+Onlar da bunun üzerine grev yapmaya karar verdiler .,Onlar,verdiler,7,0,5,6,0.9977025389671326
+İmza gerektiren bir paket varmış var mış .,paket,var,5,4,4,1,0.9983571171760559
+"Geçen gün okula gitmemiştim ya , meğer okul zaten tatilmiş tatil miş .",okul,tatil,12,2,4,11,0.31732186675071716
+"Hani geçen gün okula gitmemiştim ya , meğer okul zaten tatilmiş tatil miş .",okul,tatil,13,3,1,9,0.29774773120880127
+Şu anda Ahmet futbol oynuyor .,Ahmet,oynuyor,4,2,8,3,0.6746874451637268
+Cumartesileri Ahmet futbol oynuyor .,Ahmet,oynuyor,7,5,11,7,0.7726349830627441
+Bu ceket senin olmalı .,ceket,senin,2,1,4,0,0.9969174861907959
+Oyunun afişte kalması için başarıyla oynanması gerekir .,Oyunun,gerekir,8,0,5,8,0.9971075654029846
+Usta ağır çekim geldi .,Usta,geldi,3,0,5,6,0.9991487264633179
+Siz buraya bizi eğlendirmeye mi geldiniz yoksa ağzımızdan burnumuzdan getirmeye mi ?,Siz,geldiniz,6,0,5,8,0.965107262134552
+"Ve birdenbire o kendini , şimdiye kadar gelmediği , böyle olacağını aklına bile getirmediği bir yerde buldu .",o,buldu,17,2,7,8,0.1941601186990738
+"Stadyum kapısında akşamlayan , Keloğlan'la sabahlayan adamdan muhtar olur mu ?",muhtar,olur,15,14,4,0,0.9999994039535522
+Politikada iktidar antipatik olduğundan oradan düşüş insanı sempatik eder .,iktidar,eder,11,3,10,11,0.7547762393951416
+Hatta vekilin bile ayağını kendisinin kaydırdığını iddia ediyor .,kendisinin,ediyor,9,5,0,8,0.273294597864151
+Fakat o gözünü kapayınca başsız kalan konak .,o,konak,8,1,11,1,0.2990056276321411
+"Kaç kez yakındım ona , yüzünü öyle bir yas kapladı ki yakındığıma da yakınacağıma da bin pişman oldum .",yas,oldum,24,9,5,5,0.1274845451116562
+"Merak etme kızım , bok yiyor o herif , dedi .",herif,dedi,10,8,7,4,0.700547993183136
+Size ne kadar cömert davranmış olduğunu kendiniz de biliyorsunuz .,kendiniz,biliyorsunuz,9,7,4,1,0.9085111021995544
+"Kıbrıs sorunu , şu ya da bu siyasal oyunla , yeniden çıkmaza girecektir .",sorunu,girecektir,13,1,8,1,0.4258125126361847
+Size hiç bu mektupların dışında ' Muhterem Yusuf Ziya Beyefendi ' diyen oluyor mu ?,diyen,oluyor,15,14,4,0,0.9978681802749634
+Bu emel bana bu üç yıllık ömrümü didik didik edip kâğıt üzerine koymamı zorluyor .,emel,zorluyor,15,1,8,1,0.5232213139533997
+Götüreceği cadı karının dili dursa neyse .,dili,neyse,9,6,10,2,0.5739523768424988
+"Herkes benden emir , direktif almaya mecbur değil !",Herkes,mecbur,6,0,5,6,0.9972062706947327
+Annem hemen işe el koydu .,Annem,koydu,4,0,5,8,0.9989848732948303
+Sen babasının gönlünü ettikten sonra kızın esamesi mi okunur bre usta !,Sen,okunur,10,0,5,6,0.9956958293914795
+"Seni rencide ettiysem özür dilerim , ben sadece bizim hassasiyetimizi anlamanı istedim .",ben,istedim,16,9,3,0,0.7892870306968689
+Bu futbolcu antrenmanda göz doldurdu .,futbolcu,doldurdu,5,1,8,1,0.8456810712814331
+"Doktor , Sevim Hanım'ın içinden geçenleri gözlerinden okuyarak söze karıştığında pişman oldu .",Doktor,oldu,14,0,5,6,0.9948388934135437
+Bu vazife bana çok ağır geliyor .,vazife,geliyor,5,1,8,3,0.8260198831558228
+Ben bunu kitaplıkta saklayarak günaha giriyorum .,Ben,giriyorum,8,0,5,6,0.9872931241989136
+Bu haberi patlatacak olan gazete en az bir hafta gündemi belirlemiş olacak .,gazete,olacak,12,5,7,8,0.859967827796936
+"Böyle bir suç işlendiğinde , aşkın ağırlaştırıcı nedenleri ne kadar hafifletici neden sayılır , bilmiyorum .",nedenleri,bilmiyorum,17,9,9,2,0.304559588432312
+Ben hiç şikâyet etmem hâlimizden .,Ben,etmem,3,0,6,7,0.9698148965835571
+"Giyinmiş kuşanmış , benim de giyinip kuşanıp hazır olmamı bekliyor .",benim,bekliyor,17,8,6,6,0.4772607982158661
+"Demek ki hülasa ediyorum , turizm İstanbul'un büyük bir şansı olur .",turizm,olur,14,7,10,0,0.6185826063156128
+Misilsiz Mehmetçiğin süngüsü ucunda Allah Allah diye bir ses ihtizaz eder .,ses,eder,18,14,8,2,0.825215220451355
+Onun ikilemli davranışlar göstermesini istiyordum .,Onun,istiyordum,6,0,5,8,0.9969995021820068
+Bizim avlu bir anda bütün ülkenin ilgi odağı oldu .,avlu,oldu,8,1,9,2,0.7596826553344727
+Piyangodan yüz bin lira isabet etti .,lira,etti,8,6,8,10,0.573355495929718
+Bunlar yaşama yolunda bir engele çarptılar mı hemen dedelerinin adını verirler ve kendilerini güçlükten sıyırıp çıkarırlardı .,Bunlar,verirler,13,0,5,6,0.8551308512687683
+"Yazar mutlaka bir diyeceği olan adam değil , yazmayı kendisine iş edinmiş adamdır .",Yazar,adam,6,0,5,6,0.9972885847091675
+Hani ya kahve nerede ?,kahve,nerede,3,2,4,0,0.9998331069946289
+"Onlar benim dostlarım , kendimi onların yanında dağıtmış olmam çok vahim değil .",Onlar,vahim,11,0,5,6,0.9982470273971558
+Ben de aç duracak değilim ya !,Ben,duracak,3,0,5,6,0.9054861068725586
+"Ne oldu ki Ömer ağa , dedi .",Ne,dedi,6,0,5,6,0.9741275906562805
+"Birçok macuncuyla tartışır , en güzel kuvvet macununun hangisi olduğunu büyük bir sabırla araştırır idi .",hangisi,idi,20,13,3,9,0.5548730492591858
+"Bir sabah lanet olsun , dedim , yaptığım iyilik gözüne dizine dursun !",iyilik,dursun,12,8,8,9,0.6863934397697449
+Kendine minnettar kalan ahalinin elleri üzerinde geziyor .,elleri,geziyor,8,6,10,6,0.5463516712188721
+Bir milletin kendi varlığını müdafaa etmesinden daha tabii ne olabilir ?,ne,olabilir,9,8,4,0,0.9998501539230347
+"Tatlı bir duman , bütün varlığını sararak en derin yerlerine kadar nüfuz ediyordu .",duman,ediyordu,13,2,9,2,0.46753090620040894
+"Bununla beraber muhtar , bu vakadan köyün davası için bir pay çıkarmayı ihmal etmemektedir .",muhtar,etmemektedir,14,2,8,3,0.8921349048614502
+Ne olacak efendim !,Ne,olacak,1,0,4,0,0.9999879598617554
+Bunda ne hocanın bilgisi ne çocuğun çalışkanlığı rol oynar .,bilgisi,oynar,11,4,9,1,0.5184063911437988
+"Kızım sen Rufailere karışmışsın , bir doktora görünsen iyi olur .",sen,olur,14,2,9,8,0.48965197801589966
+"Hepsi örslerinin üzerine birer mum yakmışlar , pederlerinin ruhunu şad ediyorlar .",Hepsi,ediyorlar,16,0,7,5,0.9173330664634705
+Ne ise bunlar hep dedikodu .,bunlar,dedikodu,4,2,8,1,0.7862594127655029
+Ülkede serbest ekonomi yok mu yani ?,ekonomi,yok,4,3,4,0,0.9999943971633911
+Batı tiyatrosu Türkiye için yepyeni bir şey olduğu için sıfırdan başlamak gerekiyordu .,tiyatrosu,gerekiyordu,11,1,10,0,0.8959391117095947
+"Hava kararmaya yüz tutunca , içine bir daralma geliyor çocuğun .",Hava,geliyor,11,0,5,6,0.9921305775642395
+O da senin gibi sivri fikirli biri ya .,O,biri,7,0,5,8,0.9755730032920837
+Birkaç söz daha söyleyip esasa geçmek istediyse de arkada oturanlardan biri onun sözünü kesti .,biri,kesti,16,13,7,8,0.9158601760864258
+"Bir ay doğdu ilk akşamdan , geceden / Şavkı vurdu pencereden , peçeden",ay,vurdu,12,1,5,9,0.2810572683811188
+Bugünün şerefine giydiği yabanlık lacivert entarisiyle annesi kapıda bekliyordu .,annesi,bekliyordu,13,11,11,10,0.7511806488037109
+Soruşturma açılmasını bizzat ben talep ettim .,ben,ettim,6,4,3,0,0.7715271711349487
+Kaçsan da kaç para eder ?,para,eder,5,4,4,1,0.9998088479042053
+"Kemalistin bağımsızlık fikri tertemiz , pürüzsüz , tavizsiz Türkçü ve Türkiyeci idi .",fikri,idi,15,3,8,1,0.5268287062644958
+"A , o nasıl lakırtı , dedi .",o,dedi,8,2,11,4,0.4109245836734772
+Türk askerini donatmak için yılda 570 dolar yeter .,dolar,yeter,10,9,4,0,0.9999744892120361
+Fakat o hiç oralarda değildi .,o,oralarda,3,1,7,8,0.829917848110199
+Bu nesil öyle zamanlar geçirdi ki doğduğuna lanet etti .,nesil,etti,9,1,10,11,0.7033467292785645
+"Velhasılıkelam , spor terakki ediyor bizde !",spor,ediyor,11,8,11,0,0.5625702142715454
+"Bugün hava çok sıcak , başka bir zamana bıraksak olmaz mı ?",hava,olmaz,10,1,8,3,0.2770830988883972
+İngiliz gemisi üstüne gemi olmaz .,gemi,olmaz,4,1,10,3,0.6349726915359497
+"İçinde yaz kış , bir don bir gömlekle yalın ayak , başı kabak bir adam oturur .",adam,oturur,16,15,4,0,0.9993775486946106
+"Bir babam olduğunu , nasıl yana yana istediğini size anlatamam .",babam,anlatamam,9,1,9,7,0.6027125716209412
+Çağdaş insanın hayatında gazete mühim bir yer tutar .,gazete,tutar,7,3,8,1,0.657270610332489
+"Ana , inek sağar ; yoğurt çalar , yayık vurur .",Ana,vurur,11,0,5,6,0.9387980103492737
+"Motorun yanaşmasını bekliyorum , yol kestiği için şimdi hiç gürültü etmiyor .",yol,etmiyor,13,6,7,4,0.48913657665252686
+"O da sana er geç yuları takar , benden beter olursun .",O,olursun,12,0,5,6,0.9865911602973938
+Piyanistin takdiri yüreğinden geliyordu .,takdiri,geliyordu,6,3,8,1,0.725197970867157
+Adam yüzüstü bırakıp gidince böyle bir numara çevirip başına kalmayı deniyor anlaşılan .,Adam,deniyor,11,0,5,6,0.9959505796432495
+Biz artık ilkel insan anlayışımızı değiştirmek zorununu duyuyoruz .,Biz,duyuyoruz,9,0,5,6,0.9893508553504944
+Kartal güç ve iktidarı sembolize ediyor,Kartal,ediyor,5,0,5,8,0.9959182143211365
+Bu çorbanın tuzu eksik,tuzu,eksik,4,3,4,0,0.9999896287918091
+"Sağ elinin parmakları arasındaki siyah renkli , şık bir dolma kalem var .",kalem,var,12,11,4,0,0.999790370464325
+"İğde kokusu , alerjisi olanlar dışında herkesin hoşuna gider .",kokusu,gider,10,3,10,2,0.5985808968544006
+Bunun üzerine Amerika Meksika'ya müdahele etti .,Amerika,etti,9,2,7,8,0.6753758788108826
+Beşinci madde esas alındığında haksız bulunur .,madde,bulunur,6,2,11,9,0.5841581225395203
+"Bulunduğum küçük odada sadece bir masa , dört iskemle ve akışsız , durağan bir zaman var .",masa,var,19,6,9,2,0.27792638540267944
+"Aklımda kaldığına göre , Raşit çocukla aramızda ancak iki üç aylık bir fark var .",fark,var,17,16,4,1,0.9997014403343201
+Onun benimle ne alıp vereceği olabilir ?,Onun,olabilir,5,0,9,1,0.9811814427375793
+Misilsiz Mehmetçiğin süngüsü ucunda Allah Allah diye bir ses ihtizaz eder .,ses,eder,18,14,8,2,0.825215220451355
+"Taş ocağın üstünde , ateşe vurduğu güveçten , kaynayan etin kokusu geliyordu .",kokusu,geliyordu,15,14,4,0,0.9999905824661255
+Onun avaz avaz çaldığı radyo türkülerine usul klasik müzikle yanıt veriyoruz .,Onun,veriyoruz,13,0,5,6,0.996342122554779
+"Tren yoluna bakan , iki yanı bahçelikli , köşklü bu ara sokak unutulur gibi değil .",sokak,gibi,17,14,11,10,0.652760922908783
+"Yazar , kitabına basıla verdi .",Yazar,verdi,5,0,5,6,0.9979379773139954
+O size hiçbir şey yapamaz .,O,yapamaz,4,0,5,8,0.9942131638526917
+Bahar toprağa gene can verdi .,Bahar,verdi,4,0,5,8,0.9984214305877686
+Onlar da kendilerine göre bir çete savaşı yapmak hevesine düşmüş olabilirler .,Onlar,olabilirler,11,0,5,6,0.9926267266273499
+"Bütün bu insanlar , amcası dâhil tiyatroda perdenin açılmasını bekler gibidir .",insanlar,gibidir,12,2,7,8,0.9752325415611267
+"Devlet Denetleme Kurulu , her türlü inceleme , araştırma ve denetleme yapar .",Devlet,yapar,11,0,5,6,0.9995589852333069
+"İrdelediği sorunlar , bize henüz fazla derinlikli geliyor .",sorunlar,geliyor,10,3,10,3,0.782832145690918
+Biz herhangi bir teşebbüs ihtimalini ebediyen hudutlarımız dışında bırakmak istiyoruz .,Biz,istiyoruz,12,0,5,6,0.9800651669502258
+Öyle fazla dikine gitmek iyi değildir hayatta .,gitmek,iyi,5,4,4,0,0.9995290040969849
+Aslında ben çok az konuşan biriyim .,ben,biriyim,5,1,3,0,0.7134180665016174
+"Kendisiyle diyalog kuramamaktan yakındığımız insan , bazen en yakın çevremizden olabilir .",insan,olabilir,15,8,7,8,0.7004857063293457
+Sonra sen gazetende istediğin gibi ver dumanı .,sen,ver,6,1,8,3,0.7977558970451355
+"Allah müstahakımı versin , gelmişime de geçmişime de ervahıma da yuf olsun !",Allah,olsun,18,0,5,6,0.887977659702301
+"Ben kimseye eyvallah etmeyeceğim , dedi .",Ben,dedi,8,0,5,6,0.9968336224555969
+"Millet , fakruzaruret içinde harap ve bitap düşmüş olabilir .",Millet,olabilir,13,0,5,6,0.9959898591041565
+"Giyinmiş kuşanmış , benim de giyinip kuşanıp hazır olmamı bekliyor .",benim,bekliyor,17,8,6,6,0.4772607982158661
+Merhaba dostum / Seni gökte ararken / Yerde buldum,Seni,buldum,9,3,6,5,0.5863081812858582
+"Bu adam bir gün doğar , fena bir aile içine girer , haylaz olur , mektebin arka sıralarında havyar keser , daima tekdir edilir .",adam,edilir,27,1,8,3,0.7898668646812439
+"Yavaş yavaş kendine gelen anne , ızdıraplı iniltileri arasında itiraz ediyordu .",anne,ediyordu,15,5,9,7,0.710753858089447
+"Doktor geldi , ilaç yazdı .",Doktor,geldi,1,0,5,8,0.9971771240234375
+Hiçbir medeniyet bütün alanlarda başka bir medeniyetten daha ileri gittiğini iddia edemez .,medeniyet,edemez,12,1,8,3,0.6079626083374023
+Çocuğu babasına bırakıp kendisi erkekle ilgisini keser ve familyasının yanına döner .,kendisi,keser,7,4,7,8,0.6349427103996277
+"O zaman da bozgun ve inkıraz geldi , çattı .",bozgun,geldi,8,3,6,1,0.7644721269607544
+"Bu Müslüman adam , kadere yalnız İstanbul'dan uzakta ölmek endişesiyle isyan ederdi .",adam,ederdi,15,2,8,3,0.5372543334960938
+Senin ne habasetlere kadir olduğunu ben bilirim .,ben,bilirim,8,7,4,0,0.9923650622367859
+Kendisi de her fırsat düştükçe bunlarla yan yana harp ettiğini söylerken âdeta kalbi ağzına gelmiş gibi olurdu .,Kendisi,olurdu,17,0,5,8,0.9736685156822205
+El elin ayıbını terzi kumaşı alır gibi kapış kapış yaptığı için aldırış etmem .,El,etmem,16,0,5,8,0.991161584854126
+"Fakat hanımefendi , bugün İstanbul'da karısının üstüne evlenmiş kaç erkek var ?",erkek,var,12,11,4,0,0.9989818930625916
+Bu evler burada üç yıl içinde mantar gibi bitti,evler,bitti,8,1,8,3,0.9592326879501343
+"Orayı gördükten sonra ben , gayri dünyanın hiçbir tarafına metelik vermem .",ben,vermem,12,4,7,8,0.9762370586395264
+"Gezecek , eğlenecek , nefes alacak hiçbir yer yok .",yer,yok,10,9,4,1,0.9987068176269531
+"Normal yaşamının çekişmeleri içinde tekerlenip giden insan , bayramlarda bir nefis muhasebesi yapmak imkânı bulur .",insan,bulur,18,8,7,8,0.8495473265647888
+"Sana derim , güzel eltim , sen bu kızına tez vakitte nikâh koy !",sen,koy,14,7,7,8,0.9690744876861572
+"Bu , o kadar ince ve girift bir meseledir ki , bütün bir ömür boyunca izaha çalışılsa yine derinliğine nüfuz edilemez .",Bu,edilemez,25,0,5,8,0.9637000560760498
+"Ali çocuk gibi perendeler atarak otlarla , yamaçlarla sarmaş dolaş oluyordu .",Ali,oluyordu,15,0,5,8,0.9941155910491943
+"Görmediniz mi , adını söyleyince herkes put kesiliyor .",herkes,kesiliyor,8,6,7,8,0.9452721476554871
+Bu arabalar her akşam Beyoğlu'nda Tokatlıyan'ın yaya kaldırımına rampa eder .,arabalar,eder,17,1,8,3,0.8273064494132996
+Az sonra birbirimize randevu vermişiz gibi ben de gelirim .,ben,gelirim,9,7,3,0,0.720492959022522
+Metin o gece başarısız oldu .,Metin,oldu,4,0,5,6,0.9931719303131104
+Hatta sarhoşluğa vurup orada kaldığım geceler de oldu .,geceler,oldu,8,6,9,2,0.7924020290374756
+Birtakım resmî sıfatlı insanlar onun vücudunu lüzumsuz ilan ettiler .,insanlar,ettiler,11,5,8,3,0.6049174070358276
+Bunlar yaşama yolunda bir engele çarptılar mı hemen dedelerinin adını verirler ve kendilerini güçlükten sıyırıp çıkarırlardı .,Bunlar,verirler,13,0,5,6,0.8551308512687683
+"Sözümü tuttum gibime geliyor , siz istediğiniz kadar bana meşhursun deyin .",siz,deyin,13,7,5,9,0.3073606789112091
+"Doktor geldi , ilaç yazdı , sırtıma vantuz çekti .",Doktor,geldi,1,0,5,8,0.9971771240234375
+"Şuncasını söyleyeyim , ben şiirin şarkılaştırılarak okunmasını sevmem .",ben,sevmem,14,6,7,8,0.943576991558075
+"Tam üstüne bastın canım , ben sıradan değil sıra dışı biriyim .",ben,biriyim,11,6,3,0,0.6588712930679321
+"Bu adam , canımı sıkacak bazı şeyler söyledi ; sonra eliyle tecavüz etti .",adam,etti,14,1,8,3,0.6150356531143188
+"Sen meram ettikten kelli , tekeden süt çıkarırım , ağam ! diyordu .",Sen,diyordu,16,0,5,6,0.9912090301513672
+"Yalan , hakikati ters yüz eder .",Yalan,eder,5,0,5,8,0.99726402759552
+"Sana derim , güzel eltim , sen bu kızına tez vakitte nikâh koy !",sen,koy,14,7,7,8,0.9690744876861572
+"Köy tablosu , Sezai'yi asıl toplumsal katmanlar açısından ilgilendirmiş gibidir .",tablosu,gibidir,13,1,8,3,0.6748080253601074
+Toz kondurmadığı devletinin kendisini hatırlamasını sabırla bekliyor .,devletinin,bekliyor,9,4,10,11,0.7122423052787781
+Hiçbir doktor her an intihar etmeye hazır bir psikopatın töhmeti altında kalmak istemez .,doktor,istemez,18,1,7,8,0.9831489324569702
+Uçaksız turlar çok rahat değil .,turlar,rahat,4,2,7,8,0.8803486227989197
+Deniz sakin bile olsa savaş durumunda gemi mutlaka yalpa yapacak .,gemi,yapacak,10,6,7,8,0.9519661664962769
+Sonra bahis yine sempati meselesine intikal etti .,bahis,etti,7,1,10,11,0.9350524544715881
+"Bu askerlik oyununda yere vurduğu adama , kaideye uygun olan hareketi muhafaza ediyor .",uygun,ediyor,13,9,9,11,0.23387834429740906
+Ali bütün karargâhı yerle bir edecek bu korkunç alete bakmak istedi .,Ali,istedi,13,0,5,6,0.9953106045722961
+"Biz işte aile gibi bir şeyiz burada , büyük hanımı da kendimize uydurduk , yuvarlanıp gidiyoruz .",Biz,gidiyoruz,18,0,5,6,0.800933301448822
+Zira bazı insanlar da vardır ki yüklerini tuttuktan ve biraz da yaşlandıktan sonra kendilerini bir nevi santimantal veya dinî mistisizme verirler .,insanlar,verirler,28,2,7,8,0.3253774344921112
+"Kim bilir ne taraflara yorar , ne zehaplarda bulunur ?",Kim,bulunur,12,0,5,6,0.8233225345611572
+"Askerî bir cip , Camekân Sokağı'nı sarsıla sarsıla geçti , apartmanın kapısı önünde zınk diye durdu .",cip,durdu,24,3,10,0,0.4907190799713135
+Amerika dünyanın tek hakimi haline geldi,Amerika,geldi,5,0,5,6,0.9842219352722168
+Yeni basılacak kitabımıza sizin önsöz yazmanızı çok istiyoruz,sizin,istiyoruz,11,5,5,11,0.7689724564552307
+Bu paranın üçte birini sizin vermeniz gerekiyor,sizin,gerekiyor,6,4,5,11,0.6677506566047668
+"Yabanlık lacivert entarisi , baş örtüsü , çökük yanaklarıyla annesi kapıda bekliyordu .",annesi,bekliyordu,17,15,9,7,0.7776162624359131
+Sonra köy ağası hazretleri bizim de kıçımıza atacak tekmeyi .,hazretleri,atacak,9,4,11,7,0.7818521857261658
+Babam senden çok mu istedi kalını ?,Babam,istedi,4,0,5,6,0.9715341925621033
+"Annem bunu sezdiği gün , babamın arkasından döktüğü yaşları unutacak kadar bedbaht olur .",Annem,olur,17,0,5,8,0.9869102835655212
+Bu incirin alacasını ben yedim .,ben,yedim,7,6,4,0,0.9995898604393005
+Onun yaptığı hep alayişten ibarettir .,Onun,ibarettir,6,0,5,8,0.996070146560669
+"Siz bugüne kadar zevcenizin vicdansızca ve aleni hıyanetine , edepsizliğine tahammül ettiniz .",Siz,ettiniz,20,0,5,6,0.9913506507873535
+"Burayı kötü bir koku aldı , durulamaz hâle geldi .",koku,geldi,10,4,10,0,0.9224278926849365
+Bileğimde keman gibi altın bilezik var .,bilezik,var,7,6,4,0,0.9999356269836426
+Bu evin içinde hatta belki bu dünyada en anlayışlı dost sizsiniz benim için .,dost,sizsiniz,10,9,4,0,0.9985590577125549
+"Bir eksen üzerindeki her nokta , apsisi ile belirtilir .",nokta,belirtilir,9,4,7,8,0.5321709513664246
+Bu elifbada Türk'ün tek bir harfi yoktur .,harfi,yoktur,10,9,4,0,0.9999985694885254
+"Biz lisanımızı tasfiye ediyoruz , yeni kelimeler buluyor , bulamazsak gelişigüzel uyduruyoruz .",Biz,buluyor,8,0,5,0,0.9564059376716614
+Asıl sanat budur .,sanat,budur,2,1,4,0,0.9999909400939941
+Böyle muazzam bir prodüksiyonun ne kadar astronomik finansmana dayandığını siz tahmin edin artık .,siz,edin,15,13,7,8,0.9871073365211487
+On sekiz yaşından aşağı olanlar giremez .,olanlar,giremez,5,4,4,0,0.9990867376327515
+"Bütün çocuklar gibi onlar da haşarı , atak ve güreşçi idiler .",onlar,idiler,12,3,7,8,0.36053866147994995
+Biçilmiş kaftan galiba bana ateşten gömlek olacak .,kaftan,olacak,8,3,10,3,0.38312870264053345
+Karda ayak izleri var / Vurulup düştükleri yere kadar,izleri,var,4,3,4,0,0.9999810457229614
+"Galiba bu , o bahtsız annenin en büyük kahrı oldu ve oğluna özlemini sayıklayarak öldü gitti .",bu,oldu,13,2,6,3,0.4944492280483246
+Pasaport işine polis bakar .,polis,bakar,4,3,4,0,0.9998226761817932
+İtalyan bandıralı gemiler ağızlarına kadar yüklü giderler .,gemiler,giderler,9,4,7,8,0.6711328625679016
+Bunların tek derdi barem basamaklarını aşarak bu mertebeye fırlayıvermekten ibarettir .,derdi,ibarettir,15,2,7,10,0.9372368454933167
+"Doktor basmalıkların kaldırılması için dayatıyor , mikrop yuvasıdır , diyor .",Doktor,diyor,13,0,5,6,0.9518275856971741
+Vaktiyle Hindistan'ın başülkesi Büyük Britanya idi .,Britanya,idi,11,10,4,0,0.999998927116394
+"O , dördüncü batından dedesi oluyor .",O,oluyor,6,0,5,6,0.9928566217422485
+Şimdi apartmana uğrayan eli bavullu bir adam hepsini getiriyor .,adam,getiriyor,10,8,8,3,0.7570865750312805
+"Bu , ihtiyar kitapçıdan alıp evde bayıla bayıla okuduğu küçük hissî romanlardan biriydi .",Bu,biriydi,17,0,5,8,0.9837643504142761
+Ben de seni bekliyordum zaten .,Ben,bekliyordum,3,0,5,6,0.9958409667015076
+Allah belasını verdi .,Allah,verdi,3,0,5,8,0.9991257786750793
+Mahkemenin elinde bu iddiaları yalanlayacak bir belge yoktu .,belge,yoktu,9,8,4,0,0.9983944296836853
+Beş beygirlik bir motor yirmi kilo kadar gelir .,motor,gelir,8,4,8,3,0.8852721452713013
+Beynelmilelci sosyalizm ve sınıf mücadelesi yok oluyor .,sosyalizm,oluyor,11,6,11,8,0.4775300920009613
+Biletini alıncaya kadar vapur da geldi .,vapur,geldi,7,5,3,10,0.9257691502571106
+"Türk milleti bu mütecavizlerin hadlerini ihtar ederek hâkimiyet ve saltanatını , isyan ederek kendi eline , bilfiil almış bulunuyor .",milleti,bulunuyor,27,1,8,3,0.7449344992637634
+"Yani kısacası bu mükemmel dilimizi kimse bilmez , okumaz .",kimse,bilmez,7,6,4,0,0.9999467134475708
+"Bir ölüm haberine karşı ben , içimde bin ezinti , bin çöküntü duydum .",ben,duydum,14,4,3,0,0.48118069767951965
+Bu hayvan biniye gelmez .,hayvan,gelmez,4,1,7,8,0.9387059807777405
+Bunu bir sen yapabilirsin .,sen,yapabilirsin,3,2,4,0,0.999859094619751
+"İçeride nereden gelirse gelsin , birinin birazcık benimsenmesinden tedirgin .",birinin,tedirgin,10,6,6,5,0.4961351156234741
+"Ben bitaraf değil , bir tarafım diyordu .",Ben,diyordu,9,0,5,6,0.9761917591094971
+Buğdayla arpadan başka ne biter bu topraklarda ?,ne,biter,9,8,4,0,0.9999856948852539
+Bu acı çıngırak sesi galiba bodrum katından geldi .,sesi,geldi,9,5,8,11,0.6621102690696716
+"Gırtlak veremi midir nedir , çehresinde damla kan yok .",kan,yok,13,12,4,0,0.9998190999031067
+Mustafa da boğazlı adam .,Mustafa,adam,4,0,5,6,0.9989456534385681
+Hizmet erim sefer tasıyla akşam yemeğini getirdi .,erim,getirdi,7,1,6,3,0.3338563144207001
+Bu iki radyo istasyonu birbirini bozuyor .,istasyonu,bozuyor,5,3,8,10,0.9033080339431763
+Bu elbiseye iki boy yeter .,boy,yeter,5,4,4,0,0.9999874830245972
+Kendisine büyük hizmeti dokunmuş insanları unutmak bir toplumun yozlaştığını belgeler .,toplumun,belgeler,11,8,6,4,0.4580473303794861
+"Şimdi o , buzlu Erzurum yaylalarında bir fırkaya kumandan gidiyor .",o,gidiyor,12,1,3,7,0.16854101419448853
+Megalomaninin kökeninde çoğu zaman aşağılık kompleksi yatar .,kompleksi,yatar,10,9,4,0,0.9999743700027466
+Gazi'nin reisliği altında bir Türk Tarihi Tetkik Cemiyeti var .,Cemiyeti,var,11,10,4,0,1.0
+Hakikatin binbir cephesi ve başka başka görünüşleri yok mudur ?,cephesi,yok,10,4,8,2,0.4944184422492981
+O ciddi bir tavırla mühim bir şey anlatmaya hazırlanmış gibiydi .,O,gibiydi,10,0,5,8,0.9860230684280396
+Okuduğunuz ne kadar cinai roman varsa bu karanlık ve tenha sokaklarda âdeta hayat bulur .,roman,bulur,16,6,10,0,0.13370023667812347
+"Oldukları yer otsuz , çalısız , kızıl renkli bir toprak .",yer,toprak,12,2,11,6,0.8058981895446777
+Yahu bu köyde kimseler yok mu ?,kimseler,yok,5,4,4,0,0.9999805688858032
+"Bayan zengindir , gençtir de gelgelelim çehre züğürdüdür .",Bayan,zengindir,1,0,4,0,0.9999985694885254
+"Belki on aile keçelerden , kilimlerden çergelerini meyve ağaçlarının altlarına kurdular .",aile,kurdular,15,2,8,3,0.41925716400146484
+Onun ne çiçek olduğunu hep biliriz .,Onun,biliriz,5,0,5,6,0.9952301979064941
+"Bu , benim gibi yaşını başını almış bir adam tarafından pek çiğ bir hareket olurdu .",Bu,olurdu,14,0,5,6,0.996002733707428
+Çimenliklerde bir tek kuru yaprak yoktu .,yaprak,yoktu,8,7,4,1,0.9999253749847412
+"Kusura bakmayınız , dağdan inmedir o , ne yol bilir ne yordam !",o,bilir,14,10,10,2,0.8113716840744019
+"Oysa bu arada o , sizi hiç tanımıyor olabilir .",o,olabilir,9,3,7,8,0.2718993127346039
+Deminden beri sözü edilen bu kumsal neydi ?,kumsal,neydi,7,6,4,0,0.9996730089187622
+"Ben o yârin çölünde kum / Bahrinde su , elinde mum",Ben,kum,6,0,5,6,0.9991658926010132
+Dersin bitmesine beş dakika var .,dakika,var,5,4,4,0,0.9999970197677612
+"Bende bir romanlık değil , kaç destanlık dert var .",dert,var,10,9,4,0,0.9999936819076538
+Devam zorunludur .,Devam,zorunludur,1,0,4,0,0.9984742999076843
+"Oturacak değil , ayakta duracak yer yok .",yer,yok,7,6,4,0,0.9998549222946167
+Müfredat programlarında kıraat yani diksiyon dersi yok .,dersi,yok,8,7,4,0,0.9999856948852539
+"Herkes , kişiliğine bağlı , dokunulmaz , devredilmez , vazgeçilmez temel hak ve hürriyetlere sahiptir .",Herkes,sahiptir,17,0,5,6,0.9946468472480774
+Havuz tamamen doldu,Havuz,doldu,2,0,5,6,0.9996919631958008
+Kimi zaman da reform gereksemesinin birçok nedenleri olabilir .,nedenleri,olabilir,9,8,4,0,0.9999697208404541
+İnşaattan önce zeminin tesviye edilmesi gerekiyor,zeminin,gerekiyor,8,3,11,0,0.6760208606719971
+"Sana derim , güzel eltim , sen bu kızına tez vakitte nikâh koy !",sen,koy,14,7,7,8,0.9690744876861572
+Gezi ertelendi .,Gezi,ertelendi,1,0,4,0,0.9999970197677612
+"Bazen bir toplum , olduğu gibi esassız , çok abartılmış , yanlış rivayetlere kapılıp gidiyordu .",toplum,gidiyordu,18,2,8,3,0.5621932744979858
+Tokadın etkisi kötü oldu .,etkisi,oldu,4,2,4,7,0.7035365700721741
+"Ah , iki bardak süt sen bana neler ettin ?",sen,ettin,8,5,3,0,0.49736690521240234
+"Bu Salih Araboğlu , tefecilikten , çalıp çırpmaktan para yapmış , uğursuz heriflerden biridir .",Salih,biridir,19,1,11,7,0.5402221083641052
+Yusuf Ali'nin Yıldızlara Karşı'yı yazdığı masa bizim fakirhanede bulunuyor .,masa,bulunuyor,14,10,7,8,0.49494674801826477
+Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu olağanüstü hâl ilan edebilir .,Kurulu,edebilir,8,4,7,8,0.34562402963638306
+"Su , kocaman fıçılara doldurulup arabalarla Beykoz'a getirilir .",Su,getirilir,12,0,5,6,0.9665456414222717
+Vapurda bir de kaçak Rus ailesi var .,ailesi,var,8,7,4,0,0.9999462366104126
+"Bunlar fişlik kâğıttır , benim işime yarar .",Bunlar,yarar,8,0,5,6,0.9979931116104126
+O satış furyası içinde herkes birbirine kitabı okuyup okumadığını soruyor .,herkes,soruyor,12,6,8,10,0.8269525170326233
+"Hilmi Bey'in evi , bir sanat ve ihtişam galerisi değildi .",evi,galerisi,12,5,8,1,0.6728871464729309
+"İçeriye gamselelerini giymiş , gök gözlü bir adam giriyor .",adam,giriyor,12,11,4,1,0.9999916553497314
+Bekâr arkadaşlardan birisi gece kuşlarından gözüne kestirdiği bir tazeyi otele davet etti .,birisi,etti,16,4,8,3,0.8218145370483398
+Zaten gecikmemin sebebi evi aramak oldu .,sebebi,oldu,7,4,7,10,0.6106206774711609
+Nasfet ve merhamet dilenmek gibi bir prensip yoktur .,prensip,yoktur,9,8,4,0,0.9999969005584717
+Haber daha yeni gitti .,Haber,gitti,3,0,5,6,0.9952653646469116
+Bu işin sonu nereye gider .,sonu,gider,4,2,4,7,0.8433135747909546
+"Bu , yeterince cesur olamadığımın bir göstergesi olabilir .",Bu,olabilir,9,0,5,6,0.9964362382888794
+"Boğaziçi'nin , Sarayburnu yarımadasını , tarihî üslup ve estetiklerini korumak için çok iyi hazırlanmış projeler var .",projeler,var,21,20,4,1,0.9994803071022034
+"Hah , Orhan da geldi !",Orhan,geldi,5,3,3,10,0.6887669563293457
+Damadım için söylüyorsan sen de bilirsin ki ne akreptir ne de çıyan .,sen,bilirsin,7,5,5,11,0.6597639322280884
+Siyah araba ağır ağır hareket etti,araba,etti,5,1,10,0,0.6604637503623962
+Türk tarihi harikalarla doludur .,tarihi,doludur,4,1,6,3,0.7786056995391846
+Bu köyde hiç hayat yok .,hayat,yok,4,3,4,0,0.9999876022338867
+Herhangi biri gelsin .,biri,gelsin,2,1,4,0,0.9928253889083862
+"Hortlasın mezarında öyleyse , hınzır herif , dedi .",herif,dedi,13,11,7,4,0.5491315722465515
+"Vatan , evladının hizmetini bekliyor .",Vatan,bekliyor,5,0,5,8,0.9906090497970581
+"Hortlasın mezarında öyleyse , hınzır herif , dedi .",herif,dedi,13,11,7,4,0.5491315722465515
+"Onun çıkardığı Yarım Ay'da yine pırıltılı , hücumcu yazıları ile güçlü bir kalem savaşçısı kesildi .",Onun,kesildi,19,0,5,8,0.9976295232772827
+Bitkilerde duygu var mı ?,duygu,var,4,3,4,0,0.999969482421875
+"Bizim kahraman da şimdi , burada ikamet ediyor .",kahraman,ediyor,7,1,9,10,0.4384568929672241
+Daha çok tensel ihtirasa açık olan bu evlilik başlangıçta mutluluk getirir .,evlilik,getirir,12,9,8,3,0.9546574950218201
+Kime iltifat dozunu artırırsa o gerçekten de bir şeyler olurdu .,o,olurdu,12,3,10,3,0.17775487899780273
+Her memleket başkalarının yeniliklerini taklit ile başladığı intizama kendisinin eskiliklerini tahkik ile nihayet verir .,memleket,verir,19,1,8,3,0.811129629611969
+Görülünce vurulması için irade bile var .,irade,var,8,6,4,1,0.9048256874084473
+"Sarı , cerahatli bir suyun kafamdan aktığını duyuyorum .",suyun,duyuyorum,11,6,10,2,0.6844416856765747
+Bu adamın istekleri bitmiyor .,istekleri,bitmiyor,3,2,4,0,0.9999449253082275
+İçimde nice zamandan kalma bir arzu var .,arzu,var,7,6,4,1,0.9999217987060547
+İşte bu iki adam bir aralık göz göze geldiler .,adam,geldiler,8,3,8,3,0.7572873830795288
+"Artık itirazlar , teçhiller , istihzalar , hiddetler birbirini takip ediyordu .",itirazlar,ediyordu,16,1,11,11,0.3932441174983978
+"Kendisi , ayağında postallar , sırtında kaput , başında kabalak , Çanakkale cehenneminde askerliğini yaparken .",Kendisi,yaparken,19,0,5,6,0.9799514412879944
+"Sermet Muhtar , Akşam gazetesinin temelli imzalarından biri oldu .",Muhtar,oldu,10,2,9,3,0.4388206899166107
+"Ses Sevim'in sesi fakat kalınlaşmış , tıkanmış , yabancılaşmış bir ses .",Ses,sesi,4,0,5,6,0.9922245740890503
+Çocukların içinde kalanlar da var geçenler de .,kalanlar,var,4,2,4,1,0.909507155418396
+Anayasa Mahkemesi . kanun koyucu gibi hareketle yeni bir uygulamaya yol açacak biçimde hüküm tesis edemez .,Mahkemesi,edemez,16,1,8,5,0.48605525493621826
+Bu kararı söyleyen sesin tesiri gözlerimizi yaşla doldurdu .,tesiri,doldurdu,9,4,8,1,0.8297765851020813
+"Bir sabah bir kasabada uyanırsınız , o gün bir kararname imzalanır , akşama bir şehirli olursunuz .",kararname,olursunuz,18,10,9,5,0.32517704367637634
+"Bu itibarladır ki ben bu partiler hakkında , aynı gaye için yürüyen kardeş partilerdir diyorum .",ben,diyorum,16,4,5,9,0.26403355598449707
+Ben senin karnındakini ne bileyim ?,Ben,bileyim,5,0,5,8,0.9752609133720398
+Adamcağızın ara sıra ayakları karıncalandıkça dolaşacak bir yeri bile yok .,yeri,yok,14,12,3,8,0.8414831161499023
+"Yanıma her tarafı titreyerek sapsarı , sakal bıyığa karışmış bir hâlde geldi .",sakal,geldi,16,9,10,0,0.23457174003124237
+Bana öyle geliyor ki bir kartaloz herif bir çocuk rolü oynuyor .,herif,oynuyor,11,7,11,4,0.4345581829547882
+"Halk arabalarla , kayıklarla , yaya olarak oralara kadar geliyor ve bu ağaçların altına dağılıyordu .",Halk,geliyor,13,0,5,6,0.9986391663551331
+"Su , 100 °C'de kaynar .",Su,kaynar,7,0,5,8,0.9963617920875549
+Kendini unutturmak ve bu ziyareti kazasız belasız savmaktan başka bir düşüncesi bulunmayan bizim kaymakam buna memnun oluyor .,kaymakam,oluyor,20,17,8,3,0.9699854850769043
+Her hâllerine ben kefilim diyordu .,ben,diyordu,6,3,6,9,0.5519087910652161
+İşte birkaç zamandır beynimi kemiren şüphe : Ben deli miyim ?,Ben,deli,10,9,4,0,0.9997288584709167
+"Kendi yapacağı işi bırakır , âleme öğüt vermeye kalkar .",Kendi,kalkar,9,0,5,6,0.7870253324508667
+Ona âşık olduğunu kendi kendine itiraf edemedi .,Ona,edemedi,6,0,5,6,0.9845234155654907
+"Muhtaç olduğun kudret , damarlarındaki asil kanda mevcuttur .",kudret,mevcuttur,9,3,4,11,0.5514825582504272
+"Gelin oyuna kalktığı zaman , çalgıcılara bin lira verdi .",Gelin,verdi,10,0,5,6,0.9966543912887573
+"Ali bakırı çıkmış , kenarları kertikli bir sahanla getirdiği suyu anasının yanına koydu .",Ali,koydu,18,0,5,6,0.9894790053367615
+Kocakarının trenin arkasından ağzıyla uluyarak koşan hayali bir rüya gibi oldu .,hayali,oldu,17,13,11,11,0.42013177275657654
+Ortalıkta bir savaş kokusu var .,kokusu,var,6,5,4,0,0.9997442364692688
+"Niye bu çerçeveli resim komodinin üstünde değil , çekmecenin içinde duruyor ?",resim,duruyor,15,5,8,11,0.5450385808944702
+Çok geçmeden ortadaki masanın etrafında akşamki divan tekrar kurulmuş bulunuyordu .,divan,bulunuyordu,11,8,7,4,0.6187295317649841
+Koskoca bir vapur bir çöp gibi oldu .,vapur,oldu,7,3,10,11,0.8836869597434998
+İçeriden de cızbız köfte kokusu geliyor .,kokusu,geliyor,9,8,4,0,0.9996055960655212
+Ben bu ite çattığıma bin pişman oldum .,Ben,oldum,9,0,5,6,0.9982309937477112
+"Ailevi bir laubalilikle genç adam , köşe koltuğuna kuruldu .",adam,kuruldu,12,8,7,8,0.7536493539810181
+"Doktor tarla kiralıyor , kredi anlaşmalarıyla ortak oluyordu ekicilerle .",Doktor,oluyordu,9,0,5,0,0.9545807242393494
+"Bayram ağa , uşakların söylediklerini kurdukça kurdu .",Bayram,kurdu,8,0,5,6,0.9950410723686218
+İşte böyle bir eser onları bu külfetten kurtarmış olur .,eser,olur,11,3,8,1,0.38703835010528564
+"Salih Reis , dört kuru duvardan ibaret fukara kapısından gördüğü mavi denize baka baka ölmek istiyordu .",Salih,istiyordu,18,0,5,6,0.9990367889404297
+Hayat önümüzde hiç yazılmamış bomboş papyekuşe bir sayfa gibidir .,Hayat,gibidir,13,0,5,0,0.9877979159355164
+Bir keçi kokusu sarmış ağıllarda çobanlarla arkadaş oldum .,kokusu,oldum,11,2,7,9,0.2237910032272339
+İki gün süren tartışmalardan sonra Mustafa Kemal kürsüye geldi .,Mustafa,geldi,9,6,8,3,0.5122702121734619
+Kız kardeşi Nazime'yi yaşlı bir liman reisi istedi .,reisi,istedi,10,9,4,0,0.998201847076416
+Şimdi yedek iki litre kan var elimizde .,kan,var,5,4,4,0,0.9999998807907104
+Eğer sen ahlakıyla çalışıp da buhran sebebiyle işi bozulmuş bir adam olaydın maalmemnuniye yardım ederdim .,sen,ederdim,21,1,6,5,0.5188658833503723
+"İstanbul halkını , bilgisini , becerikliliğini siz temsil ediyorsunuz .",siz,ediyorsunuz,9,7,3,0,0.74102383852005
+Bu bize pahalıya oturdu .,Bu,oturdu,3,0,5,8,0.9994866847991943
+"Kanatları kurşunla parçalanmış bir kartal / Benim gibi seyreder , yerden , mavilikleri",kartal,seyreder,10,6,8,3,0.4145089089870453
+"Doktor , bugün size ben asıl başka mesele danışmak için geldim .",ben,geldim,11,4,3,0,0.6925823092460632
+Ben bu iki rivayetin arasında meyancılık edecek değilim .,Ben,edecek,9,0,5,8,0.9885340332984924
+Mimaride cılız eserler vücuda geliyordu .,eserler,geliyordu,7,5,7,8,0.6261041760444641
+Adapazarı havalisinde de buna mümasil bir hadise vukua geldi .,hadise,geldi,14,10,6,1,0.8914984464645386
+"Yarına kadar sarhoşluğu geçer , ben de sarhoş olmadığına dair rapor veririm .",ben,veririm,13,7,3,0,0.6825112104415894
+"Öteden beri denemişimdir , bu , daima bana bir nahoş vaka haber verir .",bu,verir,17,8,5,2,0.21048946678638458
+"Bir yandan da Necla : Ay yoruldu , ay hastalanacak , ay ölecek diye eski nakaratına devam ediyor .",Necla,ediyor,21,3,8,3,0.8066232800483704
+"Bazı kimseler , bana müracaat ederek bu namünasip hâllerden şikâyet ettiler .",kimseler,ettiler,14,1,7,8,0.6421419382095337
+"Genç adam , o noktada alaka uyandırıcı bir şey keşfetmiş gibiydi .",adam,gibiydi,12,1,7,8,0.49529364705085754
+"Saz sesleri bazen aynı notaları , ruhumuza mıhlanmak istenen bir altın çiviye vurulan darbeler gibi tekrar ederdi .",sesleri,ederdi,22,2,8,1,0.2906950116157532
+"İçeriye orta boylu , geniş omuzlu , iri gövdeli bir adam girdi .",adam,girdi,15,14,4,0,0.9998737573623657
+Bir iki mecidiyenin arasına sıkışmış bir onluğu ararken arkadan bir araba geliyordu .,araba,geliyordu,14,13,4,0,0.9999289512634277
+Şu kopan fırtına Türk ordusudur ya Rabbi / Senin uğrunda ölen ordu budur ya Rabbi,ordu,budur,13,4,4,10,0.10324665904045105
+Bu akşam televizyonda hangi film oynuyor ?,film,oynuyor,5,4,4,0,0.9999986886978149
+Öteden beriden susturmak isteyenler oldu .,isteyenler,oldu,8,7,4,0,0.9989467263221741
+"Gemiden , sırtında çıkını ve üzerinde paçavralarla kör ve sağır bir adam indi .",adam,indi,18,17,4,0,0.9998103976249695
+"Sarhoş sesi , ızgaralı ocağın yakınında duvara sırtını vermiş , palaspareler içinde bir adama hitap ediyordu .",sesi,ediyordu,21,2,9,1,0.23593495786190033
+Hür ufuklarda donanmış iki yüz pare gemi / Yeni doğmuş ayı gördükleri yerden geliyor,gemi,geliyor,17,10,8,2,0.5786611437797546
+İyi ve yoğun yaşanan bir dakikada sonsuzluktan bir renk var .,renk,var,11,10,4,0,0.9999779462814331
+Ta uçta kendime bir yer peyleyip sineyim derken Gazi seslendi .,Gazi,seslendi,12,11,4,0,0.9999929666519165
+Gece saat dokuz .,saat,dokuz,2,1,4,1,0.9986625909805298
+"Bu ipek gibi et , genelde bademli pilavla birlikte gelirdi sofraya piyata tabağında .",et,gelirdi,11,3,10,10,0.2465106099843979
+"Çok geçmeden biri koluma girdi ve ' Özür dileriz şimdi kadınların alışveriş saati , erkekler için akşam açığız ' deyip beni kibarca postaladı .",biri,girdi,5,2,8,3,0.7937485575675964
+"Onlar kahve , süt hatta kışın salep içmeyi , zeytin , peynir , reçel ve ekmek yemeyi tercih ederler .",Onlar,ederler,20,0,5,8,0.994681179523468
+"Hiç kimse Türkiye'de normal , sürekli ve dengeli bir basın rejimi yaşamış olduğunu iddia edemez .",kimse,edemez,16,1,8,1,0.9127109050750732
+"Bu seferki kovuluşun sebebi meslek rekabeti değil , meslek ahlakıydı .",sebebi,rekabeti,8,6,7,10,0.9856114387512207
+Osmanlı Devleti'nin birçok vergi ve resimleri bu yüzden doğrudan doğruya yabancı alacaklıların cebine gider .,vergi,gider,16,5,10,11,0.22328531742095947
+"Ben sizi yazar olarak değil , insan olarak çizmek istiyorum .",Ben,istiyorum,9,0,5,6,0.9648982286453247
+Ben kendi hesabıma ressam olmak isterdim .,Ben,isterdim,6,0,5,6,0.9943247437477112
+Kendisi II. Abdülhamit devri ricalinden olmakla beraber bu servete hiçbir şey ilave etmedi .,Kendisi,etmedi,16,0,5,8,0.987885594367981
+Pazar ruhsatiyesi yüzünden belediye ile esnaf arasındaki ihtilaf malum .,ihtilaf,malum,9,8,4,1,0.9946544170379639
+Biz atölyede bir türlü adını bağışlamayan renklere sağır renkler deriz .,Biz,deriz,11,0,5,0,0.9519166946411133
+Tükürük bezleri tükürük yapar .,bezleri,yapar,5,3,8,3,0.9119758009910583
+Üç buçuk senedir ben bu sallantıya şahit oldum .,ben,oldum,9,3,3,0,0.7909891605377197
+Hasta alt kattaki salona kadar gitti ve bir kanepenin üstüne düştü .,Hasta,gitti,5,0,5,6,0.9995037317276001
+Herhangi bir samimiyet bile mutlaka hakikat demek değildir .,samimiyet,demek,6,2,8,1,0.7396916151046753
+Bu ev bir saray .,ev,saray,3,1,4,4,0.6716522574424744
+Böylece tiyatro sezonu hakkında insan yarım saat içinde fikir edinebilmiş oluyor .,insan,oluyor,12,4,7,8,0.44014379382133484
+O bu kadında daha bir cana yakınlık bulur gibi oluyordu .,O,oluyordu,9,0,5,6,0.9911892414093018
+"En sıkı ve katı bir merkeziyet sistemi , bugün diğer faaliyet merkezlerini bloke edebilir .",sistemi,edebilir,14,7,8,3,0.4893331527709961
+"O dakikadan dakikaya daha ziyade şaşırıyor , sıkılıyor , buradan kurtulmak istiyordu .",O,istiyordu,13,0,5,6,0.9615613222122192
+"Artık onu sımsıkı sarıyorlarmış gibi bunaltan duvarlar , o kilitli kapılar yoktu .",duvarlar,yoktu,14,9,8,1,0.506249189376831
+Oturacak yerler tahta sıralardan olur .,yerler,olur,6,2,10,8,0.6853553056716919
+Adam keçinin gerisine hafif bir sille indirdi .,Adam,indirdi,9,0,5,6,0.9859907031059265
+Sivri gagasından kelimeler çıkarken sanki birer ok oluyordu .,kelimeler,oluyordu,10,5,8,11,0.354147344827652
+Hastalanınca annem başımda nöbet tutar .,annem,tutar,7,3,8,3,0.8911421298980713
+Karaborsayı ve istifçiliği önlemek için karne sistemi getirildi .,sistemi,getirildi,10,9,4,0,0.9995008707046509
+Ne var ki bu şenlik gününde yüzüne bakan yok .,bakan,yok,8,7,4,0,0.9999018907546997
+"Ekmek satan yer yokmuş , bir dilim kek alabilmek üzere bir pastacıya giriyorum .",yer,giriyorum,14,3,11,11,0.274673730134964
+"Asıl zorluk belki öğrenilmesi lazım gelen şeylerin değil , unutulması gereken şeylerin çokluğundan gelir .",zorluk,gelir,15,1,8,1,0.26143988966941833
+"Sen bugün böyle niçin pek şıklaştın , boynuna kravat filan taktın da geldin ?",Sen,geldin,16,0,5,6,0.9613549113273621
+Herifi şımartıp da bu hâle koyan sen değil misin ?,koyan,sen,9,8,4,0,0.9999922513961792
+"Ötede beride Fıstıkağacı , Bağlarbaşı , Servilik , Nuhkuyusu gibi saffetli ve şiirli isimler duyulur .",isimler,duyulur,27,26,4,0,0.9997079968452454
+Yeryüzünde balta olacak bundan daha belalı bir adam olacağını tasavvur edemiyorum .,adam,edemiyorum,13,10,7,4,0.8204102516174316
+"Bütün insanlar , hayvanlar , bitkiler canlı kavramının kaplamı içine girerler .",insanlar,girerler,11,1,8,8,0.4186381995677948
+"Babam kaşları çatılmış , başını sallayarak izliyor bizi .",Babam,izliyor,8,0,5,6,0.9796200394630432
+Bu hoyrat düşünceleri bir şimşek süratiyle taban tabana zıt fikirler takip ediyor .,fikirler,ediyor,14,12,3,8,0.5889970064163208
+Her memleket başkalarının yeniliklerini taklit ile başladığı intizama kendisinin eskiliklerini tahkik ile nihayet verir .,memleket,verir,19,1,8,3,0.811129629611969
+"Haydi Abbas , vakit tamam / Akşam diyordun işte oldu akşam",vakit,oldu,10,3,8,9,0.39968785643577576
+Eczacı İhsan Bey'in tamburundan ağır tınlamalı birtakım sesler geliyordu .,sesler,geliyordu,15,14,4,0,0.999874472618103
+Taşçı Osman Efendi İstanbul'un en ünlü taşçılarından biriydi .,Osman,biriydi,12,2,8,1,0.3155093491077423
+"Hiçbir namuslu insan kendisine gönül vermiş bir kızdan , tavladım diye söz etmez .",insan,etmez,15,3,7,8,0.652070939540863
+Şu köşede çocuğuyla beraber bir taze oturuyor .,taze,oturuyor,7,6,4,0,0.9999938011169434
+Hanım evladını tepemize tebelleş eden kendisidir .,eden,kendisidir,10,9,4,0,0.9977026581764221
+"Artık itirazlar , teçhiller , istihzalar , hiddetler birbirini takip ediyordu .",itirazlar,ediyordu,16,1,11,11,0.3932441174983978
+"Herkes tedirgin , kuruntulu ve heyecanlı .",Herkes,tedirgin,1,0,4,0,0.9999953508377075
+İki şehir arasında temas kesildi .,temas,kesildi,4,3,4,0,0.9999938011169434
+Acayip ve tempolu bir ses geliyor .,ses,geliyor,7,6,4,0,0.9999914169311523
+"Biz , telif eser ayarında bir sanat kıymeti taşıyan tercümelere teşekkür edelim .",Biz,edelim,13,0,5,6,0.9980681538581848
+"Bu suçlar arasında en büyüklerinden biri de uğurlama , karşılama törenlerinin kaldırılması oldu .",biri,oldu,15,6,10,7,0.45743098855018616
+"Bir çay bardağını dökmeden içebilmek , tetiği eli titremeden çekebilmek kadar bir itiyat meselesidir .",eli,meselesidir,20,11,0,11,0.13475437462329865
+Pek tipik ve âdeta alametifarikalı bir kadını bulmak zor değildir .,bulmak,zor,11,10,4,0,0.9999006986618042
+"Bu demir yolu , bu yana gidersen derenin boyuna alır , iner Kara Hasan toluna .",yolu,iner,13,2,4,11,0.2787322700023651
+"Bunlardan sonra top sakallı , çocuk yüzlü Şaban'ın dizi en çok sevdiği yerdi .",dizi,yerdi,14,10,10,0,0.9294521808624268
+"Hukuk daima âdetlerin peşinden gider , önüne geçmez .",Hukuk,gider,5,0,5,8,0.9978634715080261
+Bunların hepsi de çok güzel sesli ve oyunun en ustaları arasından seçildi .,hepsi,sesli,5,1,10,7,0.7413429617881775
+Onlar huylarını ya bilmez ya açığa vurmaz ya ustalıkla gizler ya sarahatle duyurmaz ve bizi aldatabilirler .,Onlar,bilmez,4,0,5,6,0.99908447265625
+"Şu köşe rafında toz şeker kutusu var , uzatıver bana .",kutusu,var,7,6,4,0,0.9999563694000244
+"İnfaza , vazifeli şahıslardan başka , kimse kabul edilemez .",kimse,edilemez,12,10,7,8,0.9725708365440369
+O sıralarda babam bir ara kaymakama vekâlet ediyordu .,babam,ediyordu,8,2,6,6,0.9625579714775085
+"Okumadığım zaman tavukların bahçesindeyim , yemlerini ben veririm .",ben,veririm,12,11,4,0,0.9993809461593628
+Babam veznecilik yapar .,Babam,yapar,4,0,5,8,0.9981704950332642
+"Tüm insanlar dünyaya , kafa ve yüreklerinde bir iç mahkeme ile gelirler .",insanlar,gelirler,12,1,8,3,0.7887487411499023
+O vurtut içinde o da gitti .,o,gitti,7,5,3,4,0.5358174443244934
+Ya bu adam kim ?,adam,kim,3,2,4,0,0.9985859394073486
+Biz de gelelim mi ?,Biz,gelelim,2,0,5,8,0.9892584681510925
+"Sen geldin , ya Ahmet ?",Sen,geldin,1,0,4,0,0.9998424053192139
+Yakalama veya tutuklama sebepleri hâkim huzuruna çıkarılıncaya kadar bildirilir .,sebepleri,bildirilir,11,4,7,8,0.4655260443687439
+Bu renk ona gitmedi .,renk,gitmedi,3,1,10,0,0.8859164118766785
+Durgun sular sıtma yapar .,sular,yapar,5,2,10,0,0.6698592901229858
+Hem benim avukat veya yargıç olmak isteyip istemediğimi de hesaba kattıkları yoktu .,benim,yoktu,13,1,6,6,0.5831126570701599
+"Kadının üstünde yavruağzı , keten bir takım giysi var .",giysi,var,11,10,4,0,0.9999953508377075
+Yemek ya kahvaltıda ya da yemekte yenir .,Yemek,yenir,6,0,5,6,0.9899824261665344
+Bu adam benim yüz bin liramı yedi .,adam,yedi,7,1,8,3,0.8713635206222534
+"Bu dört kelimelik yeminsiz , şahitsiz cevap onun için yeter .",cevap,yeter,12,9,8,1,0.799561619758606
+Batı tiyatrosu Türkiye için yepyeni bir şey olduğu için sıfırdan başlamak gerekiyordu .,tiyatrosu,gerekiyordu,11,1,10,0,0.8959391117095947
+Çorak yerde ot bitmez .,ot,bitmez,4,3,4,0,0.9999887943267822
+Bir sigara bir ormanı yakmaya yeter .,sigara,yeter,7,1,8,1,0.4834398031234741
+"Uğurlu , kıdemli olsun , Allah yıldız barışıklığı versin .",Allah,versin,11,7,10,2,0.8059275150299072
+Hepsi bu yıl başlarının çaresine bakacak altı at .,Hepsi,at,9,0,5,8,0.9852616190910339
+Yısa yısa beş ton gelsin .,ton,gelsin,8,7,4,0,0.9996520280838013
+Sen yoktan anlamaz mısın ?,Sen,anlamaz,3,0,5,6,0.990384578704834
+Bu vapurun yolu az .,yolu,az,5,4,4,0,0.9998047947883606
+Yazdığı anıları metodik bir şekilde inceleyen bu kürsü oldu .,inceleyen,oldu,10,7,4,3,0.5614945888519287
+"Kurt hoca şimdi yumuşamış , el pençe divan duruyordu .",hoca,duruyordu,10,1,10,11,0.6706783771514893
+Yurttaşlarım arasında bana bu yabancılığı çektirmemek isteyenler de oldu tabii .,isteyenler,oldu,12,10,3,8,0.8373749852180481
+"O çok yüklü , bu işi başkasına verelim .",O,verelim,7,0,5,6,0.9993985891342163
+Bunlar memleketin edebiyat tarihinde beni yavaş yavaş yükselten birer basamak .,Bunlar,basamak,9,0,5,8,0.9992243051528931
+Al bir kalpak giymişti al / Al bir ata binmişti al / Zafer ırak mı dedim / Aha diyordu,Zafer,diyordu,23,15,11,5,0.629795253276825
+"Gümüş bir tepsi , daha doğrusu gümüş bir lenger ağız ağıza sanırsam zebercetle doluydu .",tepsi,doluydu,19,2,4,11,0.6609686017036438
+"Asıl sohbet zemini nadide yemek tarifi , köşk ve bahçe tanzimidir .",zemini,tarifi,5,2,7,8,0.8131663799285889
+"uçsuz bucaksız bir tank , panzer ve zırhlı araba zinciri . geçip gidiyordu .",zinciri,gidiyordu,14,11,7,8,0.40080899000167847
+Bunlar birer karış uzunluğunda üç para çubuğun zıvanalı vidalarla birbirlerine eklenmelerinden meydana gelir .,Bunlar,gelir,18,0,5,6,0.9923785924911499
+Sen şimdi züppelik ediyorsun ama yarın yine bize döneceksin .,Sen,ediyorsun,6,0,5,6,0.9961448907852173
+Böyle duru bir mantık karşısında akan sular duruyordu .,sular,duruyordu,7,6,4,0,0.9987993240356445
+"Konya'ya döndüğüm vakit benim motor , dama Erol Efendi , dedi .",motor,dedi,13,7,10,0,0.5848478078842163
+Acaba bu içinde yaşadığımız hava neden bu kadar dar geliyor ?,hava,geliyor,9,4,4,7,0.7815618515014648
+"Rıfat Paşa gibi terbiyeli bir zat bile bin dereden su getirir , harp siyasetimizi methederdi .",zat,getirir,13,7,8,3,0.8335887789726257
+Benim dört çeşit insan karşısında iflahım kesilir .,Benim,kesilir,8,0,5,8,0.9994077682495117
+"Bedavadan ekmeğini yediği gazeteyi tekmeledikten sonra , aynı gazete geriye döneni tekrar bağrına nasıl basar ?",gazete,basar,23,15,8,1,0.18385770916938782
+El dokunulmamışından canı yandığından artık az kullanılmışına fit oldu .,El,oldu,13,0,5,6,0.9819260239601135
+Ne var ki niye bizim lokmamıza el uzatırlar ?,Ne,var,1,0,4,0,0.9999619722366333
+Kim bu cennet vatanın uğruna olmaz ki feda ?,Kim,olmaz,5,0,5,8,0.9927136301994324
+"Geçmiş olsun ağabey , ne oldu sana böyle ?",ne,oldu,5,4,4,0,0.9999926090240479
+İşte bu iki adam bir aralık göz göze geldiler .,adam,geldiler,8,3,8,3,0.7572873830795288
+Bu davaya en iyi hizmet etmiş olan benim .,olan,benim,7,6,4,0,0.9974424839019775
+Kendisine büyük hizmeti dokunmuş insanları unutmak bir toplumun yozlaştığını belgeler .,toplumun,belgeler,11,8,6,4,0.4580473303794861
+Hürmette kusur ettin mi işte o zaman kendini yok bil .,kendini,bil,12,10,3,8,0.7992361187934875
+"Hayatımızda bozukluğunu , yokluğunu içlerimiz burkularak duyduğumuz ne vardır ki millî şuur eksikliğinden gelmesin ?",ne,gelmesin,20,13,8,4,0.3700419068336487
+"Şimdi yaşlandık , bu işlerin kurdu olduk .",kurdu,olduk,7,6,4,0,0.99641352891922
+Hastalara türlü maceralarla şifa vermesini ben bilirim .,ben,bilirim,8,7,4,0,0.9999727010726929
+Bu elbise size iyi gidiyor .,elbise,gidiyor,4,1,10,0,0.8443267345428467
+"Aynı yazar bu kabına sığamayan oyuncunun el , kol , yüz kıpırtılarını da şöyle dile getirir .",yazar,getirir,18,1,8,3,0.7524768114089966
+O hayalleri kuran da o hatıralara kendini bırakan da bugünkü ben değil miyim ?,kuran,ben,11,2,10,3,0.6906934380531311
+"Beyin seni davet etmiş , iç , ye , keyfine bak !",Beyin,bak,10,0,5,6,0.9926302433013916
+Benliğe kök salan gönül bağlarını kim tarif edebilir ?,kim,edebilir,9,7,8,2,0.9395063519477844
+Sen gitmezsen Ankara'da yas tutmazlar demek dilimin ucuna kadar gelmişken tuttum .,Sen,tuttum,15,0,5,6,0.9754324555397034
+"Ayağını denk al yavrum , ateşle oyun olmaz diye öğüt verdi .",oyun,verdi,14,10,10,5,0.7488684058189392
+"Normal yaşamının çekişmeleri içinde tekerlenip giden insan , bayramlarda bir nefis muhasebesi yapmak imkânı bulur .",insan,bulur,18,8,7,8,0.8495473265647888
+"Bunlar da Mustafa Kemal'i ifratlı hareketlere , yanlış yollara sevk etmek töhmeti altında bunalmış , şaşkına dönmüş idiler .",Bunlar,idiler,28,0,5,6,0.9784563779830933
+Bütün halk cenazelerdeki gibi suskun ve somurtkandı .,halk,suskun,5,1,8,1,0.9490805864334106
+"Adam , acele adımlarla tekrar geri dönüyor , süratle merdivenlerden iniyor .",Adam,iniyor,11,0,5,6,0.93878573179245
+Biraz sonra Gazi yanına seryaveri Salih Bey'in yaveri Muzaffer Bey'i ve âcizi alarak otomobile bindi .,Gazi,bindi,23,2,8,5,0.16688361763954163
+Açık kalpli olmamak çağ dışı bir tutum olur .,tutum,olur,7,6,4,0,0.9996174573898315
+Hiç kimseye açılmayarak yaşadığım bu altı ay beni bitirdi .,ay,bitirdi,9,3,4,2,0.556510865688324
+Bu işte adaletsizlik var .,adaletsizlik,var,3,2,4,0,0.9999974966049194
+Ayak basacak tek adımlık temiz yer yok .,yer,yok,8,7,4,0,0.9998966455459595
+"Geçmiş olsun ağabey , ne oldu sana böyle ?",ne,oldu,5,4,4,0,0.9999926090240479
+İki yanı ağaçlı yol ta dış kapıya kadar uzayıp gidiyordu .,yol,gidiyordu,11,4,10,3,0.5446165800094604
+Bir gözünde ak var .,ak,var,3,2,4,0,0.9999904632568359
+Rengi kararmış bir saat ; ne yelkovanı var ne akrebi .,saat,var,12,6,5,9,0.45781517028808594
+Tanrı vergisi bir sesi var .,sesi,var,4,3,4,0,0.9994033575057983
+Lakin babam şiddetli ve anif hareket ediyordu .,babam,ediyordu,8,2,6,6,0.9645301103591919
+"Bu , tam bir antitezdir , iddia ettiğiniz gibi sentez değildir .",Bu,sentez,12,0,5,6,0.988610565662384
+Kadir Efendi kalemi arakiyesinin arasına soktu .,Kadir,soktu,8,0,5,8,0.9944327473640442
+Babam o yaz sonunda avlanmak için Çardak'a gitti .,Babam,gitti,11,0,5,6,0.9985478520393372
+Sonraları herkes kondusuna ayrı bir işaret koydu .,herkes,koydu,9,2,7,8,0.8012507557868958
+"O , yanıma oturarak kara haberlerden , kötü rivayetlerden bahsetti .",O,bahsetti,11,0,5,8,0.9759314656257629
+Zamanla nasıl değişiyor insan / Hangi resmime baksam ben değilim,insan,ben,11,4,9,2,0.23622509837150574
+Bunlar memleketin edebiyat tarihinde beni yavaş yavaş yükselten birer basamak .,Bunlar,basamak,9,0,5,8,0.9992243051528931
+Basılı oyunlar sakıncalı görülünce yok ediliyordu .,oyunlar,ediliyordu,8,3,10,0,0.7690843939781189
+Zaten daha sonraki Hint tiyatrosu canlılığını bütün bütün kaybedecek ve basmakalıplaşacaktır .,tiyatrosu,kaybedecek,9,4,8,3,0.69379723072052
+"Çoğu zaman ben , kendimi mesut edeyim derken başka birini bedbaht ediyorum .",ben,ediyorum,14,2,3,0,0.4549786150455475
+"Hayatın başlangıcı gibi sonu da bir ninni , masal ve uyku ihtiyacını duyuyor .",sonu,duyuyor,13,3,9,0,0.3702239394187927
+Bir bayan geldi .,bayan,geldi,2,1,4,0,0.9999793767929077
+Bir şeye benzemekliğim için usta bir kalem kırk yerinden tashih etmeli .,kalem,etmeli,14,8,10,0,0.6069979071617126
+Gece saat dokuz .,saat,dokuz,2,1,4,1,0.9986625909805298
+"Tek beygirli , hafif yapılı bu arabalar , esner , yıkılacak gibi olur .",arabalar,olur,16,8,8,3,0.9225951433181763
+O hiç oralı olmaz ve bütün bezirgânlar gibi hâlinden yakınır .,O,olmaz,4,0,5,8,0.9951955676078796
+Ben bunu kitaplıkta saklayarak günaha giriyorum .,Ben,giriyorum,8,0,5,6,0.9872931241989136
+"Ben arkadaşını bilmem , seni bilirim .",Ben,bilirim,5,0,7,5,0.9307095408439636
+Sanki Çakır'ın boğum boğum bileğini muayeneye alan genç adam bu değildi .,adam,bu,15,14,4,0,0.9999996423721313
+"Adam , odadan içeri bir fırtına gibi girdi , bonjur , dedi .",Adam,dedi,12,0,5,6,0.9876448512077332
+Ben bu sarı kâğıtlardan o kadar bezmişimdir ki güzelim sarı rengi de ondan dolayı boykot ettim .,Ben,ettim,18,0,5,6,0.9843080639839172
+Sahneye birbirinden enli ve boylu dört taze birbiri ardınca girdi .,taze,girdi,14,9,6,1,0.29962262511253357
+Bu yemek midemi bozdu .,yemek,bozdu,4,1,7,8,0.7539780735969543
+Üç buçuk senedir ben bu sallantıya şahit oldum .,ben,oldum,9,3,3,0,0.7909891605377197
+Şiirde bir bütünün lüzumuna inananlar bile mısralar arasında birtakım aralıklar kabul eder .,inananlar,eder,16,7,4,7,0.5190892815589905
+Bu celpte yüz er geldi .,er,geldi,6,5,4,0,0.9972063899040222
+"Herkes , her şey bir bahar sevinci içinde çalkanır durur .",Herkes,durur,10,0,7,8,0.9103429317474365
+"Ne kadar küçük olursa olsun , bu ona pek çarpıcı ve aydınlatıcı geliyordu .",bu,geliyordu,12,6,8,1,0.33166274428367615
+"Avlusunda silahlarını çatmış , ayaklarını germiş askerler var .",askerler,var,12,11,4,0,0.9999176263809204
+Durum çetrefilleşiyor belki her şeyi yeni baştan düşünmem icap edecek .,Durum,edecek,13,0,5,6,0.9833424091339111
+Nerede güzel görsen ona çevrilme / Bizim ilde cana kıyar beyler var,beyler,var,14,13,4,0,0.9999748468399048
+Bahçede bir de çıkrıklı kuyu olacak .,kuyu,olacak,8,7,4,0,0.9999984502792358
+Dağbaşında gece yarısı beni kim görmek isteyebilir ?,kim,isteyebilir,8,6,3,9,0.9089752435684204
+Ben dahi başka bir diyara gitmek için izin talep ederim .,Ben,ederim,10,0,5,8,0.9898759722709656
+Onun derdi de dallı budaklı olur .,derdi,olur,8,1,9,1,0.8510114550590515
+"Hiç kimse normal , sürekli ve dengeli bir basın rejimi yaşamış olduğunu iddia edemez .",kimse,edemez,13,1,8,1,0.9150513410568237
+"Her yerde bize derece derece verilen kanaat , burada biraz daha tahkim edilmiş oldu .",kanaat,oldu,13,6,8,3,0.5170456171035767
+"Bayram vali konağının dış kapısında , ellerini yine önünde kavuşturmuş taş gibi dimdik duruyordu .",Bayram,duruyordu,15,0,5,6,0.9694731831550598
+"Avrupa hariciye memurlarından başkaları için kapanmış , bilinmez ve yasak bir yerdi .",Avrupa,yerdi,14,0,5,6,0.9937247633934021
+"Bu üşenmez , bu didingen , bu uyanık ve çevik adam , mecmuasında yazılmış binlerce imzanın heyecan ve bilgi ağırlığına muadil bir iradeyi tek başına temsil etti .",adam,etti,35,13,7,8,0.44741499423980713
+Diktatörlükten kurtulmak isteyen her toplum dil öğrenimine ne denli önem verse yeridir .,toplum,yeridir,15,7,9,5,0.3419070541858673
+"Bayram vali konağının dış kapısında , ellerini yine önünde kavuşturmuş taş gibi dimdik duruyordu .",Bayram,duruyordu,15,0,5,6,0.9694731831550598
+"Herkes , vicdan , dinî inanç ve kanaat hürriyetine sahiptir .",Herkes,sahiptir,10,0,5,8,0.9983730316162109
+Doktor kalkar .,Doktor,kalkar,1,0,4,0,0.9993261098861694
+"Erkekte pudra sinirime dokunuyor diyorum , anlamıyorsun .",pudra,diyorum,8,3,10,0,0.8007630705833435
+Motorlu su taşıtlarından biri de kanal rıhtımının tam bizim önümüze düşen bir noktasında demir atmış duruyordu .,biri,duruyordu,20,5,8,3,0.5423799753189087
+Yazlık eviniz hâlâ duruyor mu ?,eviniz,duruyor,4,2,7,8,0.9638939499855042
+"Yeni ev , Rüstem Efendi'ye kiraya verildi .",ev,verildi,9,1,8,1,0.7498961091041565
+"Tel , insan azmanı bir şeyhe ait iri , siyah , binbir taneli , efsaneli bir tespihe benziyor .",Tel,benziyor,22,0,5,6,0.9975965619087219
+"Pansiyon sahipleri , kirada gösterdikleri bu ehveniyeti diğer hileli muamelelerinde kabartmanın yolunu bilirler .",sahipleri,bilirler,18,2,7,8,0.5653648972511292
+"Delikanlılardan biri , bir ekmekçi hamurkârı idi .",biri,idi,12,4,5,9,0.5327358841896057
+Bir darbe benim bütün o uzun emeklerimi sıfıra indirir .,darbe,indirir,9,1,8,3,0.7846054434776306
+"Sanat eri çalışır , bir eser kor ortaya , onun güzel olduğuna inanır , o güzelliği herkesin anlamasını , kavramasını ister .",eri,ister,22,1,8,3,0.29870903491973877
+Bu adam bir aralık eşkıyalık yapmış çok nemrut bir herif .,adam,herif,12,1,7,8,0.9860855340957642
+Yaşadıklarını yazmanın böylesine bir etki yapabileceğinden hiç haberim yoktu .,haberim,yoktu,11,10,4,0,0.9983630776405334
+. bazı kimselerin üç dört koyun ve ineğinden başka evcil hayvanı yoktur .,kimselerin,yoktur,13,2,8,8,0.7863236665725708
+Bunda ne hocanın bilgisi ne çocuğun çalışkanlığı rol oynar .,bilgisi,oynar,11,4,9,1,0.5184063911437988
+"Siz fena adamsınız , odanıza geldiğime bin kere pişman oldum .",Siz,oldum,12,0,5,6,0.954384446144104
+Yalnız tansiyon fevkalade .,tansiyon,fevkalade,2,1,4,0,0.999733030796051
+Cin yahut periler bu evi elden kaçırmamak için ne kadar hırçınlık etseler yeridir .,Cin,yeridir,17,0,5,6,0.9905574321746826
+"Kara yağız , az tombul , fıldır göz , son derece kanı sıcak biridir .",Kara,biridir,17,0,5,6,0.9968653321266174
+"Bu ikinci firar teşebbüsünden sonra , kendim de pişman oldum .",kendim,oldum,10,7,7,8,0.8151190876960754
+Gaipten bir ses geldi .,ses,geldi,6,5,4,0,0.9999936819076538
+Gazinonun önündeki büyük tenha yoldan hiçbir ses gelmiyor .,ses,gelmiyor,10,9,4,0,0.9999653100967407
+Gelgelelim arkadaşlarından ayrı kaldığı zamanlarda o başka bir Hasan oluyordu .,o,oluyordu,11,7,3,7,0.4476511776447296
+Attığı top gözüme geldi,top,geldi,4,2,8,1,0.8210268020629883
+Bu davranışlardan ne gelir bilinmez .,ne,bilinmez,5,3,2,9,0.6383774876594543
+Çiftlikten onlara ayda beş yüz milyon lira gelir .,lira,gelir,8,7,4,0,0.9998075366020203
+"Ben İstanbul'a gidiyorum , benimle gelir misiniz ?",Ben,gelir,7,0,5,8,0.9813180565834045
+"Bir dilde düzeltim , kimi zaman da reform gereksemesinin birçok nedenleri olabilir .",nedenleri,olabilir,14,13,4,0,0.9999213218688965
+Hepsi kendi hayatlarının matemine gömülmüş bir hâlde dalgın ve mahzun idiler .,Hepsi,idiler,16,0,5,6,0.9890549182891846
+Bu kararı söyleyen sesin tesiri gözlerimizi yaşla doldurdu .,tesiri,doldurdu,9,4,8,1,0.8297765851020813
+Yıllar yılı gramere bakmadan üç kelime yazmadığını kendi itiraf eder .,kendi,eder,11,9,3,4,0.6172515749931335
+"Taş ocağın üstünde , ateşe vurduğu güveçten , kaynayan etin kokusu geliyordu .",kokusu,geliyordu,15,14,4,0,0.9999905824661255
+"Yürü ha yürü , yol bitmiyor ki .",yol,bitmiyor,6,5,4,0,0.9999184608459473
+Bu bulutlar yağmurun habercisi olsa gerek .,bulutlar,gerek,6,1,7,2,0.6633804440498352
+Biz oraya haberli gittik .,Biz,gittik,4,0,6,7,0.969145655632019
+"Ağlamakla kazanılmış hak , hıçkırıklarımızı dinleyecek kalp yoktur .",hak,yoktur,14,4,8,1,0.2117665559053421
+Hele hamileliği boyunca onunla dalaşmaya hiç niyeti yoktu .,niyeti,yoktu,11,10,4,0,0.9998025298118591
+"Delikanlılardan biri , bir ekmekçi hamurkârı idi .",biri,idi,12,4,5,9,0.5327358841896057
+"Bildiğim kadarıyla o , lüks tüketime girecek harcamalara karşı idi .",o,idi,12,3,7,8,0.34962356090545654
+Ben incik yerinin haşlamasını severim .,Ben,severim,6,0,5,6,0.9936245679855347
+Kim bilir kaç haftadır yüzlerce sayfayı hatmedip durdu .,Kim,durdu,9,0,5,6,0.9764129519462585
+Ayda hayat yok .,hayat,yok,3,2,4,0,0.9999823570251465
+Bu yolculuk bizi helak etti .,yolculuk,etti,4,1,8,3,0.7974437475204468
+"Yazları , haftada üç gün işe gitmiyorum , hesapça bu bizim tatilimiz oluyor .",bu,oluyor,16,12,7,8,0.31955522298812866
+"Hele hamileliği boyunca , onunla dalaşmaya hiç niyeti yoktu .",niyeti,yoktu,12,11,4,0,0.9998679161071777
+Bu sütte hile var .,hile,var,4,3,4,0,0.9999871253967285
+"Hop , gelen var !",gelen,var,4,3,4,0,0.9999977350234985
+Herkes huşu içinde idi .,Herkes,idi,4,0,6,7,0.9707126021385193
+Şu ibarelerin neresinde dilimizin şivesine uygunluk var ?,uygunluk,var,10,9,4,0,0.9999951124191284
+İçeri odadan sesler geliyor .,sesler,geliyor,3,2,4,0,0.9999704360961914
+Evde pişirip yedikleri çikolatanın kalitesi ikinci idi .,kalitesi,idi,9,7,8,1,0.8970997333526611
+"Bu merdiven , pistonlu bir memuriyet olabilir , zengin bir evlilik olabilir .",merdiven,olabilir,8,1,7,8,0.5547318458557129
+Bunlardan biri salon eğlencelerine pokeri de ilave etmiş bir genç inkılapçı idi .,biri,idi,16,1,9,0,0.8246107697486877
+Dağdan kurt indi .,kurt,indi,3,2,4,0,0.9999380111694336
+Dağdan kurt indi .,kurt,indi,3,2,4,0,0.9999380111694336
+"Balıkpazarı'nda bugün elleri ip torbalı , orta tabakadan bayanlar ve baylar .",elleri,bayanlar,13,5,10,6,0.5113359093666077
+Bu sözünde isabet var .,isabet,var,4,3,4,0,0.9997439980506897
+"Hasan'ın gönlünü dolduran sevgi , artık bir istihale devresine giriyor gibiydi .",sevgi,gibiydi,14,5,10,3,0.3889746069908142
+İşte bütün manzara budur !,manzara,budur,3,2,4,0,0.9999494552612305
+İçinde biriken hayat bazen taşacak kadar çok oluyor .,hayat,oluyor,8,2,8,1,0.6787453889846802
+"Her zulmü , kahrı boğmaya bir parça kan yeter .",kan,yeter,10,9,4,0,0.9999364614486694
+Hasta bir haftaya kadar kalkar .,Hasta,kalkar,4,0,5,8,0.9970856308937073
+"O üç kişinin yanı başındaki masaya kalpaklı , poturlu bir adam geldi .",adam,geldi,14,13,4,0,0.9999916553497314
+Ben de boyuna helecan geçirerek konuşmalarına dikkat ediyorum .,Ben,ediyorum,9,0,5,6,0.9966135621070862
+Yetki kanununa karşı gençlerin giriştiği kampanya sade Berlin'e inhisar etmiyor .,kampanya,etmiyor,15,8,8,1,0.8110030293464661
+"Bu , kaplama bir bilezik değil .",Bu,bilezik,4,0,5,8,0.9942570328712463
+"Evlerin bir tarafını yol , üç tarafını da yine çam ormanları kaplar .",yol,kaplar,12,4,4,9,0.12898488342761993
+"Buraya ben kendi kör kaprisimle , kendi irademle geldim .",ben,geldim,12,1,7,8,0.5929179787635803
+O işleri bu saatte karakolda bulunan küçük memurlar bilmez .,memurlar,bilmez,9,8,4,0,0.9997139573097229
+Yemeğin tuzu karar .,tuzu,karar,3,2,4,0,0.9999805688858032
+Başlangıçta birbirimize benzer iki çocukken o kararlılıkla kendini korudu .,o,korudu,9,5,8,3,0.7929844260215759
+Başımın içinde bir sis ve hep ona bağlı karmakarışık hayaller var .,sis,var,14,4,9,2,0.21777965128421783
+Bu sözde kesinlik yok .,kesinlik,yok,3,2,4,1,0.9998974800109863
+Acaba bir akşam ben de aynı kavalyeliği yapamaz mıyım ?,ben,yapamaz,10,3,7,8,0.8882363438606262
+Her cepheden tek mealde bir telgraf geliyor .,telgraf,geliyor,8,7,4,1,0.9999575614929199
+Bazen kelimeler başka anlamlara kayar .,kelimeler,kayar,5,1,8,1,0.9378739595413208
+"Yabancı bir idare , iktisat , ticaret , memleketin bütün kazanç kaynaklarına musallat olur .",idare,olur,13,2,8,3,0.788314163684845
+"Aslında Lale , eski konakları pek bilmez değildi .",Lale,bilmez,7,1,11,2,0.9321942329406738
+"Belki on aile keçelerden , kilimlerden çergelerini meyve ağaçlarının altlarına kurdular .",aile,kurdular,15,2,8,3,0.41925716400146484
+Kendisi gelsin .,Kendisi,gelsin,1,0,4,0,0.9998977184295654
+"Temizlenmeye hiç vakti olmayan kirli iş adamı gibi acı acı ter , kepek , yağ ve toprak kokuyor .",vakti,kokuyor,18,3,7,10,0.2073986977338791
+"Dümen başında kıpırtısız duran adam , hiçbir şey bilmiyor .",adam,bilmiyor,12,8,7,8,0.7071272134780884
+Bana ne oluyor bugün ?,ne,oluyor,2,1,4,0,0.9999943971633911
+Abdülkadir Efendi'nin yazdığı tarih kıtasını aynen buraya geçirmekte bir fayda yok .,fayda,yok,15,14,4,1,0.9988495111465454
+"Kızgın bir demire dökülen damla iz bırakmaz , buhar olur .",damla,olur,11,6,11,0,0.31743329763412476
+O beni sevmez ki !,O,sevmez,2,0,5,8,0.9989656209945679
+Kirkit bıçak sesleri hep bir anda kesildi .,sesleri,kesildi,8,4,9,2,0.588381826877594
+"Biz , kadın , kız ve çocuk , on altı kişilik bir kafile olduk .",Biz,olduk,14,0,5,6,0.9937585592269897
+Kompleksli olan insan bu aşağılık duygusunu örtmek için inadına yüksekten atar .,insan,atar,15,4,7,8,0.9367654323577881
+Bir konsolosluk demek bir millet temsilciliği demektir .,konsolosluk,demektir,7,1,10,11,0.5824905037879944
+Tel koptu .,Tel,koptu,1,0,4,0,0.9999912977218628
+Kimseye göstermedikleri bir kor yanar içlerinde .,kor,yanar,7,6,4,0,0.9997517466545105
+Giderlerini iki ay içinde yerine koydu .,iki,koydu,7,3,8,4,0.5152512788772583
+Bu ses ona şimdi çatlak bir zurnadan çıkan sesler gibi kulak tırmalayıcı geliyordu .,ses,geliyordu,16,1,8,1,0.4319327473640442
+"Yarım okka et , onun elinde bir kurban kadar bereketli .",et,bereketli,11,4,10,10,0.34094059467315674
+Memur tek kelime ile karşılık veriyor .,Memur,veriyor,5,0,5,6,0.9990841150283813
+"İş sahibi bir kuşluk , bir de öğle yemeği veriyordu .",sahibi,veriyordu,10,1,8,3,0.2892009913921356
+Ben bu evi 19. yüzyılda başlayan yaşamını 21. yüzyıla kadar sürdürebildiği için kutsamış oluyorum .,Ben,oluyorum,18,0,5,6,0.9929920434951782
+Ordu kükremiş aslan gibiydi .,Ordu,aslan,4,0,5,6,0.9831042289733887
+Bilmeyenin elinde en modern aletler bir maden külçesi hâline gelir .,aletler,gelir,13,7,8,3,0.42769762873649597
+İşte böyle bir eser onları bu külfetten kurtarmış olur .,eser,olur,11,3,8,1,0.38703835010528564
+Yakın dostlardan birisinin beş beygirlik külüstür bir deniz motoru var .,motoru,var,13,12,4,0,0.9999887943267822
+"Ben yatağımın üstünde , kürkümün içinde soğuktan titreyerek oturuyorum .",Ben,oturuyorum,12,0,5,6,0.9907746911048889
+Şantajcılıkla şarlatanlık arasında lafzen ve maddeten benzerlik var .,benzerlik,var,15,14,4,1,0.9998766183853149
+Ben bir tek odada oturuyorum .,Ben,oturuyorum,4,0,5,8,0.9843719601631165
+"Her köyde mâni , türkü söyleyen biri var .",biri,var,8,7,4,0,0.9994344115257263
+"Biz sevdik , âşık olduk , sevildik , maşuk olduk .",Biz,olduk,4,0,7,8,0.9237024784088135
+Bütün civar köylerde onu sevmeyen yoktu .,sevmeyen,yoktu,5,4,4,0,0.9992115497589111
+Meltemin esmeye başladığı güneyden yavaş yavaş rüzgârsız ölü dalgalar sallana sallana gelmeye koyuldu .,dalgalar,koyuldu,19,13,9,11,0.3020452857017517
+"En sıkı ve katı bir merkeziyet sistemi , diğer faaliyet merkezlerini bloke edebilir .",sistemi,edebilir,13,7,8,3,0.4309273660182953
+"Burada yiyecek , içecek her şey var .",yiyecek,var,6,1,6,1,0.4156753420829773
+Aslında kâğıda gerek yoktu çünkü bütün metni satır satır ezbere biliyordu .,gerek,yoktu,4,3,4,0,0.9999213218688965
+Kısa metrajlı filmler yaklaşık 300-600 metreden uzun olurlar .,filmler,olurlar,10,3,10,0,0.6219048500061035
+Şu kadın milletinin kıskançlığının hiç sonu yok .,sonu,yok,7,6,4,1,0.9994022846221924
+Ben oldum bittim milyoner olmak istiyorum .,Ben,istiyorum,7,0,5,6,0.85654217004776
+"Muhaliflerin , Mecliste ordu aleyhine açtıkları cereyan devam ediyordu .",cereyan,ediyordu,10,8,7,2,0.5538989305496216
+"Al yanaklı elma mı daha önce dalından kopar , yoksa bir sıcak ülkeler güzelinin gözlerine benzeyen mürdüm eriği mi ?",elma,kopar,9,3,4,11,0.37948620319366455
+"Güzel çehreli müsteşar bey , nazır beyin kapıcısından daha alçak gönüllü idi .",bey,idi,17,6,8,5,0.5757060050964355
+"Bunun için sizlere , naçizane , bir tavsiyem olacak .",tavsiyem,olacak,11,10,4,0,0.995322048664093
+"Ne yalan söyleyeyim , be birader , ben doktora nadirattan giderim .",ben,giderim,12,8,7,8,0.5968374013900757
+Zira melal devri uzadığı nispette kuvvetli ve devamlı oluyor .,devri,oluyor,11,3,8,3,0.8738276362419128
+"Köysüz , odsuz ocaksız , sessiz yollarda birdenbire insanlar peyda oluyordu .",insanlar,oluyordu,14,11,7,8,0.766017735004425
+"Bazı kentlerin , insanın üstünde olağanüstü bir etkisi oluyor .",kentlerin,oluyor,8,1,10,11,0.4912407696247101
+Kadın milletinin bu gibi ince hesaplarda olağanüstü bir kabiliyeti var .,milletinin,var,10,1,10,11,0.5743111968040466
+Adam olanı bir defa omuzlamak yeter .,Adam,yeter,6,0,5,6,0.9988100528717041
+"Eskiden böyle şeylere biraz aldırırdım , şimdi on paralık etkisi yok .",etkisi,yok,13,12,4,1,0.9995539784431458
+"Oyuncak değil , mesele çok ciddi .",mesele,ciddi,6,4,7,8,0.9451041221618652
+"Birinci ciltte garip , kaçık , bön , saf gördüğümüz Don Kişot , ikinci ciltte nasihatçi , oldukça muvazeneli bir adam oluyor .",Don,oluyor,27,12,11,2,0.39646485447883606
+"Sormayın , can korkusuyla insan ne yaptığını bilemez .",insan,bilemez,8,5,8,3,0.9482128024101257
+Bir aralık önümüzden şarkı sesleri geldi .,sesleri,geldi,6,5,4,0,0.9997019171714783
+"Ekmek satan yer yokmuş , bir dilim kek alabilmek üzere bir pastacıya giriyorum .",yer,giriyorum,14,3,11,11,0.274673730134964
+Edebiyata edepsizliği onlar soktu .,onlar,soktu,5,4,4,0,0.9999675750732422
+Biz kuru canımıza razıyız diye peşimizden geliyordu .,Biz,geliyordu,10,0,5,6,0.9865269064903259
+"O , pos bıyıklı , bahçıvan kılıklı birinin başını tıraş ediyordu .",O,ediyordu,14,0,5,6,0.9986667633056641
+Akşam televizyonda tek bir güzel program yoktu,program,yoktu,6,5,4,0,0.999809205532074
+Gırtlağımı yırtarcasına haykırırken odaya efendim pürtelaş girdi .,efendim,girdi,14,10,9,3,0.9449849724769592
+"Kral , meclis kararlarını reddetmeye mi , erteletmeye mi salahiyetli olacak ?",Kral,olacak,16,0,5,6,0.9832606911659241
+"Kaçılın , araba geliyor .",araba,geliyor,5,4,4,0,0.9999796152114868
+Olaylar zinciri bu savunuyu haklı çıkaracak nitelikte değildir .,zinciri,nitelikte,8,2,7,8,0.48878589272499084
+Havada bir tek bulut yok .,bulut,yok,5,4,4,1,0.9992743134498596
+Bu vakit kim gelecek ?,kim,gelecek,3,2,4,0,0.9999943971633911
+"Mahallede duvar kenarlarında siftinip pinekleyen uyuz , kör , topal köpeklerden başka kimse yoktur .",kimse,yoktur,22,21,4,0,0.9991005659103394
+"Sakalının rengi kınaya , kokusu sirkelenmiş tarçına benzer .",rengi,benzer,13,3,8,1,0.8423051834106445
+"Ali gitmem , dedi mi gitmez .",Ali,gitmez,5,0,5,6,0.9723897576332092
+"Vals , kankan ve striptiz devri böylece sona erdi .",devri,erdi,12,9,8,2,0.44942405819892883
+Koca bir tarihin tutuştuğu çöllerde susuz yanan insanların çatlak dudaklarında temaşa ediyoruz .,tarihin,ediyoruz,16,2,8,0,0.3883674144744873
+Altımdaki beygir acı acı kişneyerek şahlanır gibi oldu .,beygir,oldu,12,3,10,0,0.9600059986114502
+Misafirlerin girmesiyle birçok şampanya şişesinin patlaması bir oldu .,bir,oldu,10,3,7,5,0.3770740032196045
+"O şıpsevdinin biridir , herkese âşık olur .",O,olur,9,0,5,6,0.9056479930877686
+Burada herkes kendi gönlünden olduğu kadar bu tabiatın içinden gelen bir şiiri dinler .,herkes,dinler,14,1,8,3,0.9592752456665039
+Hasılı orada da bizdeki gibi bir armağan enflasyonu var .,enflasyonu,var,11,10,4,0,0.9999799728393555
+Eğer sürmenin üstüne bunu sürmezsen renk tabii olmaz .,renk,olmaz,10,8,10,0,0.9399638772010803
+Küçük bir değişiklikle bu şarkının tek mısrasında herkes kendini bulabilir .,herkes,bulabilir,11,9,7,8,0.9679677486419678
+Hayatında ilk ve son defa başvurduğu taktik de bu oldu .,taktik,oldu,10,7,2,11,0.4982016086578369
+"Yalnız bir tanesi , en ziyade parasına meftun olan biri onunla izdivaca talip oldu .",tanesi,oldu,17,2,8,10,0.7738580107688904
+"Ben arkadaşını tanımam , alacağımı senden isterim .",Ben,isterim,8,0,5,6,0.9800828099250793
+Bizde on beş yıldır teftiş görmemiş daireler var .,daireler,var,7,6,4,0,0.9992796778678894
+"Bu telkin günlerce , haftalarca devam etti .",telkin,etti,7,1,9,2,0.8026391267776489
+"O günlerde , atlar tepişecek diyordu .",atlar,diyordu,7,3,10,0,0.8039904236793518
+Adam yüze yüze geldi ve bir maymun çevikliğiyle küpeşteye tırmanıp güverteye atıldı .,Adam,geldi,3,0,5,8,0.9878534078598022
+Bu gemi iki bin tonilatodan fazla alamaz .,gemi,alamaz,9,1,8,1,0.8956878781318665
+"Bu engin ruh , bu tükenmez azim , Türk milletinin varlık sebebidir .",ruh,sebebidir,12,2,10,3,0.2447815239429474
+Alnında bir yumru var .,yumru,var,5,4,4,1,0.9982557892799377
+"Nitekim bilge bunu açıkça söylemekle kalmaz , tamı tamına uygular da .",bilge,uygular,12,1,7,8,0.8136825561523438
+İhtiyarın ona yasakladığı üç beş şeyden birisi de buydu .,birisi,buydu,10,8,4,1,0.8177498579025269
+"Allah'ım , sen koru Muhammed ümmetini bu eşkıyanın zulmünden .",sen,koru,5,4,4,1,0.9987403750419617
+"Usta , ellerinin yağını üstüpüye silerken soruyor .",Usta,soruyor,10,0,5,6,0.9930000305175781
+"Bu bir vakıadır , inkâr edilemez .",Bu,edilemez,7,0,5,6,0.9865506887435913
+Hayat pahalılığı arttıkça işçi gündeliklerine yeni zam istekleri gelecek .,istekleri,gelecek,10,9,4,0,0.9994019269943237
+Şu parayı al da ben vekilharçlıktan isterim .,ben,isterim,9,4,3,0,0.6242082118988037
+"İpek mavi yorgan , düzgün bir biçimde verevine katlanmış , yarı yarıya açık duruyordu .",yorgan,duruyordu,16,3,9,7,0.5637009739875793
+Yağın içinde yabancı maddeler var .,maddeler,var,5,4,4,0,0.9999986886978149
+Yabancı arabalar buraya park edemez .,arabalar,edemez,4,1,7,8,0.7930417060852051
+Yakınlarda lokanta var mı ?,lokanta,var,3,2,4,0,0.99973064661026
+"Petrol arıtımında asfalt , yan ürünlerden biridir .",asfalt,biridir,7,3,8,3,0.6313508749008179
+Ben adamı ne yaparım biliyor musun ?,Ben,biliyor,4,0,5,8,0.9868088960647583
+Bu baklavada elli yaprak var .,yaprak,var,5,4,4,0,0.9999909400939941
+"Sertleşmeyi bilmeyen bir iyilik , iyilik olmakta ısrar eden bir iyilik neye yarar ?",iyilik,yarar,14,5,11,6,0.20215873420238495
+Ertesi günü bazı gazeteler bu haberin bir noktasını yarı resmî bir ağızla tekzip ettiler .,gazeteler,ettiler,15,3,8,3,0.8314829468727112
+"Sonra arkasından lokma filan dökmek değil , bir Yasin , bir Fatihacık bile okuyan bulunmaz .",okuyan,bulunmaz,16,15,4,0,0.9900104403495789
+Trenlerde henüz yataklı vagon ve lokanta yoktu .,vagon,yoktu,8,5,10,0,0.6346499919891357
+Ben onun yedi gömlek uzak adamlarından biriyim .,Ben,biriyim,6,0,5,8,0.987588107585907
+Yedi mahalle duydu .,mahalle,duydu,2,1,4,0,0.9999727010726929
+Midede gaz olmak .,gaz,olmak,4,3,4,0,0.9999969005584717
+"Ben , bizde yılbaşını kutlulamak diye bir görenek olduğunu bilmiyorum .",Ben,bilmiyorum,11,0,5,6,0.9934917092323303
+"Yok , doğrusu iyi adam , kim ne derse desin .",kim,desin,9,6,6,9,0.5143438577651978
+"Efendim , yontulmamış adamlar , hani dört yaşındaki çocuktan berbat .",adamlar,berbat,12,6,11,1,0.4635007381439209
+Günün belirli saatlerindeyse ezan sesi gizemci yönsemelere çağırıp durur .,sesi,durur,13,5,8,1,0.47784048318862915
+"Yürü bakkallar paşası yürü , yuf borusu seni bekliyor .",borusu,bekliyor,11,9,8,1,0.4521997272968292
+"Mademki öyledir , bir yük getirip satan herkes iki akçe versin .",herkes,versin,13,9,3,8,0.6349644660949707
+"Tıraştan sonra da bıyık , sakal yerleri belli olurdu .",yerleri,olurdu,12,10,11,10,0.6465280652046204
+"O , yine de sevenler zümresine olan bağını muhafaza eder .",O,eder,11,0,5,8,0.9943615198135376
+Güreşte ona çıkacak kimse yok .,kimse,yok,6,5,4,0,0.9998248219490051
+Evin ikinci katını çıkmadan havalar bozuldu .,havalar,bozuldu,5,4,4,0,0.999887228012085
+Eylül sonunda ruhunu teslim eden heves / Can bulmak üzredir yeni baştan bahar ile,heves,bulmak,8,5,0,6,0.44249165058135986
+"Daha çoğunu istemeye kalkarsa iş değişir o zaman ; buna çizmeden yukarı çıkmak denir , herkes haddini bilmeli .",herkes,bilmeli,19,17,8,3,0.9457468390464783
+"Biz edebiyat yapmıyoruz , gazetecilik ediyoruz , modern gazetecilik !",Biz,ediyoruz,6,0,7,5,0.9408504962921143
+Üvey annesi kalp yerine taş taşıdığından eziyet üstüne eziyet ederdi el kadar yetime .,annesi,ederdi,11,2,11,10,0.7487626671791077
+Elmas gibi kalbi var .,kalbi,var,4,3,4,0,0.9995336532592773
+Bin türlü dedikodu içinde ben oraya gelin gittim .,ben,gittim,7,4,3,0,0.7539549469947815
+Çocuklara yemiş getirenin haddi hesabı yok .,haddi,yok,7,5,9,2,0.5250422358512878
+Her ikisi de vahşi hayvanlarla haşır neşir olur .,ikisi,olur,10,1,7,8,0.6269770264625549
+"Lakin siz , yine sabaha kadar kalacakmışız gibi idare edin mumu .",siz,edin,12,2,7,8,0.44830945134162903
+Dal çürük çıktı mı otuz metreden düşen iflah olmuyor artık .,Dal,olmuyor,9,0,5,6,0.9224917888641357
+Gecikme korkusuyla herkes itişip kakışmakta ise kimsenin aklına gelmez konuşmak .,herkes,gelmez,14,4,8,3,0.5073366761207581
+Onu içine düşürdüğüm kötü durum da böylece kafama dank etmiş oldu .,durum,oldu,12,5,8,1,0.32184410095214844
+"Oysa ben karımı hatırlatacak her şeyden kurtulmak , yaşamımın ona ait bölümünü kesip atmak istiyordum .",ben,istiyordum,17,1,3,0,0.5066635608673096
+Hiçbir maksat gütmeyerek yaptığım bu ufak tefek hizmetler boşa gitti .,hizmetler,gitti,10,8,8,3,0.9371352791786194
+"Dünyada en birinci zevk ruzname tutmaktır , derdi .",zevk,derdi,10,3,10,0,0.6097366213798523
+"O , biraz da bana yardım olsun diye , mektepteki Amerika'dan gelen gazeteleri toplar , getirir , bu işe şekil verirdi .",O,toplar,16,0,5,8,0.9991057515144348
+Ben de bu sayede biraz uyku kestirip kuvvetimi telafi ettim .,Ben,ettim,12,0,5,6,0.9991374015808105
