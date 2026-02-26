@@ -96,6 +96,7 @@ config <- list(
   output_assumptions_txt = "scripts/power/exp2_power_assumptions_report.txt",
   output_pilot_accuracy_csv = "scripts/power/exp2_power_pilot_accuracy.csv",
   output_assumed_cells_csv = "scripts/power/exp2_power_assumed_cells.csv",
+  output_attraction_effects_csv = "scripts/power/exp2_power_attraction_effects.csv",
   output_scale_sensitivity_csv = "scripts/power/exp2_power_scale_sensitivity.csv",
   output_prior_params_csv = "scripts/power/exp2_power_prior_parameters.csv",
   output_min_n_csv = "scripts/power/exp2_power_min_n_80.csv"
@@ -193,6 +194,7 @@ print_assumptions <- function(assumptions, config) {
   cat("Assumptions text export:", config$output_assumptions_txt, "\n")
   cat("Pilot accuracy export:", config$output_pilot_accuracy_csv, "\n")
   cat("Assumed cells export:", config$output_assumed_cells_csv, "\n")
+  cat("Attraction effects export:", config$output_attraction_effects_csv, "\n")
   cat("Scale sensitivity export:", config$output_scale_sensitivity_csv, "\n")
   cat("Prior parameters export:", config$output_prior_params_csv, "\n")
   cat("Minimum-N export:", config$output_min_n_csv, "\n")
@@ -1105,6 +1107,7 @@ output_plot <- resolve_output_path(config$output_plot)
 output_assumptions_txt <- resolve_output_path(config$output_assumptions_txt)
 output_pilot_accuracy_csv <- resolve_output_path(config$output_pilot_accuracy_csv)
 output_assumed_cells_csv <- resolve_output_path(config$output_assumed_cells_csv)
+output_attraction_effects_csv <- resolve_output_path(config$output_attraction_effects_csv)
 output_scale_sensitivity_csv <- resolve_output_path(config$output_scale_sensitivity_csv)
 output_prior_params_csv <- resolve_output_path(config$output_prior_params_csv)
 output_min_n_csv <- resolve_output_path(config$output_min_n_csv)
@@ -1112,6 +1115,7 @@ output_min_n_csv <- resolve_output_path(config$output_min_n_csv)
 write_csv(power_results, output_csv)
 write_csv(walkthrough_artifacts$pilot_accuracy, output_pilot_accuracy_csv)
 write_csv(walkthrough_artifacts$assumed_cells, output_assumed_cells_csv)
+write_csv(walkthrough_artifacts$attraction_effects, output_attraction_effects_csv)
 write_csv(walkthrough_artifacts$scale_sensitivity, output_scale_sensitivity_csv)
 
 prior_param_tbl <- tibble(
@@ -1151,6 +1155,8 @@ assumptions_report_lines <- capture.output({
   print(walkthrough_artifacts$pilot_accuracy %>% mutate(across(where(is.numeric), ~ round(.x, 3))))
   cat("\nAssumed model cell accuracies:\n")
   print(walkthrough_artifacts$assumed_cells %>% mutate(across(where(is.numeric), ~ round(.x, 3))))
+  cat("\nAttraction effects (AttractorMatch - NoMatch):\n")
+  print(walkthrough_artifacts$attraction_effects %>% mutate(across(where(is.numeric), ~ round(.x, 3))))
   cat("\nScale sensitivity:\n")
   print(walkthrough_artifacts$scale_sensitivity %>% mutate(across(where(is.numeric), ~ round(.x, 3))))
   cat("\nPrior means (log-odds / SD scale):\n")
@@ -1165,6 +1171,7 @@ writeLines(assumptions_report_lines, output_assumptions_txt)
 cat("Saved assumptions report to:", output_assumptions_txt, "\n")
 cat("Saved pilot accuracy table to:", output_pilot_accuracy_csv, "\n")
 cat("Saved assumed cells table to:", output_assumed_cells_csv, "\n")
+cat("Saved attraction effects table to:", output_attraction_effects_csv, "\n")
 cat("Saved scale sensitivity table to:", output_scale_sensitivity_csv, "\n")
 cat("Saved prior parameter table to:", output_prior_params_csv, "\n")
 cat("Saved min-N table to:", output_min_n_csv, "\n")
