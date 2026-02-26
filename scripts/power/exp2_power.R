@@ -10,10 +10,10 @@
 #
 # Design simulated:
 #   - Case: gen vs nom
-#   - Match: targetMatch vs attractorMatch
+#   - Match: noMatch vs targetMatch vs attractorMatch
 #   - Position: subject vs object
 #
-# Attraction is the targetMatch vs attractorMatch contrast on response_yes.
+# Attraction is the attractorMatch - noMatch contrast on response_yes.
 # =============================================================================
 
 suppressPackageStartupMessages({
@@ -91,6 +91,8 @@ config <- list(
   cores = 4,
   threads = 8,
   alpha = assumptions$alpha,
+  pilot_data_path = Sys.getenv("EXP2_PILOT_DATA", unset = ""),
+  output_base_dir = Sys.getenv("EXP2_OUTPUT_DIR", unset = ""),
   output_csv = "scripts/power/exp2_power_results_accuracy_brms.csv",
   output_plot = "scripts/power/exp2_power_curve_accuracy_brms.png",
   output_assumptions_txt = "scripts/power/exp2_power_assumptions_report.txt",
@@ -111,37 +113,93 @@ safe_prob <- function(x, eps = 1e-4) {
   pmin(pmax(x, eps), 1 - eps)
 }
 
-resolve_data_path <- function() {
-  candidates <- c(
-    file.path("data", "experiment", "Data59participants.csv"),
-    file.path("..", "..", "data", "experiment", "Data59participants.csv")
+is_absolute_path <- function(path) {
+  grepl("^(/|[A-Za-z]:[\\\\/])", path)
+}
+
+get_script_path <- function() {
+  args <- commandArgs(trailingOnly = FALSE)
+  file_arg <- grep("^--file=", args, value = TRUE)
+  if (length(file_arg) == 0) {
+    return(NA_character_)
+  }
+
+  normalizePath(
+    sub("^--file=", "", file_arg[1]),
+    winslash = "/",
+    mustWork = FALSE
   )
+}
+
+infer_project_root <- function(script_path) {
+  if (!is.na(script_path) && nzchar(script_path)) {
+    root_from_script <- normalizePath(
+      file.path(dirname(script_path), "..", ".."),
+      winslash = "/",
+      mustWork = FALSE
+    )
+    if (dir.exists(root_from_script)) {
+      return(root_from_script)
+    }
+  }
+
+  normalizePath(getwd(), winslash = "/", mustWork = FALSE)
+}
+
+resolve_data_path <- function(project_root, explicit_path = "", script_path = NA_character_) {
+  explicit_candidate <- explicit_path
+  if (nzchar(explicit_candidate) && !is_absolute_path(explicit_candidate)) {
+    explicit_candidate <- file.path(project_root, explicit_candidate)
+  }
+
+  candidates <- c(
+    explicit_candidate,
+    file.path(project_root, "data", "experiment", "Data59participants.csv"),
+    file.path(project_root, "..", "data", "experiment", "Data59participants.csv")
+  )
+  candidates <- unique(candidates[nzchar(candidates)])
 
   hit <- candidates[file.exists(candidates)][1]
   if (is.na(hit)) {
     stop(
-      "Could not find Data59participants.csv from current working directory."
+      paste0(
+        "Could not find Data59participants.csv.\n",
+        "Tried these paths:\n - ",
+        paste(candidates, collapse = "\n - "),
+        "\nWorking directory: ",
+        normalizePath(getwd(), winslash = "/", mustWork = FALSE),
+        "\nScript path: ",
+        ifelse(is.na(script_path), "<unknown>", script_path),
+        "\nProject root used: ",
+        project_root,
+        "\nTip: set EXP2_PILOT_DATA to an absolute CSV path."
+      )
     )
   }
 
-  hit
+  normalizePath(hit, winslash = "/", mustWork = TRUE)
 }
 
-resolve_output_path <- function(path) {
-  candidates <- c(
-    path,
-    basename(path),
-    file.path("..", "..", path)
-  )
-
-  for (cand in candidates) {
-    out_dir <- dirname(cand)
-    if (out_dir == "." || dir.exists(out_dir)) {
-      return(cand)
+resolve_output_path <- function(path, project_root, output_base_dir = "") {
+  out <- path
+  if (!is_absolute_path(path)) {
+    if (nzchar(output_base_dir)) {
+      base_dir <- output_base_dir
+      if (!is_absolute_path(base_dir)) {
+        base_dir <- file.path(project_root, base_dir)
+      }
+      out <- file.path(base_dir, basename(path))
+    } else {
+      out <- file.path(project_root, path)
     }
   }
 
-  path
+  out_dir <- dirname(out)
+  if (!dir.exists(out_dir)) {
+    dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+  }
+
+  normalizePath(out, winslash = "/", mustWork = FALSE)
 }
 
 print_assumptions <- function(assumptions, config) {
@@ -191,6 +249,16 @@ print_assumptions <- function(assumptions, config) {
   cat("Sample sizes:", paste(config$sample_sizes, collapse = ", "), "\n")
   cat("Simulations per N:", config$n_simulations, "\n")
   cat("Item sets:", config$n_item_sets, "\n")
+  cat(
+    "Pilot data override (EXP2_PILOT_DATA):",
+    ifelse(nzchar(config$pilot_data_path), config$pilot_data_path, "<auto>"),
+    "\n"
+  )
+  cat(
+    "Output base override (EXP2_OUTPUT_DIR):",
+    ifelse(nzchar(config$output_base_dir), config$output_base_dir, "<project root>"),
+    "\n"
+  )
   cat("Assumptions text export:", config$output_assumptions_txt, "\n")
   cat("Pilot accuracy export:", config$output_pilot_accuracy_csv, "\n")
   cat("Assumed cells export:", config$output_assumed_cells_csv, "\n")
@@ -1034,7 +1102,19 @@ plot_power <- function(power_results, sample_sizes, n_simulations) {
 # ---------------------------- Main --------------------------------------------
 print_assumptions(assumptions, config)
 
-pilot_path <- resolve_data_path()
+script_path <- get_script_path()
+project_root <- infer_project_root(script_path)
+pilot_path <- resolve_data_path(
+  project_root = project_root,
+  explicit_path = config$pilot_data_path,
+  script_path = script_path
+)
+
+cat("Runtime working directory:", normalizePath(getwd(), winslash = "/", mustWork = FALSE), "\n")
+cat("Runtime script path:", ifelse(is.na(script_path), "<unknown>", script_path), "\n")
+cat("Runtime project root:", project_root, "\n")
+cat("Resolved pilot data path:", pilot_path, "\n\n")
+
 pilot_data <- load_pilot_data(pilot_path)
 pilot <- estimate_pilot_effects(pilot_data, assumptions)
 
@@ -1102,15 +1182,43 @@ power_results <- map_dfr(config$sample_sizes, function(n_subs) {
   )
 })
 
-output_csv <- resolve_output_path(config$output_csv)
-output_plot <- resolve_output_path(config$output_plot)
-output_assumptions_txt <- resolve_output_path(config$output_assumptions_txt)
-output_pilot_accuracy_csv <- resolve_output_path(config$output_pilot_accuracy_csv)
-output_assumed_cells_csv <- resolve_output_path(config$output_assumed_cells_csv)
-output_attraction_effects_csv <- resolve_output_path(config$output_attraction_effects_csv)
-output_scale_sensitivity_csv <- resolve_output_path(config$output_scale_sensitivity_csv)
-output_prior_params_csv <- resolve_output_path(config$output_prior_params_csv)
-output_min_n_csv <- resolve_output_path(config$output_min_n_csv)
+output_csv <- resolve_output_path(config$output_csv, project_root, config$output_base_dir)
+output_plot <- resolve_output_path(config$output_plot, project_root, config$output_base_dir)
+output_assumptions_txt <- resolve_output_path(
+  config$output_assumptions_txt,
+  project_root,
+  config$output_base_dir
+)
+output_pilot_accuracy_csv <- resolve_output_path(
+  config$output_pilot_accuracy_csv,
+  project_root,
+  config$output_base_dir
+)
+output_assumed_cells_csv <- resolve_output_path(
+  config$output_assumed_cells_csv,
+  project_root,
+  config$output_base_dir
+)
+output_attraction_effects_csv <- resolve_output_path(
+  config$output_attraction_effects_csv,
+  project_root,
+  config$output_base_dir
+)
+output_scale_sensitivity_csv <- resolve_output_path(
+  config$output_scale_sensitivity_csv,
+  project_root,
+  config$output_base_dir
+)
+output_prior_params_csv <- resolve_output_path(
+  config$output_prior_params_csv,
+  project_root,
+  config$output_base_dir
+)
+output_min_n_csv <- resolve_output_path(
+  config$output_min_n_csv,
+  project_root,
+  config$output_base_dir
+)
 
 write_csv(power_results, output_csv)
 write_csv(walkthrough_artifacts$pilot_accuracy, output_pilot_accuracy_csv)
