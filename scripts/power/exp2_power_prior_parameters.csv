@@ -1,0 +1,15 @@
+parameter,prior_mean,prior_sd
+intercept,-1.0629062404490774,0.5
+b_case_nom,-0.616032215809579,0.3
+b_match_target,2.155997811665508,0.3
+b_match_attr,0.33823642255146813,0.3
+b_pos_obj,0,0.3
+b_case_nom_target,0.9326000802630675,0.3
+b_case_nom_match,0.22579062400036382,0.3
+b_case_nom_pos,0,0.3
+b_match_target_pos,0,0.3
+b_match_pos,-0.13529456902058726,0.3
+b_case_nom_target_pos,0,0.3
+b_threeway,-0.09031624960014553,0.3
+sd_subject,0.7730569560633045,0.2
+sd_item,0.5288931359922358,0.1

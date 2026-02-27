@@ -1,0 +1,116 @@
+
+================ ASSUMPTIONS / PRIORS ================
+Model fitting: Bayesian GLMM via brms (Bernoulli-logit)
+Baseline cell: case=gen, match=targetMatch, position=subject 
+Attraction contrast: AttractorMatch - NoMatch
+Object attraction scale: 0.6 
+Object attraction scale grid (sensitivity): 0.4, 0.5, 0.6, 0.7, 0.8 
+Object main effect (log-odds): 0 
+Assumed position effect on TargetMatch (log-odds): 0.00
+Assumed position effect on NoMatch (log-odds): 0.00
+Case x Position effect (log-odds): 0 
+Prior SD intercept: 0.5 
+Prior SD fixed effects: 0.3 
+Prior SDs for RE-SD means (subject/item): 0.2 / 0.1 
+Fallback RE SD centers (subject/item): 0.7 / 0.35 
+Alpha: 0.05 
+Sample sizes: 80, 120, 160, 200 
+Simulations per N: 1000 
+Item sets: 24 
+Pilot data override (EXP2_PILOT_DATA): /home/uturk_umass_edu/nom-vs-gen-attraction/data/experiment/Data59participants.csv 
+Output base override (EXP2_OUTPUT_DIR): /home/uturk_umass_edu/nom-vs-gen-attraction/scripts/power 
+Assumptions text export: scripts/power/exp2_power_assumptions_report.txt 
+Pilot accuracy export: scripts/power/exp2_power_pilot_accuracy.csv 
+Assumed cells export: scripts/power/exp2_power_assumed_cells.csv 
+Attraction effects export: scripts/power/exp2_power_attraction_effects.csv 
+Scale sensitivity export: scripts/power/exp2_power_scale_sensitivity.csv 
+Prior parameters export: scripts/power/exp2_power_prior_parameters.csv 
+Minimum-N export: scripts/power/exp2_power_min_n_80.csv 
+MCMC: chains=4, iter=8000, warmup=4000, threads=8
+=====================================================
+
+
+================ EFFECT WALKTHROUGH ==================
+Pilot source for fixed effects: pilot_glmm 
+Attraction definition used here: AttractorMatch - NoMatch
+
+Observed pilot accuracy (Yes-rate):
+# A tibble: 6 × 5
+  case  match          n_trials p_yes accuracy_percent
+  <fct> <fct>             <dbl> <dbl>            <dbl>
+1 gen   noMatch             236 0.292             29.2
+2 gen   targetMatch         236 0.72              72.0
+3 gen   attractorMatch      236 0.343             34.3
+4 nom   noMatch             236 0.186             18.6
+5 nom   targetMatch         236 0.763             76.3
+6 nom   attractorMatch      236 0.284             28.4
+
+Assumed model cell accuracies:
+# A tibble: 12 × 6
+   case  position match             eta p_yes accuracy_percent
+   <chr> <chr>    <chr>           <dbl> <dbl>            <dbl>
+ 1 gen   subject  noMatch        -1.06  0.257             25.7
+ 2 gen   subject  targetMatch     1.09  0.749             74.9
+ 3 gen   subject  attractorMatch -0.725 0.326             32.6
+ 4 gen   object   noMatch        -1.06  0.257             25.7
+ 5 gen   object   targetMatch     1.09  0.749             74.9
+ 6 gen   object   attractorMatch -0.86  0.297             29.7
+ 7 nom   subject  noMatch        -1.68  0.157             15.7
+ 8 nom   subject  targetMatch     1.41  0.804             80.4
+ 9 nom   subject  attractorMatch -1.12  0.247             24.7
+10 nom   object   noMatch        -1.68  0.157             15.7
+11 nom   object   targetMatch     1.41  0.804             80.4
+12 nom   object   attractorMatch -1.34  0.207             20.7
+
+Attraction effects (AttractorMatch - NoMatch):
+# A tibble: 3 × 2
+  effect                               logodds
+  <chr>                                  <dbl>
+1 subject_gen_attraction_attr_minus_no   0.338
+2 subject_nom_attraction_attr_minus_no   0.564
+3 object_gen_attraction_attr_minus_no    0.203
+
+Scale sensitivity:
+# A tibble: 5 × 11
+  scale subject_gen_logodds object_gen_logodds subject_nom_logodds
+  <dbl>               <dbl>              <dbl>               <dbl>
+1   0.4               0.338              0.135               0.564
+2   0.5               0.338              0.169               0.564
+3   0.6               0.338              0.203               0.564
+4   0.7               0.338              0.237               0.564
+5   0.8               0.338              0.271               0.564
+# ℹ 7 more variables: subject_gen_nomatch_yes <dbl>,
+#   subject_gen_attractor_yes <dbl>, subject_gen_attr_minus_no_pp <dbl>,
+#   object_gen_nomatch_yes <dbl>, object_gen_target_yes <dbl>,
+#   object_gen_attractor_yes <dbl>, object_gen_attr_minus_no_pp <dbl>
+
+Prior means (log-odds / SD scale):
+            intercept            b_case_nom        b_match_target 
+               -1.063                -0.616                 2.156 
+         b_match_attr             b_pos_obj     b_case_nom_target 
+                0.338                 0.000                 0.933 
+     b_case_nom_match        b_case_nom_pos    b_match_target_pos 
+                0.226                 0.000                 0.000 
+          b_match_pos b_case_nom_target_pos            b_threeway 
+               -0.135                 0.000                -0.090 
+           sd_subject               sd_item 
+                0.773                 0.529 
+
+Prior SDs:
+            intercept            b_case_nom        b_match_target 
+                  0.5                   0.3                   0.3 
+         b_match_attr             b_pos_obj     b_case_nom_target 
+                  0.3                   0.3                   0.3 
+     b_case_nom_match        b_case_nom_pos    b_match_target_pos 
+                  0.3                   0.3                   0.3 
+          b_match_pos b_case_nom_target_pos            b_threeway 
+                  0.3                   0.3                   0.3 
+           sd_subject               sd_item 
+                  0.2                   0.1 
+
+Minimum N for 80% power:
+# A tibble: 1 × 10
+  contrast  power mean_estimate mean_true sd_true    bias coverage mean_ci_width
+  <chr>     <dbl>         <dbl>     <dbl>   <dbl>   <dbl>    <dbl>         <dbl>
+1 attracti…   0.8         0.460     0.459   0.339 0.00110    0.951         0.425
+# ℹ 2 more variables: n_sims <int>, n_participants <dbl>

@@ -1,0 +1,2 @@
+contrast,power,mean_estimate,mean_true,sd_true,bias,coverage,mean_ci_width,n_sims,n_participants
+attraction_subject_avg,0.8,0.4599544926420473,0.45885371193902785,0.3386526320741133,0.0011007807030194564,0.951,0.42544467038091754,1000,200
